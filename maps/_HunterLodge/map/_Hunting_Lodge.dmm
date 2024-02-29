@@ -166,7 +166,7 @@
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "aP" = (
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
 "aR" = (
@@ -510,7 +510,7 @@
 	dir = 1;
 	icon_state = "railing0"
 	},
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
 "cK" = (
@@ -630,7 +630,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "do" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /obj/structure/invislight,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
@@ -1025,7 +1025,7 @@
 /turf/simulated/floor/wood/wild2,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "fu" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/hunting_lodge)
 "fv" = (
@@ -1722,7 +1722,7 @@
 /turf/simulated/floor/beach/water/shallow,
 /area/nadezhda/outside/forest/hunting_lodge)
 "jM" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
 "jO" = (
@@ -1803,7 +1803,7 @@
 /turf/simulated/floor/beach/water/shallow,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kw" = (
-/obj/structure/flora/big/rock/rocks3,
+/obj/structure/flora/big/rock/rocks,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kz" = (
@@ -1874,7 +1874,7 @@
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "mc" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/flora/small/rock/trailrocka3{
+/obj/structure/flora/small/rock/trailrock1{
 	name = "charcoal"
 	},
 /obj/structure/bonfire/permanent,
@@ -1888,7 +1888,7 @@
 /turf/simulated/floor/wood,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "mm" = (
-/obj/structure/flora/big/rock/rocks1,
+/obj/structure/flora/big/rock/rocks,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/hunting_lodge)
 "mo" = (
@@ -2117,7 +2117,7 @@
 /turf/simulated/floor/wood/wild1,
 /area/nadezhda/outside/forest/hunting_lodge)
 "oP" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/hunting_lodge)
 "oU" = (
@@ -2212,7 +2212,7 @@
 /turf/simulated/floor/wood/wild3,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "qs" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /obj/random/flora/jungle_tree,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
@@ -2408,7 +2408,7 @@
 /turf/simulated/floor/wood,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "tm" = (
-/obj/structure/flora/big/rock/rocks2,
+/obj/structure/flora/big/rock/rocks,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
 "tn" = (
@@ -3482,7 +3482,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "Gz" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
 "GB" = (
@@ -3619,7 +3619,7 @@
 /turf/simulated/floor/wood,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "IN" = (
-/obj/structure/flora/small/rock/lavarock2,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/outside/forest/hunting_lodge)
 "IO" = (
@@ -3889,7 +3889,7 @@
 /turf/simulated/floor/wood/wild3,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "Nc" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /obj/structure/invislight,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
@@ -4153,7 +4153,7 @@
 /turf/simulated/floor/tiled/white,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "QH" = (
-/obj/structure/flora/small/rock/lavarock1,
+/obj/structure/flora/small/rock/lavarock,
 /obj/structure/railing{
 	layer = 4.1
 	},
@@ -4277,7 +4277,7 @@
 /turf/simulated/floor/wood/wild2,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "St" = (
-/obj/structure/flora/small/rock/lavarock1,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/outside/forest/hunting_lodge)
 "Sy" = (
@@ -4622,7 +4622,7 @@
 	anchored = 1;
 	dir = 4
 	},
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
 "XO" = (

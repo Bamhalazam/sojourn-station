@@ -14,7 +14,7 @@
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "ad" = (
-/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "ae" = (
@@ -34,7 +34,7 @@
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "ah" = (
-/obj/structure/flora/small/grass/grassb5,
+/obj/structure/flora/small/grass/grassb,
 /obj/item/ammo_casing,
 /obj/random/mob/psi_monster/low_chance,
 /turf/simulated/floor/fixed/fgrass,
@@ -65,7 +65,7 @@
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "ao" = (
-/obj/structure/flora/small/grass/grassb3,
+/obj/structure/flora/small/grass/grassb,
 /obj/effect/decal/cleanable/blood,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
@@ -76,7 +76,7 @@
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aq" = (
-/obj/structure/flora/small/grass/grassa5,
+/obj/structure/flora/small/grass/grassa,
 /obj/item/ammo_casing,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
@@ -92,7 +92,7 @@
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "at" = (
-/obj/structure/flora/small/grass/grassb5,
+/obj/structure/flora/small/grass/grassb,
 /obj/item/ammo_casing,
 /obj/item/ammo_casing,
 /obj/item/ammo_casing,
@@ -100,8 +100,8 @@
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "au" = (
-/obj/structure/flora/small/grass/grassb5,
-/obj/structure/flora/small/grass/grassb3,
+/obj/structure/flora/small/grass/grassb,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "av" = (
@@ -134,15 +134,15 @@
 /turf/simulated/floor/tiled/dark,
 /area/deepmaint)
 "aA" = (
-/obj/structure/flora/small/grass/grassa3,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aB" = (
-/obj/structure/flora/small/grass/grassb1,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aC" = (
-/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/grass/grassa,
 /obj/item/ammo_casing,
 /obj/item/ammo_casing,
 /obj/item/ammo_casing,
@@ -166,12 +166,12 @@
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aH" = (
-/obj/structure/flora/small/grass/grassb2,
+/obj/structure/flora/small/grass/grassb,
 /obj/random/cluster/psi_monster/lower_chance,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aI" = (
-/obj/structure/flora/small/grass/grassb1,
+/obj/structure/flora/small/grass/grassb,
 /obj/item/ammo_casing,
 /obj/item/ammo_casing,
 /obj/item/ammo_casing,
@@ -182,7 +182,7 @@
 /turf/simulated/wall/r_wall,
 /area/deepmaint)
 "aK" = (
-/obj/structure/flora/small/grass/grassb3,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aL" = (
@@ -200,7 +200,7 @@
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aO" = (
-/obj/structure/flora/small/grass/grassa5,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aP" = (
@@ -232,18 +232,18 @@
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aU" = (
-/obj/structure/flora/small/grass/grassb5,
+/obj/structure/flora/small/grass/grassb,
 /obj/item/ammo_casing,
 /obj/item/ammo_casing,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aV" = (
-/obj/structure/flora/small/grass/grassb1,
-/obj/structure/flora/small/grass/grassb3,
+/obj/structure/flora/small/grass/grassb,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aW" = (
-/obj/structure/flora/small/grass/grassa4,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aX" = (
@@ -251,11 +251,11 @@
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aY" = (
-/obj/structure/flora/small/grass/grassb5,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)
 "aZ" = (
-/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/grass/grassa,
 /obj/item/ammo_casing,
 /turf/simulated/floor/fixed/fgrass,
 /area/deepmaint)

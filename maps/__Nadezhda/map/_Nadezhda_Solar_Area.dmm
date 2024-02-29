@@ -95,7 +95,7 @@
 /turf/simulated/floor/tiled/steel,
 /area/nadezhda/engineering/dorm)
 "aD" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "aE" = (
@@ -196,7 +196,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "aT" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "aU" = (
@@ -585,7 +585,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "cw" = (
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "cx" = (
@@ -725,7 +725,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/mountainsolars)
 "cR" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "cS" = (
@@ -759,12 +759,12 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/mountainsolars)
 "cY" = (
-/obj/structure/flora/small/grass/grassb2,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "cZ" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/obj/structure/flora/small/grass/grassb2,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "da" = (
@@ -820,11 +820,11 @@
 /turf/simulated/floor/beach/water/shallow,
 /area/nadezhda/outside/mountainsolars)
 "dk" = (
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "dl" = (
-/obj/structure/flora/small/grass/grassa3,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "dm" = (
@@ -846,11 +846,11 @@
 /turf/simulated/floor/beach/water/shallow,
 /area/nadezhda/outside/mountainsolars)
 "dq" = (
-/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "dr" = (
-/obj/structure/flora/small/rock/lavarock2,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/outside/mountainsolars)
 "ds" = (
@@ -882,11 +882,11 @@
 /area/nadezhda/outside/mountainsolars)
 "dy" = (
 /obj/structure/flora/ausbushes/lavendergrass,
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "dz" = (
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/outside/mountainsolars)
 "dA" = (
@@ -1001,7 +1001,7 @@
 /turf/simulated/floor/tiled/steel/techfloor_grid,
 /area/nadezhda/outside/mountainsolars)
 "eT" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "fn" = (
@@ -1166,9 +1166,9 @@
 /turf/simulated/floor/tiled/dark/brown_perforated,
 /area/nadezhda/engineering/dorm)
 "iJ" = (
-/obj/structure/flora/small/grass/grassa2,
-/obj/structure/flora/small/grass/grassa2,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/grass/grassa,
+/obj/structure/flora/small/grass/grassa,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "iY" = (
@@ -1274,7 +1274,7 @@
 /turf/simulated/floor/tiled/steel/techfloor_grid,
 /area/nadezhda/outside/mountainsolars)
 "kO" = (
-/obj/structure/flora/small/bush/bushc3,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "kP" = (
@@ -1576,7 +1576,7 @@
 /turf/simulated/floor/tiled/steel/orangecorner,
 /area/nadezhda/engineering/dorm)
 "qU" = (
-/obj/structure/flora/small/rock/rock4,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "qX" = (
@@ -1886,7 +1886,7 @@
 /turf/simulated/floor/tiled/steel/orangecorner,
 /area/nadezhda/engineering/dorm)
 "xk" = (
-/obj/structure/flora/big/rock/rocks3,
+/obj/structure/flora/big/rock/rocks,
 /turf/simulated/floor/rock,
 /area/nadezhda/outside/mountainsolars)
 "xP" = (
@@ -2104,7 +2104,7 @@
 /turf/simulated/floor/fixed/hydrotile,
 /area/nadezhda/outside/mountainsolars)
 "Dv" = (
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "DA" = (
@@ -2279,7 +2279,7 @@
 /turf/simulated/floor/tiled/steel/orangecorner,
 /area/nadezhda/outside/mountainsolars)
 "FF" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /obj/structure/flora/ausbushes/ppflowers,
 /obj/structure/railing,
 /turf/simulated/floor/fixed/hydrotile,
@@ -2469,7 +2469,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "Kk" = (
-/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/grass/grassa,
 /obj/structure/flora/ausbushes/ppflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
@@ -2572,7 +2572,7 @@
 /turf/simulated/floor/tiled/steel/techfloor_grid,
 /area/nadezhda/outside/mountainsolars)
 "LS" = (
-/obj/structure/flora/small/rock/rock5,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "Mg" = (
@@ -2619,7 +2619,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/outside/mountainsolars)
 "Nh" = (
-/obj/structure/flora/small/bush/bushc2,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "Nn" = (
@@ -2632,7 +2632,7 @@
 /turf/simulated/floor/tiled/steel/orangecorner,
 /area/nadezhda/engineering/dorm)
 "Nq" = (
-/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrock1,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/mountainsolars)
 "Nt" = (
@@ -2722,7 +2722,7 @@
 /turf/simulated/floor/tiled/techmaint_perforated,
 /area/nadezhda/engineering/dorm)
 "OU" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "Pd" = (
@@ -2770,7 +2770,7 @@
 /turf/simulated/floor/tiled/steel/techfloor_grid,
 /area/nadezhda/outside/mountainsolars)
 "Qm" = (
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /obj/structure/railing{
 	dir = 1;
 	tag = "icon-railing0 (NORTH)"
@@ -2787,7 +2787,7 @@
 /turf/simulated/floor/tiled/steel,
 /area/nadezhda/engineering/dorm)
 "QH" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/fixed/hydrotile,
 /area/nadezhda/outside/mountainsolars)
 "QL" = (
@@ -2811,7 +2811,7 @@
 /area/nadezhda/engineering/dorm)
 "Rb" = (
 /obj/item/reagent_containers/food/drinks/bottle/small/beer_two,
-/obj/structure/flora/small/bush/bushc3,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "Rd" = (
@@ -2839,7 +2839,7 @@
 /area/nadezhda/outside/mountainsolars)
 "Rq" = (
 /obj/random/junk/cigbutt,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "RK" = (
@@ -3221,7 +3221,7 @@
 /turf/simulated/floor/tiled/steel,
 /area/nadezhda/engineering/dorm)
 "Ye" = (
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/mountainsolars)
 "Yv" = (

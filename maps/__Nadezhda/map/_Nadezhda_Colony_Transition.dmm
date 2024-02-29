@@ -1036,23 +1036,23 @@
 /turf/simulated/floor/carpet/blucarpet,
 /area/nadezhda/hallway/main/stairwell)
 "do" = (
-/obj/structure/flora/small/grass/grassa4,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/main/stairwell)
 "dq" = (
-/obj/structure/flora/small/rock/rock3,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/main/stairwell)
 "dr" = (
-/obj/structure/flora/small/rock/trailrocka3,
+/obj/structure/flora/small/rock/trailrock1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/main/stairwell)
 "dt" = (
-/obj/structure/flora/small/rock/rock2,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/main/stairwell)
 "du" = (
-/obj/structure/flora/small/grass/grassb2,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/main/stairwell)
 "dw" = (
@@ -1086,7 +1086,7 @@
 /turf/simulated/floor/tiled/steel/cyancorner,
 /area/nadezhda/hallway/main/stairwell)
 "dJ" = (
-/obj/structure/flora/small/rock/rock5,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/main/stairwell)
 "dK" = (
@@ -1096,7 +1096,7 @@
 	},
 /area/nadezhda/hallway/main/stairwell)
 "dQ" = (
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /obj/machinery/light{
 	dir = 4;
 	icon_state = "tube1"
@@ -1117,19 +1117,19 @@
 /turf/simulated/floor/tiled/steel,
 /area/turbolift/ElevatorOne/midlevelTwo)
 "dV" = (
-/obj/structure/flora/small/grass/grassa5,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/main/stairwell)
 "dW" = (
-/obj/structure/flora/small/rock/rock4,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/main/stairwell)
 "ea" = (
-/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrock2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/main/stairwell)
 "eb" = (
-/obj/structure/flora/small/bush/bushc3,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/main/stairwell)
 "ej" = (

@@ -1394,13 +1394,13 @@
 /turf/simulated/floor/asteroid/grass/dry,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "hO" = (
-/obj/structure/flora/small/rock/rock3,
+/obj/structure/flora/big/rock/rock,
 /obj/machinery/power/port_gen/pacman,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "hP" = (
 /obj/item/remains/mouse,
-/obj/structure/flora/small/rock/trailrockb5,
+/obj/structure/flora/small/rock/trailrock2,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "hQ" = (
@@ -2468,7 +2468,7 @@
 	dir = 1;
 	icon_state = "grey_railing0"
 	},
-/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrock1,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "nP" = (
@@ -2582,7 +2582,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "ok" = (
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "ol" = (
@@ -2650,7 +2650,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "ow" = (
 /obj/structure/railing/grey,
-/obj/structure/flora/small/rock/lavarock2,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "ox" = (
@@ -3046,7 +3046,7 @@
 	dir = 1;
 	icon_state = "grey_railing0"
 	},
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "pX" = (
@@ -3144,7 +3144,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "qn" = (
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "qo" = (
@@ -3165,7 +3165,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "qr" = (
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /obj/random/cluster/roaches/lower_chance,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
@@ -3192,7 +3192,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "qw" = (
-/obj/structure/flora/small/rock/lavarock1,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "qx" = (
@@ -3251,7 +3251,7 @@
 "qF" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/railing/grey,
-/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrock2,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "qG" = (
@@ -3286,7 +3286,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "qL" = (
 /obj/structure/railing/grey,
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "qM" = (
@@ -5889,7 +5889,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "Ab" = (
-/obj/structure/flora/small/rock/trailrockb1,
+/obj/structure/flora/small/rock/trailrock2,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "Ac" = (
@@ -5995,7 +5995,7 @@
 	dir = 8;
 	icon_state = "grey_railing0"
 	},
-/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrock2,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "Ay" = (
@@ -6004,7 +6004,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "Az" = (
 /obj/structure/railing/grey,
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /obj/random/mob/prepper_ranged,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)

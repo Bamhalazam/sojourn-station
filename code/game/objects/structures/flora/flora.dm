@@ -195,7 +195,7 @@
 /obj/structure/flora/ausbushes/New()
 	..()
 	icon_state = "firstbush_[rand(1, 4)]"
-	pixel_x = rand(-16, 16)
+	pixel_x = rand(-16, 16) //makes it so that bushes are more organically placed
 	pixel_y = rand(-16, 16)
 
 /obj/structure/flora/ausbushes/reedbush
@@ -417,108 +417,33 @@
 			return
 		return
 
-/obj/structure/flora/small/rock/rock1
+/obj/structure/flora/big/rock/rock
 	name = "rocks"
 	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "rock1"
 
-/obj/structure/flora/small/rock/rock2
-	name = "rocks"
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "rock2"
+/obj/structure/flora/big/rock/rock/New()
+	icon_state = "rock[rand(1,5)]"
 
-/obj/structure/flora/small/rock/rock3
-	name = "rocks"
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "rock3"
-
-/obj/structure/flora/small/rock/rock4
-	name = "rocks"
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "rock4"
-
-/obj/structure/flora/small/rock/rock5
-	name = "rocks"
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "rock5"
-
-/obj/structure/flora/small/rock/trailrocka1
+/obj/structure/flora/small/rock/trailrock1
 	name = "rocks"
 	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "trailrock1"
-	name = "rocks"
 
-/obj/structure/flora/small/rock/trailrocka2
+/obj/structure/flora/small/rock/trailrock1/New()
+	icon_state = "rock[rand(1,5)]"
+
+/obj/structure/flora/small/rock/trailrock2
 	name = "rocks"
 	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "trailrock2"
-	name = "rocks"
 
-/obj/structure/flora/small/rock/trailrocka3
-	name = "rocks"
-	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "trailrock3"
-	name = "rocks"
+/obj/structure/flora/small/rock/trailrock2/New()
+	icon_state = "trailrockbig[rand(1,5)]"
 
-/obj/structure/flora/small/rock/trailrocka4
-	name = "rocks"
-	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "trailrock4"
-	name = "rocks"
-
-/obj/structure/flora/small/rock/trailrocka5
-	name = "rocks"
-	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "trailrock5"
-	name = "rocks"
-
-/obj/structure/flora/small/rock/trailrockb1
-	name = "rocks"
-	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "trailrockbig1"
-	name = "rocks"
-
-/obj/structure/flora/small/rock/trailrockb2
-	name = "rocks"
-	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "trailrockbig2"
-	name = "rocks"
-
-/obj/structure/flora/small/rock/trailrockb3
-	name = "rocks"
-	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "trailrockbig3"
-	name = "rocks"
-
-/obj/structure/flora/small/rock/trailrockb4
-	name = "rocks"
-	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "trailrockbig4"
-	name = "rocks"
-
-/obj/structure/flora/small/rock/trailrockb5
-	name = "rocks"
-	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "trailrockbig5"
-	name = "rocks"
-
-/obj/structure/flora/small/rock/lavarock1
+/obj/structure/flora/small/rock/lavarock
 	name = "black rocks"
 	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "lavarocks1"
-	name = "rocks"
 
-/obj/structure/flora/small/rock/lavarock2
-	name = "black rocks"
-	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "lavarocks2"
-	name = "rocks"
-
-/obj/structure/flora/small/rock/lavarock3
-	name = "black rocks"
-	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "lavarocks3"
-	name = "rocks"
+/obj/structure/flora/small/rock/lavarock/New()
+	icon_state = "lavarocks[rand(1,3)]"
 
 /obj/structure/flora/small/bush/attackby(obj/item/I, mob/user)
 	user.setClickCooldown(DEFAULT_ATTACK_COOLDOWN)
@@ -536,50 +461,26 @@
 			return
 		return
 
-/obj/structure/flora/small/bush/busha1
+/obj/structure/flora/small/bush/busha
 	name = "bush"
 	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "busha1"
 
-/obj/structure/flora/small/bush/busha2
-	name = "bush"
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "busha2"
+/obj/structure/flora/small/bush/busha/New()
+	icon_state = "busha[rand(1,3)]"
 
-/obj/structure/flora/small/bush/busha3
+/obj/structure/flora/small/bush/bushb
 	name = "bush"
 	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "busha3"
 
-/obj/structure/flora/small/bush/bushb1
-	name = "bush"
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "bushb1"
+/obj/structure/flora/small/bush/bushb/New()
+	icon_state = "bushb[rand(1,3)]"
 
-/obj/structure/flora/small/bush/bushb2
+/obj/structure/flora/small/bush/bushc
 	name = "bush"
 	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "bushb2"
 
-/obj/structure/flora/small/bush/bushb3
-	name = "bush"
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "bushb3"
-
-/obj/structure/flora/small/bush/bushc1
-	name = "bush"
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "bushc1"
-
-/obj/structure/flora/small/bush/bushc2
-	name = "bush"
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "bushc2"
-
-/obj/structure/flora/small/bush/bushc3
-	name = "bush"
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "bushc3"
+/obj/structure/flora/small/bush/bushc/New()
+	icon_state = "bushc[rand(1,3)]"
 
 /obj/structure/flora/small/grass/attackby(obj/item/I, mob/user)
 	user.setClickCooldown(DEFAULT_ATTACK_COOLDOWN)
@@ -596,45 +497,17 @@
 			return
 		return
 
-/obj/structure/flora/small/grass/grassa1
+/obj/structure/flora/small/grass/grassa
 	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "grassa1"
 
-/obj/structure/flora/small/grass/grassa2
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "grassa2"
+/obj/structure/flora/small/grass/grassa/New()
+	icon_state = "grassa[rand(1,5)]"
 
-/obj/structure/flora/small/grass/grassa3
+/obj/structure/flora/small/grass/grassb
 	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "grassa3"
 
-/obj/structure/flora/small/grass/grassa4
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "grassa4"
-
-/obj/structure/flora/small/grass/grassa5
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "grassa5"
-
-/obj/structure/flora/small/grass/grassb1
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "grassb1"
-
-/obj/structure/flora/small/grass/grassb2
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "grassb2"
-
-/obj/structure/flora/small/grass/grassb3
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "grassb3"
-
-/obj/structure/flora/small/grass/grassb4
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "grassb4"
-
-/obj/structure/flora/small/grass/grassb5
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	icon_state = "grassb5"
+/obj/structure/flora/small/grass/grassb/New()
+	icon_state = "grassb[rand(1,5)]"
 
 /obj/structure/flora/big
 	name = "big bush"
@@ -660,23 +533,11 @@
 			return
 		return
 
-/obj/structure/flora/big/bush1
+/obj/structure/flora/big/bush
 	icon = 'icons/obj/flora/largejungleflora.dmi'
-	icon_state = "bush1"
 
-/obj/structure/flora/big/bush2
-	icon = 'icons/obj/flora/largejungleflora.dmi'
-	icon_state = "bush2"
-
-/obj/structure/flora/big/bush3
-	icon = 'icons/obj/flora/largejungleflora.dmi'
-	icon_state = "bush3"
-
-/obj/structure/flora/big/rock/rocks1
-	name = "rock pile"
-	icon = 'icons/obj/flora/largejungleflora.dmi'
-	icon_state = "rocks1"
-	layer = PROJECTILE_HIT_THRESHHOLD_LAYER
+/obj/structure/flora/big/bush/New()
+	icon_state = "bush[rand(1,3)]"
 
 /obj/structure/flora/big/rock/attackby(obj/item/I, mob/user)
 	user.setClickCooldown(DEFAULT_ATTACK_COOLDOWN)
@@ -696,17 +557,14 @@
 			return
 		return
 
-/obj/structure/flora/big/rock/rocks2
+
+/obj/structure/flora/big/rock/rocks
 	name = "rock pile"
 	icon = 'icons/obj/flora/largejungleflora.dmi'
-	icon_state = "rocks2"
 	layer = PROJECTILE_HIT_THRESHHOLD_LAYER
 
-/obj/structure/flora/big/rock/rocks3
-	name = "rock pile"
-	icon = 'icons/obj/flora/largejungleflora.dmi'
-	icon_state = "rocks3"
-	layer = PROJECTILE_HIT_THRESHHOLD_LAYER
+/obj/structure/flora/big/rock/rocks/New()
+	icon_state = "rocks[rand(1,3)]"
 
 /obj/structure/flora/pumpkin
 	name = "pumpkin"
@@ -746,14 +604,6 @@
 	desc = "A fat, freshly picked pumpkin. This one has a face carved into it! This one has large, round eyes and a squiggly, cat-like smiling mouth. Its pleasantly surprised expression seems to suggest that the pumpkin has noticed something about you."
 	icon_state = "decor-jackolantern-owo"
 
-/obj/structure/flora/rock
-	name = "rock"
-	icon = 'icons/obj/flora/rocks.dmi'
-	icon_state = "basalt1"
-	desc = "A dull and sturdy rock."
-	anchored = 1
-	density = 1
-
 /obj/structure/flora/rock/attackby(obj/item/I, mob/user)
 	user.setClickCooldown(DEFAULT_ATTACK_COOLDOWN)
 	if(!istype(user.loc, /turf))
@@ -768,6 +618,14 @@
 			qdel(src)
 			return
 		return
+
+/obj/structure/flora/rock
+	name = "rock"
+	icon = 'icons/obj/flora/rocks.dmi'
+	icon_state = "basalt1"
+	desc = "A dull and sturdy rock."
+	anchored = 1
+	density = 1
 
 /obj/structure/flora/rock/variant1
 	name = "rock"

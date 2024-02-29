@@ -146,7 +146,7 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "cy" = (
-/obj/structure/flora/small/rock/rock4,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass/jungle,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "cD" = (
@@ -305,7 +305,7 @@
 /turf/simulated/floor/tiled/dark/monofloor,
 /area/colony/exposedsun/crashed_shop)
 "fS" = (
-/obj/structure/flora/small/rock/rock4,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/beach/sand,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "fT" = (
@@ -507,7 +507,7 @@
 /turf/simulated/floor/plating/under,
 /area/colony/exposedsun/crashed_shop)
 "jl" = (
-/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrock1,
 /turf/simulated/floor/rock,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "jv" = (
@@ -542,7 +542,7 @@
 /turf/simulated/floor/plating/under,
 /area/colony/exposedsun/crashed_shop)
 "jR" = (
-/obj/structure/flora/small/rock/rock4,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/beach/water/shallow,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "kk" = (
@@ -654,7 +654,7 @@
 /turf/simulated/floor/tiled/dark/danger,
 /area/colony/exposedsun/crashed_shop/workshop)
 "mz" = (
-/obj/structure/flora/small/rock/rock1,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/beach/water/shallow,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "mA" = (
@@ -709,7 +709,7 @@
 /turf/simulated/floor/plating/under,
 /area/colony/exposedsun/crashed_shop)
 "ni" = (
-/obj/structure/flora/small/rock/rock4,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "nB" = (
@@ -1086,7 +1086,7 @@
 /turf/simulated/floor/tiled/dark/cargo,
 /area/colony/exposedsun/crashed_shop)
 "vi" = (
-/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/asteroid/grass/jungle,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "vs" = (
@@ -1195,7 +1195,7 @@
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/colony/exposedsun/crashed_shop)
 "xW" = (
-/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrock1,
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "yf" = (
@@ -1206,7 +1206,7 @@
 /turf/simulated/floor/tiled/dark/golden,
 /area/colony/exposedsun/crashed_shop)
 "yu" = (
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "yy" = (
@@ -1235,7 +1235,7 @@
 /turf/simulated/floor/tiled/dark/danger,
 /area/colony/exposedsun/crashed_shop)
 "zk" = (
-/obj/structure/flora/small/rock/rock5,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/beach/sand,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "zl" = (
@@ -1601,11 +1601,11 @@
 /turf/simulated/floor/wood_old,
 /area/colony/exposedsun/crashed_shop/workshop)
 "FG" = (
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/plating/under,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "FH" = (
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/dirt,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "FL" = (
@@ -1856,7 +1856,7 @@
 /area/colony/exposedsun/crashed_shop)
 "JY" = (
 /obj/item/stack/rods/random,
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/rock,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "Kb" = (
@@ -2068,7 +2068,7 @@
 "Ou" = (
 /obj/item/stack/rods/random,
 /obj/item/stack/material/steel/random,
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/rock,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "Ow" = (
@@ -2102,7 +2102,7 @@
 /turf/simulated/floor/plating/under,
 /area/colony/exposedsun/crashed_shop)
 "OV" = (
-/obj/structure/flora/small/rock/rock5,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "OZ" = (
@@ -2159,7 +2159,7 @@
 /turf/simulated/floor/tiled/dark/techfloor,
 /area/colony/exposedsun/crashed_shop)
 "Qa" = (
-/obj/structure/flora/small/rock/rock5,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/dirt,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "Qh" = (
@@ -2220,7 +2220,7 @@
 /turf/simulated/floor/tiled/dark/brown_platform,
 /area/colony/exposedsun/crashed_shop/workshop)
 "Rd" = (
-/obj/structure/flora/small/rock/rock5,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "Re" = (
@@ -2535,7 +2535,7 @@
 /turf/simulated/floor/tiled/white/techfloor,
 /area/colony/exposedsun/crashed_shop/workshop)
 "Xa" = (
-/obj/structure/flora/small/rock/lavarock1,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/beach/water/ocean,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "Xf" = (
@@ -2617,7 +2617,7 @@
 /turf/simulated/floor/rock,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "Ym" = (
-/obj/structure/flora/small/rock/rock1,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "Yt" = (
@@ -2691,7 +2691,7 @@
 /turf/simulated/floor/tiled/dark/brown_perforated,
 /area/colony/exposedsun/crashed_shop/workshop)
 "Zb" = (
-/obj/structure/flora/small/rock/rock5,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/rock,
 /area/colony/exposedsun/crashed_shop/bottom_floor)
 "Zc" = (

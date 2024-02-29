@@ -1,7 +1,7 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "aad" = (
-/obj/structure/flora/small/bush/bushc3,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/bushc,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "aah" = (
@@ -56,7 +56,7 @@
 /turf/simulated/floor/wood/wild4,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "acA" = (
-/obj/structure/flora/small/bush/bushc2,
+/obj/structure/flora/small/bush/bushc,
 /obj/random/flora/jungle_tree,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
@@ -67,7 +67,7 @@
 /area/nadezhda/dungeon/outside/zoo)
 "adt" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "aeh" = (
@@ -259,7 +259,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "anH" = (
-/obj/structure/flora/small/rock/rock5,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "anM" = (
@@ -272,7 +272,7 @@
 	dir = 8;
 	icon_state = "grey_railing0"
 	},
-/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrock2,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "aoz" = (
@@ -378,11 +378,11 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "atz" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "atY" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/meadow)
 "auu" = (
@@ -404,8 +404,8 @@
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "auX" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "avp" = (
@@ -426,7 +426,7 @@
 /turf/simulated/floor/tiled/derelict/white_small_edges,
 /area/nadezhda/outside/one_star)
 "awP" = (
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /obj/structure/flora/ausbushes/grassybush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -483,7 +483,7 @@
 /turf/simulated/floor/wood/wild3,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "ayA" = (
-/obj/structure/flora/big/rock/rocks2,
+/obj/structure/flora/big/rock/rocks,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "ayB" = (
@@ -623,7 +623,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/dungeon/outside/zoo)
 "aEk" = (
-/obj/structure/flora/small/rock/rock4,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/beach/sand/desert,
 /area/nadezhda/dungeon/outside/zoo)
 "aEP" = (
@@ -674,7 +674,7 @@
 /turf/simulated/floor/tiled/white/panels,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "aHE" = (
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "aHK" = (
@@ -784,8 +784,8 @@
 	name = "Abandoned Bunker"
 	})
 "aLU" = (
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "aLZ" = (
@@ -797,7 +797,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "aMy" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "aMA" = (
@@ -866,8 +866,8 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "aOs" = (
-/obj/structure/flora/small/rock/lavarock1,
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/dirt,
 /area/asteroid/rogue)
 "aOA" = (
@@ -1010,7 +1010,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "aWp" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /obj/effect/overlay/water,
 /obj/effect/overlay/water/top,
 /turf/simulated/floor/beach/water/jungle,
@@ -1230,7 +1230,7 @@
 /turf/simulated/floor/tiled/dark/brown_perforated,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "biV" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /obj/structure/flora/ausbushes/brflowers,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
@@ -1340,11 +1340,11 @@
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "bmL" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/obj/structure/flora/small/grass/grassb5,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "bnm" = (
-/obj/structure/flora/small/rock/rock4,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "bnL" = (
@@ -1380,7 +1380,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "boG" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /obj/random/flora/jungle_tree,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -1577,8 +1577,8 @@
 /turf/simulated/floor/tiled/steel/danger,
 /area/nadezhda/dungeon/outside/zoo)
 "bwt" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "bwz" = (
@@ -1744,7 +1744,7 @@
 /turf/simulated/floor/carpet/turcarpet,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "bFX" = (
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /obj/item/mine_old{
 	layer = 2.6
 	},
@@ -1782,8 +1782,8 @@
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "bIx" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/bushb1,
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "bIO" = (
@@ -1845,8 +1845,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "bKM" = (
-/obj/structure/flora/small/bush/bushb1,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "bLc" = (
@@ -1899,7 +1899,7 @@
 /turf/simulated/floor/tiled,
 /area/nadezhda/dungeon/outside/zoo)
 "bNV" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/random/spider_trap_burrowing/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -2020,15 +2020,15 @@
 /turf/simulated/floor/wood/wild4,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "bSC" = (
-/obj/structure/flora/small/bush/bushb1,
-/obj/structure/flora/small/grass/grassb4,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "bTm" = (
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/asteroid/rogue)
 "bTs" = (
-/obj/structure/flora/small/rock/lavarock2,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/dirt,
 /area/asteroid/rogue)
 "bTz" = (
@@ -2124,7 +2124,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "bXA" = (
-/obj/structure/flora/small/grass/grassb1,
+/obj/structure/flora/small/grass/grassb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "bXS" = (
@@ -2208,12 +2208,12 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/dungeon/outside/prepper)
 "cby" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/colony/exposedsun/pastgate)
 "cbD" = (
 /obj/structure/flora/ausbushes/sparsegrass,
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "cbT" = (
@@ -2270,7 +2270,7 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/colony/exposedsun/crashed_shop/outsider)
 "cfe" = (
-/obj/structure/flora/small/grass/grassb5,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/wall/wood_old,
 /area/colony/exposedsun/pastgate)
 "cfS" = (
@@ -2293,7 +2293,7 @@
 	})
 "cgw" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "cgz" = (
@@ -2408,8 +2408,8 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/dungeon/outside/prepper)
 "clA" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "cmA" = (
@@ -2430,8 +2430,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "cmS" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "cnf" = (
@@ -2481,7 +2481,7 @@
 /turf/simulated/mineral/random/rogue,
 /area/colony/exposedsun/crashed_shop/outsider)
 "coO" = (
-/obj/structure/flora/small/grass/grassb4,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/dungeon/outside/prepper/vault{
 	narrate = "A great, massive structure. Rotting and decayed, though seemingly maintained to some minimum, the whole vault feels as if it could collapse around you at any moment, the shuffling of steel-clad boots echoes through the halls.";
@@ -2523,7 +2523,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "cpU" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "cpY" = (
@@ -2638,13 +2638,13 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "csC" = (
 /obj/random/flora/small_jungle_tree,
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "csE" = (
 /obj/effect/overlay/water/top,
-/obj/structure/flora/big/bush2,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/beach/water/jungle,
 /area/nadezhda/outside/meadow)
 "csF" = (
@@ -2666,7 +2666,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "ctf" = (
-/obj/structure/flora/small/rock/rock1,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "ctv" = (
@@ -2737,7 +2737,7 @@
 /turf/simulated/floor/wood/wild1,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "cuP" = (
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "cuV" = (
@@ -2752,7 +2752,7 @@
 /area/nadezhda/outside/meadow)
 "cvv" = (
 /obj/structure/flora/ausbushes/brflowers,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "cvA" = (
@@ -2763,7 +2763,7 @@
 	name = "Abandoned Bunker"
 	})
 "cwm" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/effect/decal/cleanable/blood/gibs,
 /turf/simulated/floor/wood/wild5,
 /area/colony/exposedsun/pastgate)
@@ -2825,7 +2825,7 @@
 	})
 "czR" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "cAb" = (
@@ -2855,8 +2855,8 @@
 /turf/simulated/floor/tiled/white/gray_platform,
 /area/nadezhda/dungeon/outside/zoo)
 "cBl" = (
-/obj/structure/flora/small/bush/bushb3,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "cBP" = (
@@ -2910,8 +2910,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/zoo)
 "cDk" = (
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "cDo" = (
@@ -2976,7 +2976,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "cEY" = (
-/obj/structure/flora/small/bush/bushc2,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "cEZ" = (
@@ -2993,8 +2993,8 @@
 	name = "Abandoned Bunker"
 	})
 "cFd" = (
-/obj/structure/flora/small/grass/grassa4,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/grass/grassa,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "cFk" = (
@@ -3025,7 +3025,7 @@
 	name = "Abandoned Bunker"
 	})
 "cGz" = (
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /obj/structure/flora/ausbushes/grassybush,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
@@ -3110,9 +3110,9 @@
 	name = "Abandoned Bunker"
 	})
 "cLq" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "cLz" = (
@@ -3206,7 +3206,7 @@
 /obj/structure/window/reinforced{
 	dir = 4
 	},
-/obj/structure/flora/small/grass/grassa1,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/dungeon/outside/prepper/vault{
 	narrate = "A great, massive structure. Rotting and decayed, though seemingly maintained to some minimum, the whole vault feels as if it could collapse around you at any moment, the shuffling of steel-clad boots echoes through the halls.";
@@ -3322,8 +3322,8 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "cSU" = (
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "cTi" = (
@@ -3561,7 +3561,7 @@
 /area/nadezhda/outside/one_star)
 "dci" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "dcK" = (
@@ -3634,7 +3634,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "dgn" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/random/flora/small_jungle_tree,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -3787,7 +3787,7 @@
 	narrate = "This building seems to have been quickly fabricated within the depths of the small rocky hill over it. Whoever made it seems to have fled, as the interior seems both roughened by fighting, but also completely abandoned, with machines either falling into disarray or intentionally sabotaged along with the rest of the outpost."
 	})
 "dqw" = (
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "dqH" = (
@@ -3818,7 +3818,7 @@
 /area/colony/exposedsun/crashed_shop/outsider)
 "dsd" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "dse" = (
@@ -3826,7 +3826,7 @@
 /turf/simulated/floor/tiled/dark/monofloor,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "dtl" = (
-/obj/structure/flora/small/grass/grassb4,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "dtv" = (
@@ -3861,8 +3861,8 @@
 /turf/simulated/floor/tiled/white/panels,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "dul" = (
-/obj/structure/flora/small/grass/grassb2,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/grass/grassb,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "dup" = (
@@ -3974,7 +3974,7 @@
 /area/nadezhda/dungeon/outside/prepper)
 "dyi" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/random/flora/small_jungle_tree,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
@@ -4013,7 +4013,7 @@
 	name = "Abandoned Bunker"
 	})
 "dzp" = (
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "dzF" = (
@@ -4053,7 +4053,7 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/safehouse)
 "dAO" = (
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /turf/simulated/wall/wood_old,
 /area/colony/exposedsun/pastgate)
 "dAT" = (
@@ -4074,9 +4074,9 @@
 /turf/simulated/floor/tiled/white/panels,
 /area/nadezhda/dungeon/outside/prepper)
 "dBl" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "dBn" = (
@@ -4084,7 +4084,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/outside/one_star)
 "dBx" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /obj/random/traps/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -4131,7 +4131,7 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "dDL" = (
-/obj/structure/flora/small/bush/bushc3,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "dDM" = (
@@ -4156,7 +4156,7 @@
 /turf/simulated/floor/tiled/white/brown_platform,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "dFy" = (
-/obj/structure/flora/small/grass/grassa4,
+/obj/structure/flora/small/grass/grassa,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "dFI" = (
@@ -4247,8 +4247,8 @@
 	name = "Abandoned Bunker"
 	})
 "dIw" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "dIC" = (
@@ -4439,7 +4439,7 @@
 /turf/simulated/floor/tiled/dark/monofloor,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "dSC" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/random/mob/vox/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -4450,7 +4450,7 @@
 	},
 /area/colony/exposedsun/crashed_shop/outsider)
 "dTs" = (
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/mineral,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "dTu" = (
@@ -4491,7 +4491,7 @@
 	name = "Abandoned Bunker"
 	})
 "dWh" = (
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "dWp" = (
@@ -4564,7 +4564,7 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "eas" = (
-/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/dungeon/outside/prepper/vault{
 	narrate = "A great, massive structure. Rotting and decayed, though seemingly maintained to some minimum, the whole vault feels as if it could collapse around you at any moment, the shuffling of steel-clad boots echoes through the halls.";
@@ -4606,7 +4606,7 @@
 	name = "Abandoned Bunker"
 	})
 "ecz" = (
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "ecL" = (
@@ -4648,7 +4648,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "eeV" = (
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /obj/structure/flora/ausbushes/grassybush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -4748,7 +4748,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "ehY" = (
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/dirt/dark/plough,
 /area/colony/exposedsun/pastgate)
 "ehZ" = (
@@ -4798,12 +4798,12 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "ekQ" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "elk" = (
-/obj/structure/flora/small/rock/rock3,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/beach/sand/desert,
 /area/nadezhda/dungeon/outside/zoo)
 "elJ" = (
@@ -4980,7 +4980,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "esi" = (
 /obj/random/flora/small_jungle_tree,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "esl" = (
@@ -5103,7 +5103,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper)
 "ewd" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /mob/living/carbon/superior_animal/vox/ashen,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -5125,7 +5125,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/outside/one_star)
 "ewW" = (
-/obj/structure/flora/small/rock/lavarock1,
+/obj/structure/flora/small/rock/lavarock,
 /obj/structure/invislight,
 /turf/simulated/floor/asteroid/dirt,
 /area/asteroid/rogue)
@@ -5188,7 +5188,7 @@
 /turf/simulated/floor/tiled/white/panels,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "eAJ" = (
-/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "eBe" = (
@@ -5229,7 +5229,7 @@
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "eEo" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/meadow)
 "eEt" = (
@@ -5302,8 +5302,8 @@
 /turf/simulated/floor/tiled/white/bluecorner,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "eIf" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "eID" = (
@@ -5326,7 +5326,7 @@
 /turf/simulated/floor/tiled/dark/monofloor,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "eKJ" = (
-/obj/structure/flora/small/rock/trailrockb1,
+/obj/structure/flora/small/rock/trailrock2,
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/outside/one_star)
 "eKN" = (
@@ -5379,7 +5379,7 @@
 /turf/simulated/floor/tiled/techmaint_perforated,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "eNq" = (
-/obj/structure/flora/small/grass/grassa3,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "eNx" = (
@@ -5422,7 +5422,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "eOY" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "ePq" = (
@@ -5462,7 +5462,7 @@
 /turf/simulated/floor/tiled,
 /area/nadezhda/dungeon/outside/zoo)
 "eSi" = (
-/obj/structure/flora/small/rock/rock2,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/beach/sand/desert,
 /area/nadezhda/dungeon/outside/zoo)
 "eSz" = (
@@ -5477,7 +5477,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "eUV" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "eUW" = (
@@ -5559,13 +5559,13 @@
 /turf/simulated/floor/tiled/white,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "eZo" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "eZs" = (
-/obj/structure/flora/big/bush1,
-/obj/structure/flora/small/bush/bushb3,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "eZx" = (
@@ -5721,8 +5721,8 @@
 	},
 /area/colony/exposedsun/crashed_shop/outsider)
 "feT" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /obj/random/mob/vox/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -5807,7 +5807,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "fiZ" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "fjc" = (
@@ -5816,7 +5816,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "fjK" = (
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/dirt,
 /area/asteroid/rogue)
 "fke" = (
@@ -5845,8 +5845,8 @@
 	name = "Abandoned Bunker"
 	})
 "fkH" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "fkT" = (
@@ -5903,7 +5903,7 @@
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "fon" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "foA" = (
@@ -6056,7 +6056,7 @@
 /area/nadezhda/dungeon/outside/prepper)
 "fuW" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "fvE" = (
@@ -6096,7 +6096,7 @@
 /turf/simulated/floor/tiled/white/brown_perforated,
 /area/nadezhda/dungeon/outside/zoo)
 "fwV" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "fxw" = (
@@ -6172,7 +6172,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "fBr" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /obj/random/spider_trap_burrowing/low_chance,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
@@ -6213,7 +6213,7 @@
 /turf/simulated/floor/tiled/derelict/red_white_edges,
 /area/nadezhda/outside/one_star)
 "fCI" = (
-/obj/structure/flora/small/rock/rock3,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "fDx" = (
@@ -6292,8 +6292,8 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "fFB" = (
-/obj/structure/flora/big/bush1,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/bushb,
 /obj/random/scrap/dense_even,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
@@ -6319,12 +6319,12 @@
 /turf/unsimulated/mineral,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "fGv" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "fGw" = (
 /obj/random/flora/small_jungle_tree,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "fGy" = (
@@ -6364,14 +6364,14 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "fHx" = (
-/obj/structure/flora/small/rock/lavarock1,
+/obj/structure/flora/small/rock/lavarock,
 /obj/random/spider_trap_burrowing/low_chance,
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/asteroid/rogue)
 "fHG" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/bushc2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/bushc,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "fIa" = (
@@ -6444,7 +6444,7 @@
 	})
 "fLW" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/bushc2,
+/obj/structure/flora/small/bush/bushc,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "fMT" = (
@@ -6499,8 +6499,8 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "fOk" = (
-/obj/structure/flora/small/bush/bushc1,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/bushc,
+/obj/structure/flora/small/bush/busha,
 /obj/random/flora/small_jungle_tree,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
@@ -6534,7 +6534,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "fQn" = (
 /obj/structure/flora/ausbushes/grassybush,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "fQu" = (
@@ -6825,7 +6825,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "gcX" = (
-/obj/structure/flora/small/grass/grassa3,
+/obj/structure/flora/small/grass/grassa,
 /turf/unsimulated/wall/jungle,
 /area/colony/exposedsun/pastgate)
 "gdb" = (
@@ -6960,7 +6960,7 @@
 /turf/simulated/floor/tiled/dark/brown_perforated,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "gix" = (
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/mineral,
 /area/nadezhda/outside/meadow)
 "gjg" = (
@@ -6980,7 +6980,7 @@
 	name = "Abandoned Bunker"
 	})
 "gjt" = (
-/obj/structure/flora/small/rock/trailrockb3,
+/obj/structure/flora/small/rock/trailrock2,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "gjF" = (
@@ -7036,7 +7036,7 @@
 	name = "Abandoned Bunker"
 	})
 "gmm" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/structure/flora/ausbushes/ywflowers,
 /obj/random/mob/vox/low_chance,
 /turf/simulated/floor/asteroid/grass,
@@ -7048,14 +7048,14 @@
 /turf/simulated/floor/tiled,
 /area/nadezhda/dungeon/outside/zoo)
 "gmQ" = (
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/mineral,
 /area/nadezhda/outside/meadow)
 "gmU" = (
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "gna" = (
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /obj/random/traps,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -7071,7 +7071,7 @@
 /turf/simulated/floor/tiled/dark/monofloor,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "gnV" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/wall/wood_old,
 /area/nadezhda/outside/meadow)
 "gox" = (
@@ -7128,7 +7128,7 @@
 /turf/simulated/floor/tiled/dark/brown_perforated,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "gqE" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /obj/item/ammo_casing/shotgun/spent,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -7152,7 +7152,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "gri" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/random/flora/small_jungle_tree,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
@@ -7206,7 +7206,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "gui" = (
 /obj/structure/flora/ausbushes/lavendergrass,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "guk" = (
@@ -7227,8 +7227,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "gva" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "gvk" = (
@@ -7486,9 +7486,9 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "gEm" = (
-/obj/structure/flora/big/rock/rocks2,
+/obj/structure/flora/big/rock/rocks,
 /obj/structure/flora/ausbushes/ppflowers,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "gFk" = (
@@ -7505,7 +7505,7 @@
 /area/nadezhda/outside/meadow)
 "gFQ" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "gFS" = (
@@ -7553,7 +7553,7 @@
 	name = "Abandoned Bunker"
 	})
 "gJo" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/wall/wood_old,
 /area/colony/exposedsun/pastgate)
 "gJs" = (
@@ -7624,7 +7624,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/outside/meadow)
 "gNM" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/wall/r_wall,
 /area/nadezhda/outside/meadow)
 "gNT" = (
@@ -7644,7 +7644,7 @@
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "gOG" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "gOT" = (
@@ -7658,7 +7658,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/outside/meadow)
 "gOY" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/random/traps,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -7752,7 +7752,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "gSr" = (
 /obj/structure/flora/ausbushes/ppflowers,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "gSF" = (
@@ -7777,7 +7777,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "gTq" = (
-/obj/structure/flora/small/rock/rock2,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "gTD" = (
@@ -7867,12 +7867,12 @@
 /turf/simulated/floor/tiled/techmaint_perforated,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "gWu" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "gWE" = (
 /obj/random/flora/small_jungle_tree,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "gWI" = (
@@ -7890,7 +7890,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "gYc" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /obj/structure/girder,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -7995,15 +7995,15 @@
 /area/nadezhda/outside/meadow)
 "hcP" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/rock/rock1,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "hdf" = (
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "hdj" = (
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "hdo" = (
@@ -8021,7 +8021,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "hdZ" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "heg" = (
@@ -8045,7 +8045,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "heD" = (
-/obj/structure/flora/small/bush/bushc3,
+/obj/structure/flora/small/bush/bushc,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "heK" = (
@@ -8183,7 +8183,7 @@
 /turf/simulated/floor/tiled,
 /area/nadezhda/dungeon/outside/zoo)
 "hmm" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "hmo" = (
@@ -8208,7 +8208,7 @@
 /turf/simulated/floor/tiled/white/gray_platform,
 /area/nadezhda/dungeon/outside/prepper)
 "hmx" = (
-/obj/structure/flora/small/grass/grassb2,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/dungeon/outside/prepper/vault{
 	narrate = "A great, massive structure. Rotting and decayed, though seemingly maintained to some minimum, the whole vault feels as if it could collapse around you at any moment, the shuffling of steel-clad boots echoes through the halls.";
@@ -8249,9 +8249,9 @@
 /turf/simulated/floor/tiled/white/brown_perforated,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "hns" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "hnK" = (
@@ -8323,7 +8323,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "hpi" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "hpr" = (
@@ -8415,8 +8415,8 @@
 	name = "Abandoned Bunker"
 	})
 "hvb" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "hwl" = (
@@ -8465,8 +8465,8 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "hxm" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "hxv" = (
@@ -8642,7 +8642,7 @@
 /turf/simulated/floor/tiled/dark/monofloor,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "hHq" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /obj/random/flora/small_jungle_tree,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
@@ -8746,7 +8746,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "hNR" = (
-/obj/structure/flora/small/grass/grassa5,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/dungeon/outside/prepper/vault{
 	narrate = "A great, massive structure. Rotting and decayed, though seemingly maintained to some minimum, the whole vault feels as if it could collapse around you at any moment, the shuffling of steel-clad boots echoes through the halls.";
@@ -8754,12 +8754,12 @@
 	})
 "hNY" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "hOb" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/bushc3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/bushc,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "hOd" = (
@@ -8875,7 +8875,7 @@
 /area/nadezhda/dungeon/outside/monster_cave)
 "hRV" = (
 /obj/effect/overlay/water,
-/obj/structure/flora/big/bush2{
+/obj/structure/flora/big/bush{
 	pixel_x = -20;
 	pixel_y = -24
 	},
@@ -8933,7 +8933,7 @@
 /turf/simulated/floor/tiled,
 /area/nadezhda/dungeon/outside/zoo)
 "hUc" = (
-/obj/structure/flora/small/grass/grassb5,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "hUA" = (
@@ -8953,7 +8953,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "hVF" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "hVY" = (
@@ -9116,7 +9116,7 @@
 /area/asteroid/rogue)
 "ido" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "idq" = (
@@ -9128,7 +9128,7 @@
 	})
 "idF" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "idX" = (
@@ -9143,8 +9143,8 @@
 /turf/simulated/floor/beach/sand/desert,
 /area/nadezhda/dungeon/outside/zoo)
 "iec" = (
-/obj/structure/flora/small/bush/bushb1,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "iey" = (
@@ -9156,7 +9156,7 @@
 	name = "Abandoned Bunker"
 	})
 "ieY" = (
-/obj/structure/flora/small/rock/rock4,
+/obj/structure/flora/big/rock/rock,
 /obj/random/mob/vox/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -9191,10 +9191,10 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/outside/meadow)
 "ifX" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /obj/structure/flora/ausbushes/grassybush,
-/obj/structure/flora/small/bush/bushb1,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "igP" = (
@@ -9376,7 +9376,7 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "ioB" = (
-/obj/structure/flora/small/bush/bushc2,
+/obj/structure/flora/small/bush/bushc,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "ioK" = (
@@ -9415,8 +9415,8 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "iqE" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "iqQ" = (
@@ -9501,7 +9501,7 @@
 /turf/simulated/floor/tiled/white/brown_perforated,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "iue" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/colony/exposedsun/pastgate)
 "iul" = (
@@ -9578,8 +9578,8 @@
 	name = "Abandoned Bunker"
 	})
 "iwV" = (
-/obj/structure/flora/small/bush/bushb1,
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "ixd" = (
@@ -9593,7 +9593,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/outside/one_star)
 "ixl" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /obj/structure/multiz/ladder,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -9694,8 +9694,8 @@
 /turf/simulated/floor/tiled/derelict/white_big_edges,
 /area/nadezhda/outside/one_star)
 "iCz" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "iCL" = (
@@ -9845,7 +9845,7 @@
 /turf/simulated/floor/wood/wild4,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "iHY" = (
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "iIf" = (
@@ -9952,7 +9952,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "iMx" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/random/mob/voidwolf/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -10005,7 +10005,7 @@
 /turf/simulated/floor/tiled/derelict/white_red_edges,
 /area/nadezhda/outside/one_star)
 "iRT" = (
-/obj/structure/flora/small/rock/lavarock1,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/asteroid/rogue)
 "iSb" = (
@@ -10018,13 +10018,13 @@
 /turf/simulated/floor/tiled/dark/danger,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "iSv" = (
-/obj/structure/flora/big/bush1,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/busha,
 /obj/random/lowkeyrandom/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "iSA" = (
-/obj/structure/flora/small/grass/grassb1,
+/obj/structure/flora/small/grass/grassb,
 /obj/item/mine/armed,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -10137,8 +10137,8 @@
 /turf/unsimulated/mineral,
 /area/colony)
 "iZh" = (
-/obj/structure/flora/big/bush2,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "iZA" = (
@@ -10162,8 +10162,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/zoo)
 "jap" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "jaz" = (
@@ -10176,7 +10176,7 @@
 /area/asteroid/rogue)
 "jbh" = (
 /obj/structure/flora/ausbushes/brflowers,
-/obj/structure/flora/big/bush2{
+/obj/structure/flora/big/bush{
 	pixel_y = -23
 	},
 /turf/simulated/mineral/planet,
@@ -10277,7 +10277,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "jdV" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /obj/random/traps/low_chance,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
@@ -10361,7 +10361,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "jgF" = (
 /obj/structure/flora/ausbushes/grassybush,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "jgJ" = (
@@ -10436,8 +10436,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "jiS" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "jiT" = (
@@ -10518,7 +10518,7 @@
 /area/asteroid/rogue)
 "jkr" = (
 /obj/item/remains/mouse,
-/obj/structure/flora/small/rock/trailrockb5,
+/obj/structure/flora/small/rock/trailrock2,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "jkt" = (
@@ -10758,12 +10758,12 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "jwm" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "jwB" = (
-/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/grass/grassa,
 /turf/unsimulated/wall/jungle,
 /area/colony/exposedsun/pastgate)
 "jxl" = (
@@ -10853,8 +10853,8 @@
 /turf/simulated/floor/tiled/white/panels,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "jCH" = (
-/obj/structure/flora/small/bush/bushc3,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/bushc,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "jCW" = (
@@ -10866,16 +10866,16 @@
 /turf/simulated/floor/tiled/derelict/white_red_edges,
 /area/nadezhda/outside/one_star)
 "jDa" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/colony/exposedsun/pastgate)
 "jEI" = (
-/obj/structure/flora/small/grass/grassb5,
+/obj/structure/flora/small/grass/grassb,
 /obj/random/scrap/dense_even,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "jER" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/random/mob/vox/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -10894,7 +10894,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "jFP" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/random/flora/small_jungle_tree,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
@@ -10950,7 +10950,7 @@
 /turf/simulated/floor/tiled,
 /area/nadezhda/dungeon/outside/zoo)
 "jJj" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/colony/exposedsun/pastgate)
 "jJk" = (
@@ -11009,7 +11009,7 @@
 /turf/simulated/mineral/random/rogue,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "jKu" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/random/flora/small_jungle_tree,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
@@ -11131,7 +11131,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "jOR" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/random/flora/jungle_tree,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
@@ -11170,8 +11170,8 @@
 	name = "Abandoned Bunker"
 	})
 "jQU" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "jRy" = (
@@ -11318,8 +11318,8 @@
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "jZb" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "jZs" = (
@@ -11330,8 +11330,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "jZL" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "jZR" = (
@@ -11346,7 +11346,7 @@
 /turf/simulated/floor/tiled/derelict/white_red_edges,
 /area/nadezhda/outside/one_star)
 "kac" = (
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/colony/exposedsun/pastgate)
 "kaf" = (
@@ -11437,7 +11437,7 @@
 /turf/simulated/floor/tiled/steel,
 /area/nadezhda/dungeon/outside/prepper)
 "kew" = (
-/obj/structure/flora/small/rock/lavarock2,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/asteroid/rogue)
 "keY" = (
@@ -11531,7 +11531,7 @@
 /turf/simulated/floor/tiled/white/bluecorner,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "khg" = (
-/obj/structure/flora/small/rock/rock3,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "khw" = (
@@ -11587,13 +11587,13 @@
 /turf/simulated/floor/tiled/white/panels,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "kjQ" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /obj/random/flora/small_jungle_tree,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "kko" = (
-/obj/structure/flora/small/grass/grassa5,
+/obj/structure/flora/small/grass/grassa,
 /turf/unsimulated/wall/jungle,
 /area/colony/exposedsun/pastgate)
 "kkx" = (
@@ -11740,8 +11740,8 @@
 /turf/simulated/floor/carpet/bcarpet,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "krI" = (
-/obj/structure/flora/small/bush/bushb1,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "ksr" = (
@@ -11768,8 +11768,8 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "ksS" = (
-/obj/structure/flora/small/grass/grassb3,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/grass/grassb,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "kto" = (
@@ -11893,8 +11893,8 @@
 /turf/simulated/floor/carpet/bcarpet,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "kyL" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "kzb" = (
@@ -11925,8 +11925,8 @@
 /turf/simulated/floor/tiled/white/gray_perforated,
 /area/nadezhda/dungeon/outside/zoo)
 "kAo" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "kAs" = (
@@ -11997,12 +11997,12 @@
 /turf/unsimulated/mineral,
 /area/nadezhda/outside/meadow)
 "kDA" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "kEe" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -12038,7 +12038,7 @@
 	name = "Abandoned Bunker"
 	})
 "kFl" = (
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "kGd" = (
@@ -12167,7 +12167,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "kLO" = (
-/obj/structure/flora/small/bush/bushc2,
+/obj/structure/flora/small/bush/bushc,
 /turf/unsimulated/mineral,
 /area/nadezhda/outside/meadow)
 "kMK" = (
@@ -12176,7 +12176,7 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "kNc" = (
-/obj/structure/flora/small/grass/grassb2,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "kNe" = (
@@ -12193,18 +12193,18 @@
 /turf/simulated/floor/wood,
 /area/nadezhda/dungeon/outside/prepper)
 "kNl" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "kNK" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "kOq" = (
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "kOD" = (
@@ -12383,8 +12383,8 @@
 /turf/simulated/floor/wood,
 /area/asteroid/rogue)
 "kVF" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/grass/grassb4,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "kVY" = (
@@ -12494,7 +12494,7 @@
 /turf/simulated/floor/tiled/white/gray_platform,
 /area/nadezhda/dungeon/outside/prepper)
 "laK" = (
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -12502,8 +12502,8 @@
 /turf/simulated/mineral,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "lbt" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "lbZ" = (
@@ -12514,8 +12514,8 @@
 /turf/simulated/floor/tiled/white/gray_platform,
 /area/nadezhda/dungeon/outside/prepper)
 "lcK" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "lcM" = (
@@ -12606,8 +12606,8 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/outside/one_star)
 "lhi" = (
-/obj/structure/flora/small/bush/bushb3,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "lhp" = (
@@ -12658,7 +12658,7 @@
 /turf/simulated/floor/tiled/dark/orangecorner,
 /area/nadezhda/dungeon/outside/prepper)
 "liM" = (
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
@@ -12683,7 +12683,7 @@
 /area/nadezhda/dungeon/outside/prepper)
 "ljA" = (
 /obj/structure/flora/ausbushes/grassybush,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "ljG" = (
@@ -12774,7 +12774,7 @@
 	name = "Abandoned Bunker"
 	})
 "lpp" = (
-/obj/structure/flora/small/grass/grassb2,
+/obj/structure/flora/small/grass/grassb,
 /obj/structure/flora/ausbushes/grassybush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -12791,7 +12791,7 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "lqU" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/beach/water/jungle,
 /area/nadezhda/outside/meadow)
 "lrl" = (
@@ -12856,14 +12856,14 @@
 /turf/simulated/floor/wood/wild1,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "luc" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "lud" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/structure/bookcase,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/wood/wild5,
 /area/colony/exposedsun/pastgate)
 "lur" = (
@@ -12879,7 +12879,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "luO" = (
 /obj/structure/flora/ausbushes/ppflowers,
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star)
 "luS" = (
@@ -12996,8 +12996,8 @@
 /turf/simulated/floor/tiled/derelict/red_white_edges,
 /area/nadezhda/outside/one_star)
 "lCx" = (
-/obj/structure/flora/big/bush2,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "lCB" = (
@@ -13046,9 +13046,9 @@
 /area/asteroid/rogue)
 "lEN" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/big/bush2,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "lFs" = (
@@ -13110,7 +13110,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "lHC" = (
-/obj/structure/flora/small/bush/bushc3,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "lHH" = (
@@ -13198,12 +13198,12 @@
 /turf/simulated/floor/carpet,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "lKW" = (
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/asteroid/rogue)
 "lLf" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "lLo" = (
@@ -13215,9 +13215,9 @@
 /turf/simulated/floor/wood/wild5,
 /area/colony/exposedsun/pastgate)
 "lLS" = (
-/obj/structure/flora/big/bush1,
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "lMh" = (
@@ -13407,7 +13407,7 @@
 /turf/simulated/floor/tiled/derelict/white_big_edges,
 /area/nadezhda/outside/one_star)
 "lVm" = (
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /obj/random/mob/voidwolf,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -13438,7 +13438,7 @@
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "lWr" = (
 /obj/structure/railing/grey,
-/obj/structure/flora/small/rock/lavarock3,
+/obj/structure/flora/small/rock/lavarock,
 /obj/random/mob/prepper_ranged,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
@@ -13447,7 +13447,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "lWI" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
@@ -13498,8 +13498,8 @@
 /turf/simulated/floor/tiled,
 /area/nadezhda/dungeon/outside/zoo)
 "lYz" = (
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "lZQ" = (
@@ -13544,7 +13544,7 @@
 /area/colony/exposedsun/crashed_shop/outsider)
 "mbI" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "mbP" = (
@@ -13579,7 +13579,7 @@
 /turf/simulated/floor/tiled/white/cargo,
 /area/nadezhda/dungeon/outside/zoo)
 "mfE" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/wall/wood_old,
 /area/colony/exposedsun/pastgate)
 "mfP" = (
@@ -13728,7 +13728,7 @@
 /area/colony/exposedsun/pastgate)
 "mlD" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "mlO" = (
@@ -13740,12 +13740,12 @@
 /turf/simulated/floor/tiled/cafe,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "mmk" = (
-/obj/structure/flora/small/bush/bushc1,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/bushc,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "mmN" = (
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /obj/structure/invislight,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -13840,7 +13840,7 @@
 /area/nadezhda/outside/meadow)
 "mqz" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "mqD" = (
@@ -13881,8 +13881,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor2)
 "mrF" = (
-/obj/structure/flora/small/bush/bushc1,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/bushc,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "mrR" = (
@@ -13941,7 +13941,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/zoo)
 "mud" = (
-/obj/structure/flora/small/grass/grassa4,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/mineral/planet,
 /area/colony/exposedsun/pastgate)
 "muw" = (
@@ -13995,7 +13995,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "mwO" = (
-/obj/structure/flora/small/grass/grassb1,
+/obj/structure/flora/small/grass/grassb,
 /obj/random/mob/vox/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -14003,7 +14003,7 @@
 /turf/simulated/wall/untinted/onestar_reinforced,
 /area/nadezhda/outside/one_star)
 "mxA" = (
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "mxO" = (
@@ -14145,7 +14145,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "mDN" = (
-/obj/structure/flora/small/rock/trailrocka5,
+/obj/structure/flora/small/rock/trailrock1,
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/outside/one_star)
 "mDO" = (
@@ -14153,7 +14153,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "mDT" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/mineral,
 /area/nadezhda/outside/meadow)
 "mDU" = (
@@ -14196,7 +14196,7 @@
 /area/nadezhda/dungeon/outside/zoo)
 "mEX" = (
 /obj/structure/reagent_dispensers/water_cooler,
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star)
 "mFn" = (
@@ -14227,8 +14227,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "mGD" = (
-/obj/structure/flora/big/bush2,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "mGW" = (
@@ -14243,8 +14243,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "mHa" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "mHA" = (
@@ -14281,7 +14281,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "mIS" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/meadow)
 "mJa" = (
@@ -14354,7 +14354,7 @@
 /turf/simulated/floor/tiled/white/brown_platform,
 /area/nadezhda/dungeon/outside/zoo)
 "mLu" = (
-/obj/structure/flora/small/rock/rock4,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/dungeon/outside/zoo)
 "mLx" = (
@@ -14364,7 +14364,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "mLK" = (
-/obj/structure/flora/small/grass/grassb5,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "mMt" = (
@@ -14484,7 +14484,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "mQX" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/structure/table/rack/shelf,
 /obj/random/gun_cheap,
 /turf/simulated/floor/wood/wild5,
@@ -14508,8 +14508,8 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "mRI" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /obj/random/mob/vox/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -14580,13 +14580,13 @@
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "mTX" = (
-/obj/structure/flora/small/rock/rock4,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "mUm" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
 /obj/random/traps/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -14595,7 +14595,7 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "mUz" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /obj/random/flora/jungle_tree,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
@@ -14665,7 +14665,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "mXm" = (
-/obj/structure/flora/small/grass/grassb3,
+/obj/structure/flora/small/grass/grassb,
 /obj/structure/flora/ausbushes/sparsegrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -14706,7 +14706,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "mZe" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/item/trash/mre_candy,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
@@ -14780,8 +14780,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper)
 "nbW" = (
-/obj/structure/flora/big/bush1,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "nbX" = (
@@ -14810,7 +14810,7 @@
 /turf/simulated/floor/tiled/dark/monofloor,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "ndl" = (
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "ndw" = (
@@ -14863,7 +14863,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "ngf" = (
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "ngs" = (
@@ -14937,7 +14937,7 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/colony/exposedsun/crashed_shop/outsider)
 "nji" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /obj/structure/flora/ausbushes/fullgrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -15004,7 +15004,7 @@
 /turf/simulated/shuttle/floor/mining,
 /area/colony/exposedsun/crashed_shop/outsider)
 "nlr" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /obj/random/flora/jungle_tree,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
@@ -15093,8 +15093,8 @@
 /turf/simulated/floor/tiled/derelict/white_small_edges,
 /area/nadezhda/outside/one_star)
 "nos" = (
-/obj/structure/flora/small/grass/grassb4,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/grass/grassb,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "npr" = (
@@ -15167,12 +15167,12 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "nsH" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "nsL" = (
-/obj/structure/flora/small/rock/trailrockb2,
+/obj/structure/flora/small/rock/trailrock2,
 /obj/machinery/light/floor,
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/outside/one_star)
@@ -15284,9 +15284,9 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "nxv" = (
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "nxx" = (
@@ -15345,8 +15345,8 @@
 /turf/simulated/floor/tiled/white/brown_perforated,
 /area/nadezhda/dungeon/outside/zoo)
 "nAK" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "nAW" = (
@@ -15607,7 +15607,7 @@
 	name = "Abandoned Bunker"
 	})
 "nPq" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/random/flora/jungle_tree,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
@@ -15739,11 +15739,11 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "nXw" = (
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "nXY" = (
-/obj/structure/flora/big/rock/rocks2,
+/obj/structure/flora/big/rock/rocks,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "nXZ" = (
@@ -15875,7 +15875,7 @@
 /turf/simulated/floor/tiled/derelict/white_small_edges,
 /area/nadezhda/outside/one_star)
 "odw" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/random/traps,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -15918,7 +15918,7 @@
 /turf/simulated/floor/tiled/derelict/red_white_edges,
 /area/nadezhda/outside/one_star)
 "ofg" = (
-/obj/structure/flora/big/rock/rocks3,
+/obj/structure/flora/big/rock/rocks,
 /obj/structure/flora/ausbushes/grassybush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -15941,7 +15941,7 @@
 /turf/simulated/shuttle/floor/mining,
 /area/colony/exposedsun/crashed_shop/outsider)
 "ofI" = (
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /turf/unsimulated/mineral,
 /area/nadezhda/outside/meadow)
 "ofK" = (
@@ -15954,8 +15954,8 @@
 	name = "Abandoned Bunker"
 	})
 "ofO" = (
-/obj/structure/flora/small/bush/bushb3,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "ofU" = (
@@ -16115,8 +16115,8 @@
 	name = "Abandoned Bunker"
 	})
 "omd" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/bushc2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/bushc,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "omh" = (
@@ -16316,7 +16316,7 @@
 /area/nadezhda/dungeon/outside/zoo)
 "ovU" = (
 /obj/structure/flora/ausbushes/sparsegrass,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "owa" = (
@@ -16329,8 +16329,8 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "owl" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "owt" = (
@@ -16391,7 +16391,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "oyh" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/grass/grassb4,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "oyr" = (
@@ -16422,8 +16422,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "oAd" = (
-/obj/structure/flora/big/bush1,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "oAK" = (
@@ -16434,7 +16434,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/colony/exposedsun/pastgate)
 "oBM" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/wood/wild5,
 /area/colony/exposedsun/pastgate)
 "oBT" = (
@@ -16459,7 +16459,7 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/colony/exposedsun/crashed_shop/outsider)
 "oCo" = (
-/obj/structure/flora/small/grass/grassa4,
+/obj/structure/flora/small/grass/grassa,
 /turf/unsimulated/wall/jungle,
 /area/colony/exposedsun/pastgate)
 "oCD" = (
@@ -16584,8 +16584,8 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "oHz" = (
-/obj/structure/flora/small/grass/grassb4,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/small/grass/grassb,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "oHB" = (
@@ -16701,7 +16701,7 @@
 /turf/simulated/floor/tiled/white/brown_platform,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "oLs" = (
-/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/mineral/planet,
 /area/colony/exposedsun/pastgate)
 "oLu" = (
@@ -16741,7 +16741,7 @@
 /area/nadezhda/dungeon/outside/prepper)
 "oMm" = (
 /obj/random/flora/small_jungle_tree,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "oMo" = (
@@ -16811,7 +16811,7 @@
 /area/nadezhda/dungeon/outside/zoo)
 "oQe" = (
 /obj/structure/flora/ausbushes/brflowers,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "oQm" = (
@@ -16822,7 +16822,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "oQy" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "oQE" = (
@@ -16878,7 +16878,7 @@
 	})
 "oSf" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "oSl" = (
@@ -16932,7 +16932,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "oTQ" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "oTT" = (
@@ -16967,7 +16967,7 @@
 "oUs" = (
 /obj/structure/flora/ausbushes/grassybush,
 /obj/structure/flora/ausbushes/sparsegrass,
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "oUP" = (
@@ -16977,8 +16977,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "oUQ" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "oUS" = (
@@ -17095,7 +17095,7 @@
 /turf/simulated/floor/tiled/dark/monofloor,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "paV" = (
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /obj/random/flora/small_jungle_tree,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
@@ -17117,7 +17117,7 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/dungeon/outside/prepper)
 "pcx" = (
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/colony/exposedsun/pastgate)
 "pcI" = (
@@ -17125,7 +17125,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "pda" = (
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /turf/unsimulated/mineral,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "pdh" = (
@@ -17179,8 +17179,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "phb" = (
-/obj/structure/flora/small/bush/bushc1,
-/obj/structure/flora/small/grass/grassb4,
+/obj/structure/flora/small/bush/bushc,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "phk" = (
@@ -17300,8 +17300,8 @@
 	name = "Abandoned Bunker"
 	})
 "pkC" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /obj/structure/flora/ausbushes/grassybush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -17425,7 +17425,7 @@
 /area/nadezhda/outside/one_star)
 "poe" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "pow" = (
@@ -17446,7 +17446,7 @@
 /area/outpost/abandoned_fortress/powered)
 "poY" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "ppl" = (
@@ -17481,7 +17481,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "pqn" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "pqM" = (
@@ -17502,7 +17502,7 @@
 /area/nadezhda/outside/meadow)
 "prT" = (
 /obj/structure/multiz/ladder,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "psh" = (
@@ -17544,11 +17544,11 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "puV" = (
-/obj/structure/flora/small/rock/rock5,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "pva" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/random/flora/small_jungle_tree,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
@@ -17574,8 +17574,8 @@
 /turf/simulated/floor/carpet/turcarpet,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "pwa" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "pwY" = (
@@ -17606,9 +17606,9 @@
 /turf/simulated/floor/tiled/derelict/red_white_edges,
 /area/nadezhda/outside/one_star)
 "pxV" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/big/bush2,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "pyh" = (
@@ -17654,7 +17654,7 @@
 	name = "Abandoned Bunker"
 	})
 "pzW" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/landmark/storyevent/midgame_stash_spawn,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -17714,8 +17714,8 @@
 	name = "Abandoned Bunker"
 	})
 "pBC" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "pBI" = (
@@ -17724,8 +17724,8 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/dungeon/outside/prepper)
 "pBS" = (
-/obj/structure/flora/small/bush/bushc1,
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "pCy" = (
@@ -17753,8 +17753,8 @@
 	narrate = "This building seems to have been quickly fabricated within the depths of the small rocky hill over it. Whoever made it seems to have fled, as the interior seems both roughened by fighting, but also completely abandoned, with machines either falling into disarray or intentionally sabotaged along with the rest of the outpost."
 	})
 "pDZ" = (
-/obj/structure/flora/small/bush/bushc1,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/bushc,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "pEn" = (
@@ -17769,8 +17769,8 @@
 /turf/simulated/floor/tiled/dark/monofloor,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "pEt" = (
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "pEw" = (
@@ -17895,15 +17895,15 @@
 /turf/simulated/floor/tiled/steel/techfloor_grid,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "pIY" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /obj/structure/flora/ausbushes/brflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "pJd" = (
-/obj/structure/flora/small/grass/grassb2,
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/grass/grassb,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "pJo" = (
@@ -17930,7 +17930,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor2)
 "pKj" = (
 /obj/effect/overlay/water,
-/obj/structure/flora/big/bush2{
+/obj/structure/flora/big/bush{
 	pixel_x = -24;
 	pixel_y = -24
 	},
@@ -17945,7 +17945,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper)
 "pKA" = (
-/obj/structure/flora/small/grass/grassb2,
+/obj/structure/flora/small/grass/grassb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "pKF" = (
@@ -17964,8 +17964,8 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "pLw" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "pLy" = (
@@ -17974,7 +17974,7 @@
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "pLT" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "pMg" = (
@@ -18078,12 +18078,12 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/dungeon/outside/prepper)
 "pOz" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "pOD" = (
-/obj/structure/flora/small/grass/grassb3,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "pPF" = (
@@ -18111,8 +18111,8 @@
 /turf/simulated/floor/tiled/dark/brown_perforated,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "pPK" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "pQs" = (
@@ -18225,7 +18225,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "pTk" = (
 /obj/effect/overlay/water,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /obj/effect/overlay/water/top,
 /turf/simulated/floor/beach/water/jungle,
 /area/nadezhda/outside/meadow)
@@ -18358,8 +18358,8 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/dungeon/outside/prepper)
 "pZu" = (
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "pZE" = (
@@ -18555,7 +18555,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "qht" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "qhG" = (
@@ -18656,9 +18656,9 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/asteroid/rogue)
 "qkX" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "qlz" = (
@@ -18667,12 +18667,12 @@
 /turf/simulated/floor/tiled/white/panels,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "qlM" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "qma" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "qmu" = (
@@ -18744,8 +18744,8 @@
 /turf/simulated/open,
 /area/nadezhda/outside/meadow)
 "qrS" = (
-/obj/structure/flora/small/bush/bushb1,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "qrT" = (
@@ -18763,7 +18763,7 @@
 /area/nadezhda/dungeon/outside/zoo)
 "qso" = (
 /obj/structure/flora/ausbushes/grassybush,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "qsv" = (
@@ -18831,7 +18831,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper)
 "qug" = (
-/obj/structure/flora/big/rock/rocks1,
+/obj/structure/flora/big/rock/rocks,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "qvg" = (
@@ -18884,12 +18884,12 @@
 /area/nadezhda/outside/meadow)
 "qxl" = (
 /obj/random/flora/small_jungle_tree,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "qxr" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "qxv" = (
@@ -18940,7 +18940,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "qyD" = (
-/obj/structure/flora/small/grass/grassa5,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "qyO" = (
@@ -18960,7 +18960,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "qzS" = (
 /obj/structure/flora/ausbushes/brflowers,
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "qzT" = (
@@ -18992,11 +18992,11 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "qBU" = (
 /obj/random/cluster/roaches/low_chance,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "qBW" = (
-/obj/structure/flora/big/bush2{
+/obj/structure/flora/big/bush{
 	pixel_x = -18;
 	pixel_y = -30
 	},
@@ -19127,11 +19127,11 @@
 	name = "Abandoned Bunker"
 	})
 "qGS" = (
-/obj/structure/flora/small/bush/bushc2,
-/obj/structure/flora/small/bush/bushc3,
+/obj/structure/flora/small/bush/bushc,
+/obj/structure/flora/small/bush/bushc,
 /obj/random/flora/jungle_tree,
 /obj/structure/flora/ausbushes/brflowers,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "qHe" = (
@@ -19158,7 +19158,7 @@
 /turf/simulated/wall/r_wall,
 /area/nadezhda/dungeon/outside/prepper)
 "qHU" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "qIb" = (
@@ -19438,7 +19438,7 @@
 /turf/simulated/floor/tiled/cafe,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "qTR" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/colony/exposedsun/pastgate)
 "qUj" = (
@@ -19596,7 +19596,7 @@
 /turf/simulated/wall/r_wall,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "rbI" = (
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/wall/wood_old,
 /area/colony/exposedsun/pastgate)
 "rbW" = (
@@ -19624,8 +19624,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "rcp" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "rcx" = (
@@ -19653,7 +19653,7 @@
 "rdt" = (
 /obj/random/flora/jungle_tree,
 /obj/structure/flora/ausbushes/sparsegrass,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "rdH" = (
@@ -19695,7 +19695,7 @@
 /turf/simulated/floor/tiled/dark/monofloor,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "rgi" = (
-/obj/structure/flora/small/rock/rock5,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "rgr" = (
@@ -19737,8 +19737,8 @@
 /area/nadezhda/outside/one_star)
 "rhQ" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "rhR" = (
@@ -19747,7 +19747,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "rid" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "rif" = (
@@ -19870,8 +19870,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "roQ" = (
-/obj/structure/flora/small/bush/bushb3,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushb,
 /obj/structure/invislight,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
@@ -19896,7 +19896,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "rps" = (
 /obj/structure/flora/ausbushes/sparsegrass,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "rpE" = (
@@ -19929,7 +19929,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "rrm" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "rrP" = (
@@ -19968,7 +19968,7 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/dungeon/outside/prepper)
 "rtr" = (
-/obj/structure/flora/big/rock/rocks3,
+/obj/structure/flora/big/rock/rocks,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "rtI" = (
@@ -20007,7 +20007,7 @@
 /turf/simulated/floor/tiled/cafe,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "rvk" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/structure/flora/ausbushes/fullgrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -20084,11 +20084,11 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "rxA" = (
-/obj/structure/flora/small/grass/grassb1,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "rzg" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/random/traps/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -20165,7 +20165,7 @@
 	name = "Abandoned Bunker"
 	})
 "rBW" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "rCn" = (
@@ -20264,7 +20264,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "rFd" = (
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "rFu" = (
@@ -20329,7 +20329,7 @@
 /turf/simulated/floor/carpet,
 /area/nadezhda/dungeon/outside/safehouse)
 "rJk" = (
-/obj/structure/flora/small/bush/bushc2,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "rJE" = (
@@ -20347,7 +20347,7 @@
 /turf/simulated/floor/carpet/turcarpet,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "rKg" = (
-/obj/structure/flora/small/rock/lavarock1,
+/obj/structure/flora/small/rock/lavarock,
 /obj/random/mob/render/low_chance,
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/asteroid/rogue)
@@ -20512,8 +20512,8 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "rTI" = (
-/obj/structure/flora/small/bush/bushb3,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "rTL" = (
@@ -20570,7 +20570,7 @@
 	})
 "rWz" = (
 /obj/structure/flora/ausbushes/ppflowers,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "rWG" = (
@@ -20628,8 +20628,8 @@
 /turf/simulated/floor/carpet/bcarpet,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "rZf" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "rZr" = (
@@ -20669,7 +20669,7 @@
 /area/nadezhda/dungeon/outside/safehouse)
 "sbH" = (
 /obj/structure/flora/ausbushes/grassybush,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "sbL" = (
@@ -20777,8 +20777,8 @@
 /turf/simulated/floor/tiled/dark/monofloor,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "sfF" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "sfH" = (
@@ -20801,8 +20801,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "sgG" = (
-/obj/structure/flora/small/bush/bushb3,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "sgZ" = (
@@ -20834,7 +20834,7 @@
 /turf/simulated/floor/tiled/derelict/white_small_edges,
 /area/nadezhda/outside/one_star)
 "shz" = (
-/obj/structure/flora/small/rock/rock2,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/dungeon/outside/zoo)
 "siu" = (
@@ -20848,11 +20848,11 @@
 /turf/simulated/floor/wood/wild4,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "siG" = (
-/obj/structure/flora/small/grass/grassa4,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "siK" = (
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /obj/structure/invislight,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
@@ -20867,7 +20867,7 @@
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "sjc" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "sjn" = (
@@ -20942,7 +20942,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "smi" = (
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/mineral/planet,
 /area/colony/exposedsun/pastgate)
 "smr" = (
@@ -21042,8 +21042,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "sqT" = (
-/obj/structure/flora/small/grass/grassb4,
-/obj/structure/flora/small/grass/grassb4,
+/obj/structure/flora/small/grass/grassb,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "sra" = (
@@ -21262,7 +21262,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "sze" = (
-/obj/structure/flora/small/rock/rock2,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "szl" = (
@@ -21273,8 +21273,8 @@
 	name = "Abandoned Bunker"
 	})
 "sAP" = (
-/obj/structure/flora/small/bush/bushc1,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/bushc,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "sBd" = (
@@ -21292,7 +21292,7 @@
 /turf/simulated/wall/r_wall,
 /area/nadezhda/dungeon/outside/safehouse)
 "sBG" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "sBI" = (
@@ -21404,14 +21404,14 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "sFS" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/item/mine_old{
 	layer = 2.6
 	},
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "sFV" = (
-/obj/structure/flora/small/grass/grassb5,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/mineral/planet,
 /area/colony/exposedsun/pastgate)
 "sGa" = (
@@ -21508,9 +21508,9 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/zoo)
 "sMs" = (
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/small/bush/bushb1,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "sMX" = (
@@ -21522,8 +21522,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "sMY" = (
-/obj/structure/flora/big/bush2,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "sNc" = (
@@ -21797,14 +21797,14 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/colony/exposedsun/crashed_shop/outsider)
 "tbG" = (
-/obj/structure/flora/big/bush1,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "tbJ" = (
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "tcb" = (
@@ -21978,7 +21978,7 @@
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/colony/exposedsun/pastgate)
 "tjz" = (
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "tjE" = (
@@ -21990,7 +21990,7 @@
 /area/nadezhda/outside/one_star)
 "tjP" = (
 /obj/structure/flora/ausbushes/brflowers,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "tjR" = (
@@ -22019,8 +22019,8 @@
 /turf/simulated/floor/beach/sand/desert,
 /area/nadezhda/dungeon/outside/zoo)
 "tlz" = (
-/obj/structure/flora/small/bush/bushb1,
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "tlD" = (
@@ -22036,7 +22036,7 @@
 /turf/simulated/floor/tiled/derelict/white_big_edges,
 /area/nadezhda/outside/one_star)
 "tmj" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /obj/random/flora/small_jungle_tree,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
@@ -22045,7 +22045,7 @@
 /area/colony/exposedsun/pastgate)
 "tmw" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "tmO" = (
@@ -22083,7 +22083,7 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "tol" = (
-/obj/structure/flora/small/rock/trailrockb1,
+/obj/structure/flora/small/rock/trailrock2,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "toy" = (
@@ -22101,8 +22101,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "toO" = (
-/obj/structure/flora/small/bush/bushb1,
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "toR" = (
@@ -22145,7 +22145,7 @@
 /turf/simulated/floor/tiled/dark/techfloor,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "trW" = (
-/obj/structure/flora/small/rock/lavarock1,
+/obj/structure/flora/small/rock/lavarock,
 /turf/simulated/floor/asteroid/dirt,
 /area/asteroid/rogue)
 "tsj" = (
@@ -22226,7 +22226,7 @@
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/dungeon/outside/zoo)
 "txh" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/colony/exposedsun/pastgate)
 "txz" = (
@@ -22427,8 +22427,8 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "tEu" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "tEy" = (
@@ -22481,7 +22481,7 @@
 	name = "Abandoned Bunker"
 	})
 "tFU" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/item/mine/armed,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -22556,7 +22556,7 @@
 /area/nadezhda/dungeon/outside/prepper)
 "tLf" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "tLx" = (
@@ -22580,7 +22580,7 @@
 /turf/simulated/floor/asteroid/dirt/dark/plough,
 /area/colony/exposedsun/pastgate)
 "tMk" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "tMq" = (
@@ -22667,8 +22667,8 @@
 	name = "Abandoned Bunker"
 	})
 "tQf" = (
-/obj/structure/flora/big/bush2,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "tQp" = (
@@ -23127,7 +23127,7 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/asteroid/rogue)
 "uhe" = (
-/obj/structure/flora/big/bush2{
+/obj/structure/flora/big/bush{
 	pixel_x = -13;
 	pixel_y = -5
 	},
@@ -23138,7 +23138,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "uhh" = (
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /turf/unsimulated/wall/jungle,
 /area/colony/exposedsun/pastgate)
 "uhy" = (
@@ -23262,7 +23262,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "uoJ" = (
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "uoN" = (
@@ -23343,12 +23343,12 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "usD" = (
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "usG" = (
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "usK" = (
@@ -23406,8 +23406,8 @@
 	narrate = "This building seems to have been quickly fabricated within the depths of the small rocky hill over it. Whoever made it seems to have fled, as the interior seems both roughened by fighting, but also completely abandoned, with machines either falling into disarray or intentionally sabotaged along with the rest of the outpost."
 	})
 "uvO" = (
-/obj/structure/flora/small/grass/grassb3,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/grass/grassb,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "uwr" = (
@@ -23419,9 +23419,9 @@
 /turf/simulated/wall/wood_old,
 /area/nadezhda/outside/meadow)
 "uwQ" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /obj/structure/flora/ausbushes/grassybush,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "uxe" = (
@@ -23509,8 +23509,8 @@
 /turf/simulated/floor/wood/wild5,
 /area/asteroid/rogue)
 "uAV" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "uBf" = (
@@ -23616,7 +23616,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "uEs" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /obj/item/mine_old{
 	layer = 2.6
 	},
@@ -23624,12 +23624,12 @@
 /area/nadezhda/outside/meadow)
 "uEQ" = (
 /obj/structure/flora/ausbushes/ppflowers,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "uFi" = (
-/obj/structure/flora/small/bush/bushb3,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "uFj" = (
@@ -23637,8 +23637,8 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/outside/meadow)
 "uFo" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "uFC" = (
@@ -23745,8 +23745,8 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "uJU" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "uJW" = (
@@ -23824,7 +23824,7 @@
 /turf/simulated/floor/tiled/white/gray_platform,
 /area/nadezhda/dungeon/outside/zoo)
 "uNt" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /obj/random/traps,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -23949,8 +23949,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper)
 "uRm" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "uSq" = (
@@ -23958,7 +23958,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "uSt" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /obj/structure/flora/ausbushes/grassybush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -23975,7 +23975,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "uTO" = (
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /obj/random/scrap/dense_even,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
@@ -24000,7 +24000,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "uUw" = (
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /obj/structure/grille,
 /obj/structure/barricade,
 /turf/simulated/floor/asteroid/grass,
@@ -24064,7 +24064,7 @@
 	name = "Abandoned Bunker"
 	})
 "uXk" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /obj/random/mob/vox/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -24085,7 +24085,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "vag" = (
-/obj/structure/flora/small/grass/grassa4,
+/obj/structure/flora/small/grass/grassa,
 /obj/structure/flora/ausbushes/fullgrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -24300,7 +24300,7 @@
 /area/nadezhda/outside/meadow)
 "viQ" = (
 /obj/structure/flora/ausbushes/grassybush,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "viR" = (
@@ -24317,7 +24317,7 @@
 	name = "Abandoned Bunker"
 	})
 "vjy" = (
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /obj/structure/flora/tree/jungle_small/variant3,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
@@ -24454,7 +24454,7 @@
 /turf/simulated/floor/tiled/dark/monofloor,
 /area/nadezhda/dungeon/outside/prepper)
 "vpk" = (
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "vpl" = (
@@ -24496,13 +24496,13 @@
 /turf/simulated/floor/wood/wild4,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "vpM" = (
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "vqg" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "vqP" = (
@@ -24618,7 +24618,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/entryway)
 "vzm" = (
-/obj/structure/flora/big/rock/rocks2,
+/obj/structure/flora/big/rock/rocks,
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/asteroid/rogue)
 "vzt" = (
@@ -24662,7 +24662,7 @@
 /turf/simulated/floor/tiled/derelict/white_red_edges,
 /area/nadezhda/outside/one_star)
 "vBq" = (
-/obj/structure/flora/small/grass/grassb5,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "vBu" = (
@@ -24772,8 +24772,8 @@
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/colony/exposedsun/pastgate)
 "vFc" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "vFe" = (
@@ -24840,8 +24840,8 @@
 	narrate = "This building seems to have been quickly fabricated within the depths of the small rocky hill over it. Whoever made it seems to have fled, as the interior seems both roughened by fighting, but also completely abandoned, with machines either falling into disarray or intentionally sabotaged along with the rest of the outpost."
 	})
 "vIA" = (
-/obj/structure/flora/small/bush/bushc2,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/bushc,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "vIH" = (
@@ -24863,8 +24863,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor2)
 "vJs" = (
-/obj/structure/flora/big/bush1,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "vJM" = (
@@ -24897,7 +24897,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "vKP" = (
 /obj/structure/flora/ausbushes/grassybush,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "vKW" = (
@@ -25027,8 +25027,8 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "vQq" = (
-/obj/structure/flora/big/bush1,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/wall/wood_old,
 /area/colony/exposedsun/pastgate)
 "vQt" = (
@@ -25078,7 +25078,7 @@
 	})
 "vSd" = (
 /obj/item/mine_old,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "vSq" = (
@@ -25095,7 +25095,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/outside/meadow)
 "vSM" = (
-/obj/structure/flora/small/bush/bushc2,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "vSS" = (
@@ -25121,17 +25121,17 @@
 /area/nadezhda/outside/meadow)
 "vTE" = (
 /obj/structure/flora/ausbushes/grassybush,
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "vTG" = (
-/obj/structure/flora/small/bush/bushb2,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/small/bush/bushb,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "vTI" = (
-/obj/structure/flora/small/rock/rock1,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "vTX" = (
@@ -25192,7 +25192,7 @@
 /area/nadezhda/outside/one_star)
 "vVN" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "vWH" = (
@@ -25215,7 +25215,7 @@
 /turf/simulated/floor/tiled/derelict/white_red_edges,
 /area/nadezhda/outside/one_star)
 "vXM" = (
-/obj/structure/flora/big/rock/rocks3,
+/obj/structure/flora/big/rock/rocks,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "vXN" = (
@@ -25230,7 +25230,7 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "vZs" = (
-/obj/structure/flora/small/bush/bushc2,
+/obj/structure/flora/small/bush/bushc,
 /obj/structure/flora/ausbushes/sparsegrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -25247,8 +25247,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "vZG" = (
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "vZT" = (
@@ -25277,7 +25277,7 @@
 /turf/simulated/floor/wood/wild1,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "wbw" = (
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /obj/structure/flora/ausbushes/fullgrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -25360,12 +25360,12 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "wgB" = (
-/obj/structure/flora/small/rock/trailrockb1,
+/obj/structure/flora/small/rock/trailrock2,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "whc" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "whf" = (
@@ -25397,8 +25397,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "wiA" = (
-/obj/structure/flora/small/bush/busha2,
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "wiC" = (
@@ -25453,7 +25453,7 @@
 /turf/simulated/floor/tiled/white,
 /area/nadezhda/dungeon/outside/zoo)
 "wlb" = (
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /obj/random/traps/low_chance,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -25600,9 +25600,9 @@
 	name = "Abandoned Bunker"
 	})
 "wsg" = (
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/big/bush3,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "wsp" = (
@@ -25652,8 +25652,8 @@
 /turf/simulated/floor/wood/wild5,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "wtv" = (
-/obj/structure/flora/small/bush/bushc3,
-/obj/structure/flora/small/bush/bushc3,
+/obj/structure/flora/small/bush/bushc,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "wtz" = (
@@ -25672,9 +25672,9 @@
 	name = "Abandoned Bunker"
 	})
 "wtL" = (
-/obj/structure/flora/small/grass/grassb1,
-/obj/structure/flora/small/bush/busha1,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/grass/grassb,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "wuv" = (
@@ -25793,7 +25793,7 @@
 /area/asteroid/rogue)
 "wAd" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "wAr" = (
@@ -26030,7 +26030,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "wMg" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "wMj" = (
@@ -26105,7 +26105,7 @@
 /area/nadezhda/dungeon/outside/prepper)
 "wNK" = (
 /obj/random/flora/small_jungle_tree,
-/obj/structure/flora/big/bush3,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "wNN" = (
@@ -26212,7 +26212,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "wUP" = (
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
 "wVd" = (
@@ -26251,12 +26251,12 @@
 /turf/simulated/floor/tiled/white/panels,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "wWk" = (
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "wWo" = (
-/obj/structure/flora/big/bush1,
-/obj/structure/flora/small/bush/bushb3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/dirt/dark/plough,
 /area/colony/exposedsun/pastgate)
 "wXn" = (
@@ -26284,7 +26284,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "wYx" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "wYF" = (
@@ -26496,7 +26496,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "xgb" = (
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "xgo" = (
@@ -26570,7 +26570,7 @@
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "xje" = (
 /obj/structure/flora/ausbushes/grassybush,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "xjw" = (
@@ -26628,7 +26628,7 @@
 /turf/simulated/floor/carpet/bcarpet,
 /area/nadezhda/dungeon/outside/smuggler_zone)
 "xkG" = (
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /obj/structure/invislight,
 /turf/simulated/floor/asteroid/grass,
 /area/colony/exposedsun/pastgate)
@@ -26688,7 +26688,7 @@
 	name = "Abandoned Bunker"
 	})
 "xnX" = (
-/obj/structure/flora/big/rock/rocks1,
+/obj/structure/flora/big/rock/rocks,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "xot" = (
@@ -26930,7 +26930,7 @@
 /turf/simulated/floor/tiled/dark/danger,
 /area/nadezhda/dungeon/outside/prepper)
 "xzl" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/random/flora/small_jungle_tree,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -26980,7 +26980,7 @@
 /turf/simulated/floor/tiled/dark/danger,
 /area/nadezhda/dungeon/outside/prepper/vault/floor4)
 "xCd" = (
-/obj/structure/flora/big/rock/rocks2,
+/obj/structure/flora/big/rock/rocks,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/monster_cave)
 "xCH" = (
@@ -27226,11 +27226,11 @@
 	})
 "xOk" = (
 /obj/structure/flora/ausbushes/sparsegrass,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "xOU" = (
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "xPc" = (
@@ -27265,8 +27265,8 @@
 /turf/simulated/floor/tiled/cafe,
 /area/nadezhda/dungeon/outside/smuggler_zone_u)
 "xQb" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "xQd" = (
@@ -27288,7 +27288,7 @@
 	name = "Abandoned Bunker"
 	})
 "xQu" = (
-/obj/structure/flora/small/bush/busha2,
+/obj/structure/flora/small/bush/busha,
 /obj/effect/overlay/water,
 /obj/effect/overlay/water/top,
 /turf/simulated/floor/beach/water/jungle,
@@ -27344,7 +27344,7 @@
 /turf/simulated/floor/tiled/dark/gray_perforated,
 /area/nadezhda/dungeon/outside/prepper)
 "xSW" = (
-/obj/structure/flora/small/rock/rock3,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "xTs" = (
@@ -27431,7 +27431,7 @@
 /area/colony/exposedsun/pastgate)
 "xXY" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "xYv" = (
@@ -27440,12 +27440,12 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star)
 "xYC" = (
-/obj/structure/flora/big/bush2,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/big/bush,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "xZb" = (
-/obj/structure/flora/small/bush/bushc3,
+/obj/structure/flora/small/bush/bushc,
 /obj/random/flora/jungle_tree,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -27538,7 +27538,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor3)
 "ycO" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "ycT" = (
@@ -27592,7 +27592,7 @@
 /area/nadezhda/dungeon/outside/prepper/vault/floor5)
 "yeK" = (
 /obj/structure/flora/ausbushes/grassybush,
-/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "yeN" = (
@@ -27683,8 +27683,8 @@
 /turf/simulated/floor/tiled/derelict/white_small_edges,
 /area/nadezhda/outside/one_star)
 "yjW" = (
-/obj/structure/flora/small/bush/busha3,
-/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/bush/busha,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "ykd" = (

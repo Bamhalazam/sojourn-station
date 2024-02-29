@@ -5929,7 +5929,7 @@
 /turf/simulated/floor/tiled/dark/golden,
 /area/centcom/evac)
 "sW" = (
-/obj/structure/flora/small/grass/grassb2,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/fixed/fgrass,
 /area/centcom/evac)
 "sX" = (
@@ -6068,7 +6068,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/centcom/raider_base)
 "tX" = (
-/obj/structure/flora/small/grass/grassa4,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/fixed/fgrass,
 /area/centcom/evac)
 "ud" = (
@@ -7124,7 +7124,7 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/centcom/evac)
 "EM" = (
-/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/fixed/fgrass,
 /area/centcom/evac)
 "EO" = (
@@ -7248,7 +7248,7 @@
 /turf/space,
 /area/space)
 "Gf" = (
-/obj/structure/flora/small/grass/grassb4,
+/obj/structure/flora/small/grass/grassb,
 /turf/simulated/floor/fixed/fgrass,
 /area/centcom/evac)
 "Gj" = (
@@ -8596,7 +8596,7 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/centcom/evac)
 "Rv" = (
-/obj/structure/flora/small/grass/grassa5,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/fixed/fgrass,
 /area/centcom/evac)
 "Rw" = (
@@ -9231,7 +9231,7 @@
 /turf/simulated/floor/tiled/dark/techfloor_grid,
 /area/centcom/evac)
 "Ye" = (
-/obj/structure/flora/small/grass/grassa1,
+/obj/structure/flora/small/grass/grassa,
 /turf/simulated/floor/fixed/fgrass,
 /area/centcom/evac)
 "Yf" = (

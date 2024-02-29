@@ -920,7 +920,7 @@
 /turf/simulated/floor/wood/wild4,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "eZ" = (
-/obj/structure/flora/small/rock/rock4,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass/colonialjungle2,
 /area/nadezhda/outside/forest/hunting_lodge)
 "fc" = (
@@ -1202,7 +1202,7 @@
 /turf/simulated/floor/asteroid/grass/colonial1,
 /area/nadezhda/outside/forest/hunting_lodge)
 "gC" = (
-/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb,
 /turf/simulated/floor/asteroid/grass/colonialjungle2,
 /area/nadezhda/outside/forest/hunting_lodge)
 "gE" = (
@@ -2237,7 +2237,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/outside/forest/hunting_lodge)
 "yo" = (
-/obj/structure/flora/small/rock/rock2,
+/obj/structure/flora/big/rock/rock,
 /turf/simulated/floor/asteroid/grass/colonialjungle2,
 /area/nadezhda/outside/forest/hunting_lodge)
 "yr" = (
@@ -2894,7 +2894,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/outside/forest/hunting_lodge)
 "Py" = (
-/obj/structure/flora/big/rock/rocks3,
+/obj/structure/flora/big/rock/rocks,
 /obj/random/flora/jungle_tree,
 /turf/simulated/floor/asteroid/grass/colonialjungle2,
 /area/nadezhda/outside/forest/hunting_lodge)
@@ -3006,7 +3006,7 @@
 /turf/simulated/wall/wood,
 /area/nadezhda/outside/forest/hunting_lodge)
 "RJ" = (
-/obj/structure/flora/small/rock/rock2,
+/obj/structure/flora/big/rock/rock,
 /obj/machinery/portable_atmospherics/powered/scrubber/yggdrasil,
 /turf/simulated/floor/asteroid/grass/colonialjungle2,
 /area/nadezhda/outside/forest/hunting_lodge)
@@ -3193,7 +3193,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/outside/forest/hunting_lodge)
 "XK" = (
-/obj/structure/flora/big/rock/rocks3,
+/obj/structure/flora/big/rock/rocks,
 /turf/simulated/floor/asteroid/grass/colonialjungle2,
 /area/nadezhda/outside/forest/hunting_lodge)
 "XL" = (

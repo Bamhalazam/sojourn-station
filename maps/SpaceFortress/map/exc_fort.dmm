@@ -110,7 +110,7 @@
 /turf/simulated/floor/tiled/derelict/red_white_edges,
 /area/outpost/abandoned_fortress/powered_lit)
 "cF" = (
-/obj/structure/flora/small/rock/rock4,
+/obj/structure/flora/big/rock/rock,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/asteroid/grass,
 /area/outpost/abandoned_fortress/powered_lit)
@@ -404,7 +404,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/outpost/abandoned_fortress/powered_lit)
 "im" = (
-/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrock1,
 /turf/simulated/floor/asteroid/grass,
 /area/outpost/abandoned_fortress/powered_lit)
 "ip" = (
@@ -670,7 +670,7 @@
 /area/outpost/abandoned_fortress/powered_lit)
 "nW" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/obj/structure/flora/big/bush1,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/outpost/abandoned_fortress/powered_lit)
 "oi" = (
@@ -949,7 +949,7 @@
 /area/outpost/abandoned_fortress/powered_lit)
 "ul" = (
 /obj/structure/flora/ausbushes/lavendergrass,
-/obj/structure/flora/small/bush/busha3,
+/obj/structure/flora/small/bush/busha,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/asteroid/grass,
 /area/outpost/abandoned_fortress/powered_lit)
@@ -1023,7 +1023,7 @@
 /area/outpost/abandoned_fortress/powered_lit)
 "wn" = (
 /obj/structure/flora/ausbushes/brflowers,
-/obj/structure/flora/big/bush2,
+/obj/structure/flora/big/bush,
 /turf/simulated/floor/asteroid/grass,
 /area/outpost/abandoned_fortress/powered_lit)
 "ws" = (

@@ -13,6 +13,7 @@
 	var/stump_type = /obj/structure/flora/stump //What type stump do we have
 	var/modular_shadow = TRUE //Are rng picker var, yes or no basiclly
 	var/infested = FALSE //Is this tree infested?
+	plane = 1 //Always makes it so that it above the rest of things on the screen, excluding ghosts and lighting
 
 /obj/structure/flora/tree/New()
 	..()

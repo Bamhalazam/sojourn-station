@@ -420,6 +420,7 @@
 /obj/structure/flora/big/rock/rock
 	name = "rocks"
 	icon = 'icons/obj/flora/jungleflora.dmi'
+	icon_state = "rock"
 
 /obj/structure/flora/big/rock/rock/New()
 	icon_state = "rock[rand(1,5)]"
@@ -427,6 +428,7 @@
 /obj/structure/flora/small/rock/trailrock1
 	name = "rocks"
 	icon = 'icons/obj/flora/rocks.dmi'
+	icon_state = "trailrock"
 
 /obj/structure/flora/small/rock/trailrock1/New()
 	icon_state = "rock[rand(1,5)]"
@@ -434,6 +436,7 @@
 /obj/structure/flora/small/rock/trailrock2
 	name = "rocks"
 	icon = 'icons/obj/flora/rocks.dmi'
+	icon_state = "trailrockbig"
 
 /obj/structure/flora/small/rock/trailrock2/New()
 	icon_state = "trailrockbig[rand(1,5)]"
@@ -441,6 +444,7 @@
 /obj/structure/flora/small/rock/lavarock
 	name = "black rocks"
 	icon = 'icons/obj/flora/rocks.dmi'
+	icon_state = "lavarocks"
 
 /obj/structure/flora/small/rock/lavarock/New()
 	icon_state = "lavarocks[rand(1,3)]"
@@ -464,6 +468,7 @@
 /obj/structure/flora/small/bush/busha
 	name = "bush"
 	icon = 'icons/obj/flora/jungleflora.dmi'
+	icon_state = "busha"
 
 /obj/structure/flora/small/bush/busha/New()
 	icon_state = "busha[rand(1,3)]"
@@ -471,6 +476,7 @@
 /obj/structure/flora/small/bush/bushb
 	name = "bush"
 	icon = 'icons/obj/flora/jungleflora.dmi'
+	icon_state = "bushb"
 
 /obj/structure/flora/small/bush/bushb/New()
 	icon_state = "bushb[rand(1,3)]"
@@ -478,6 +484,7 @@
 /obj/structure/flora/small/bush/bushc
 	name = "bush"
 	icon = 'icons/obj/flora/jungleflora.dmi'
+	icon_state = "bushc"
 
 /obj/structure/flora/small/bush/bushc/New()
 	icon_state = "bushc[rand(1,3)]"
@@ -499,15 +506,38 @@
 
 /obj/structure/flora/small/grass/grassa
 	icon = 'icons/obj/flora/jungleflora.dmi'
+	icon_state = "grassa"
 
 /obj/structure/flora/small/grass/grassa/New()
 	icon_state = "grassa[rand(1,5)]"
 
 /obj/structure/flora/small/grass/grassb
 	icon = 'icons/obj/flora/jungleflora.dmi'
+	icon_state = "grassb"
 
 /obj/structure/flora/small/grass/grassb/New()
 	icon_state = "grassb[rand(1,5)]"
+
+/obj/structure/flora/small/grass/densegrass
+	icon = 'icons/obj/flora/jungleflora.dmi'
+	icon_state = "densegrass"
+
+/obj/structure/flora/small/grass/densegrass/New()
+	icon_state = "densegrass[rand(1,2)]"
+
+/obj/structure/flora/small/grass/flowera
+	icon = 'icons/obj/flora/jungleflora.dmi'
+	icon_state = "flowera"
+
+/obj/structure/flora/small/grass/flowera/New()
+	icon_state = "flowera[rand(1,2)]"
+
+/obj/structure/flora/small/grass/flowerb
+	icon = 'icons/obj/flora/jungleflora.dmi'
+	icon_state = "flowerb"
+
+/obj/structure/flora/small/grass/flowerb/New()
+	icon_state = "flowerb[rand(1,2)]"
 
 /obj/structure/flora/big
 	name = "big bush"
@@ -535,6 +565,7 @@
 
 /obj/structure/flora/big/bush
 	icon = 'icons/obj/flora/largejungleflora.dmi'
+	icon_state = "bush"
 
 /obj/structure/flora/big/bush/New()
 	icon_state = "bush[rand(1,3)]"
@@ -562,6 +593,7 @@
 	name = "rock pile"
 	icon = 'icons/obj/flora/largejungleflora.dmi'
 	layer = PROJECTILE_HIT_THRESHHOLD_LAYER
+	icon_state = "rocks"
 
 /obj/structure/flora/big/rock/rocks/New()
 	icon_state = "rocks[rand(1,3)]"

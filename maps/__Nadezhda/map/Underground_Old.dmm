@@ -34,10 +34,10 @@
 /turf/simulated/wall/r_wall,
 /area/nadezhda/engineering/engine_room)
 "aaj" = (
-/obj/structure/flora/small/trailrockb5,
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrocka2,
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb5,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka2,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/colony)
 "aak" = (
@@ -1917,7 +1917,7 @@
 /area/nadezhda/maintenance/northcave)
 "afg" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/cavehideout)
 "afh" = (
@@ -2276,9 +2276,9 @@
 /turf/simulated/wall/r_wall,
 /area/nadezhda/maintenance/northcave)
 "agf" = (
-/obj/structure/flora/small/trailrockb4,
-/obj/structure/flora/small/trailrockb5,
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb5,
+/obj/structure/flora/small/rock/trailrocka1,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/colony)
 "agg" = (
@@ -2288,7 +2288,7 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "agh" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
@@ -2347,8 +2347,8 @@
 /turf/simulated/floor/tiled/techmaint_perforated,
 /area/nadezhda/maintenance/northcave)
 "agq" = (
-/obj/structure/flora/small/trailrockb2,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb5,
 /turf/simulated/floor/rock/alt{
 	dir = 4
 	},
@@ -2359,7 +2359,7 @@
 /area/colony)
 "ags" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/colony)
 "agt" = (
@@ -2544,7 +2544,7 @@
 /area/nadezhda/maintenance/northcave)
 "agT" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/cobweb2,
 /obj/effect/floor_decal/rust,
@@ -2556,8 +2556,8 @@
 /turf/simulated/floor/plating/under,
 /area/colony)
 "agU" = (
-/obj/structure/flora/small/trailrockb2,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb4,
 /turf/simulated/floor/rock/alt,
 /area/colony)
 "agV" = (
@@ -2678,7 +2678,7 @@
 /turf/simulated/floor/tiled/cafe,
 /area/nadezhda/quartermaster/pods)
 "ahl" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "ahm" = (
@@ -2701,7 +2701,7 @@
 /area/nadezhda/maintenance/northcave)
 "ahp" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/floor_decal/rust,
@@ -3584,7 +3584,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/engineering/atmos)
 "ajA" = (
-/obj/structure/flora/small/trailrockb1,
+/obj/structure/flora/small/rock/trailrockb1,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "ajB" = (
@@ -3592,7 +3592,7 @@
 /turf/simulated/floor/tiled/steel/gray_perforated,
 /area/nadezhda/engineering/workshop)
 "ajC" = (
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka3,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "ajD" = (
@@ -3603,7 +3603,7 @@
 /turf/simulated/floor/tiled/steel/orangecorner,
 /area/nadezhda/quartermaster/pods)
 "ajE" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /turf/simulated/mineral,
 /area/nadezhda/maintenance/northcave)
 "ajF" = (
@@ -3649,7 +3649,7 @@
 /turf/simulated/floor/tiled/cafe,
 /area/nadezhda/pros/foreman)
 "ajJ" = (
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "ajK" = (
@@ -3962,7 +3962,7 @@
 	},
 /area/nadezhda/engineering/engine_room)
 "akC" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/maintenance/northcave)
 "akD" = (
@@ -3971,12 +3971,12 @@
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/maintenance/northcave)
 "akE" = (
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka3,
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/maintenance/northcave)
 "akF" = (
-/obj/structure/flora/small/trailrocka4,
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka3,
 /turf/simulated/floor/beach/water/jungledeep{
 	desc = "Filthy, stinking bilge water.";
 	name = "murky water"
@@ -4098,16 +4098,16 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/engineering/atmos)
 "akT" = (
-/obj/structure/flora/small/trailrockb1,
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrockb1,
+/obj/structure/flora/small/rock/trailrocka4,
 /turf/simulated/floor/beach/water/jungledeep{
 	desc = "Filthy, stinking bilge water.";
 	name = "murky water"
 	},
 /area/nadezhda/maintenance/northcave)
 "akU" = (
-/obj/structure/flora/small/trailrocka3,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrocka3,
+/obj/structure/flora/small/rock/trailrockb5,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "akV" = (
@@ -4679,8 +4679,8 @@
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/maintenance/northcave)
 "amt" = (
-/obj/structure/flora/small/trailrocka4,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrockb4,
 /turf/simulated/floor/beach/water/jungledeep{
 	desc = "Filthy, stinking bilge water.";
 	name = "murky water"
@@ -4697,7 +4697,7 @@
 	},
 /area/nadezhda/maintenance/northcave)
 "amw" = (
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb4,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "amx" = (
@@ -4889,7 +4889,7 @@
 /area/nadezhda/engineering/atmos/storage)
 "ana" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/northcave)
 "anb" = (
@@ -4996,12 +4996,12 @@
 /turf/simulated/floor/tiled/steel/techfloor,
 /area/nadezhda/engineering/engine_room)
 "ano" = (
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka3,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/northcave)
 "anp" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/beach/water/jungledeep{
 	desc = "Filthy, stinking bilge water.";
@@ -5009,7 +5009,7 @@
 	},
 /area/nadezhda/maintenance/northcave)
 "anq" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /turf/simulated/floor/beach/water/jungledeep{
 	desc = "Filthy, stinking bilge water.";
 	name = "murky water"
@@ -5795,8 +5795,8 @@
 	},
 /area/nadezhda/maintenance/northcave)
 "apf" = (
-/obj/structure/flora/small/trailrockb1,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb1,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/maintenance/northcave)
@@ -5948,7 +5948,7 @@
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/maintenance/northcave)
 "apw" = (
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka3,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
@@ -6551,7 +6551,7 @@
 /area/nadezhda/engineering/engine_room)
 "aqY" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/cavehideout)
 "aqZ" = (
@@ -6561,7 +6561,7 @@
 	icon_state = "1-4"
 	},
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/effect/decal/cleanable/dirt,
 /obj/random/junk/low_chance,
 /turf/simulated/floor/rock,
@@ -7889,8 +7889,8 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/maintenance/undergroundfloor1oldconstruction)
 "auM" = (
-/obj/structure/flora/small/trailrocka4,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/floor_decal/rust,
 /mob/living/simple_animal/hostile/naniteswarm{
@@ -8907,10 +8907,10 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/engineering/engine_room)
 "axr" = (
-/obj/structure/flora/small/trailrockb4,
-/obj/structure/flora/small/trailrocka4,
-/obj/structure/flora/small/trailrockb3,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/plating/under,
 /area/colony)
@@ -9269,7 +9269,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/quartermaster/hangarsupply)
 "ayq" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/rock,
 /area/nadezhda/quartermaster/hangarsupply)
 "ayr" = (
@@ -9477,11 +9477,11 @@
 /turf/simulated/floor/tiled/techmaint_perforated,
 /area/nadezhda/maintenance/undergroundfloor1oldconstruction)
 "ayV" = (
-/obj/structure/flora/small/trailrockb4,
-/obj/structure/flora/small/trailrockb2,
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrocka4,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb2,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrockb4,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/colony)
 "ayW" = (
@@ -9546,7 +9546,7 @@
 /turf/simulated/floor/tiled/white/brown_perforated,
 /area/nadezhda/crew_quarters/podrooms2)
 "azd" = (
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/colony)
 "aze" = (
@@ -10154,14 +10154,14 @@
 /turf/simulated/wall,
 /area/nadezhda/medical/medsleep)
 "aAN" = (
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /obj/effect/floor_decal/rust/mono_rusted3,
 /obj/random/mob/roaches/low_chance,
 /turf/simulated/floor/plating/under,
 /area/colony)
 "aAO" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /obj/structure/catwalk,
 /obj/structure/barricade,
 /turf/simulated/floor/plating/under,
@@ -10364,8 +10364,8 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/medical/morgue)
 "aBs" = (
-/obj/structure/flora/small/trailrockb4,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/plating/under,
 /area/colony)
@@ -10374,8 +10374,8 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/maintenance/undergroundfloor1north)
 "aBu" = (
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka4,
 /turf/simulated/floor/plating/under,
 /area/colony)
 "aBv" = (
@@ -10411,12 +10411,12 @@
 /area/nadezhda/maintenance/undergroundfloor1north)
 "aBA" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /turf/simulated/floor/rock,
 /area/colony)
 "aBB" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/effect/decal/cleanable/dirt,
 /obj/random/lowkeyrandom/low_chance,
 /turf/simulated/floor/plating/under,
@@ -10522,7 +10522,7 @@
 /area/nadezhda/maintenance/undergroundfloor1oldconstruction)
 "aBO" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/plating/under,
 /area/colony)
@@ -10642,8 +10642,8 @@
 /turf/simulated/floor/plating/under,
 /area/colony)
 "aCd" = (
-/obj/structure/flora/small/trailrocka5,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrocka5,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/effect/floor_decal/rust/mono_rusted1,
 /turf/simulated/floor/plating/under,
 /area/colony)
@@ -10669,7 +10669,7 @@
 	tag = "icon-danger (WEST)"
 	},
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka5,
+/obj/structure/flora/small/rock/trailrocka5,
 /obj/item/device/lighting/toggleable/lantern,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/cobweb,
@@ -13710,7 +13710,7 @@
 /turf/simulated/floor/tiled/white/brown_platform,
 /area/nadezhda/medical/medbay3)
 "aJw" = (
-/obj/structure/flora/small/lavarock2,
+/obj/structure/flora/small/rock/lavarock2,
 /obj/structure/flora/ausbushes/ppflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/rnd/scient)
@@ -14888,7 +14888,7 @@
 /area/nadezhda/maintenance/substation/section8)
 "aMw" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -15045,8 +15045,8 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/undergroundfloor1oldconstruction)
 "aMW" = (
-/obj/structure/flora/small/grassa2,
-/obj/structure/flora/small/busha3,
+/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/bush/busha3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aMX" = (
@@ -15060,21 +15060,21 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/maintenance/undergroundfloor2south)
 "aMZ" = (
-/obj/structure/flora/small/busha3,
+/obj/structure/flora/small/bush/busha3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aNa" = (
-/obj/structure/flora/small/rock4,
+/obj/structure/flora/small/rock/rock4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aNb" = (
 /obj/structure/flora/ausbushes/lavendergrass,
-/obj/structure/flora/small/busha3,
+/obj/structure/flora/small/bush/busha3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aNc" = (
 /obj/structure/flora/ausbushes/lavendergrass,
-/obj/structure/flora/small/grassa2,
+/obj/structure/flora/small/grass/grassa2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aNd" = (
@@ -15306,13 +15306,13 @@
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aNF" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/structure/boulder,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aNG" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/effect/decal/cleanable/rubble,
 /obj/structure/barricade,
 /turf/simulated/floor/rock,
@@ -15328,14 +15328,14 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/maintenance/undergroundfloor1west)
 "aNJ" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aNK" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/effect/decal/cleanable/rubble,
 /obj/structure/boulder,
 /turf/simulated/floor/asteroid/dirt/dark,
@@ -15539,7 +15539,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/undergroundfloor1oldconstruction)
 "aOl" = (
-/obj/structure/flora/small/grassa2,
+/obj/structure/flora/small/grass/grassa2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aOm" = (
@@ -15691,8 +15691,8 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/substation/section8)
 "aOD" = (
-/obj/structure/flora/small/trailrocka5,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrocka5,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aOE" = (
@@ -15882,7 +15882,7 @@
 /area/nadezhda/maintenance/undergroundfloor1central)
 "aOY" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/structure/boulder,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -15891,7 +15891,7 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aPa" = (
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aPb" = (
@@ -16250,7 +16250,7 @@
 /turf/simulated/floor/tiled/white,
 /area/nadezhda/medical/medbay4)
 "aQa" = (
-/obj/structure/flora/small/grassa2,
+/obj/structure/flora/small/grass/grassa2,
 /obj/structure/flora/ausbushes/lavendergrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -16284,7 +16284,7 @@
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aQh" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aQi" = (
@@ -16621,7 +16621,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aRg" = (
-/obj/structure/flora/small/busha3,
+/obj/structure/flora/small/bush/busha3,
 /obj/structure/flora/ausbushes/ppflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -16659,19 +16659,19 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aRn" = (
-/obj/structure/flora/small/trailrockb1,
+/obj/structure/flora/small/rock/trailrockb1,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aRo" = (
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka3,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aRp" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aRq" = (
-/obj/structure/flora/small/trailrocka5,
+/obj/structure/flora/small/rock/trailrocka5,
 /obj/machinery/portable_atmospherics/hydroponics/soil/invisible,
 /obj/machinery/portable_atmospherics/hydroponics/soil,
 /turf/simulated/floor/asteroid/dirt/dark/plough,
@@ -16692,9 +16692,9 @@
 /turf/simulated/floor/tiled/steel,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aRt" = (
-/obj/structure/flora/small/grassa2,
-/obj/structure/flora/small/grassa2,
-/obj/structure/flora/small/busha3,
+/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/grass/grassa2,
+/obj/structure/flora/small/bush/busha3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aRu" = (
@@ -16993,20 +16993,20 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aSk" = (
-/obj/structure/flora/small/grassa2,
+/obj/structure/flora/small/grass/grassa2,
 /obj/structure/flora/ausbushes/ppflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aSl" = (
-/obj/structure/flora/small/grassa1,
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/grass/grassa1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/machinery/light{
 	dir = 8
 	},
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aSm" = (
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aSn" = (
@@ -17019,7 +17019,7 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aSp" = (
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aSq" = (
@@ -17028,7 +17028,7 @@
 /turf/simulated/floor/carpet,
 /area/nadezhda/crew_quarters/library)
 "aSr" = (
-/obj/structure/flora/small/grassb3,
+/obj/structure/flora/small/grass/grassb3,
 /obj/structure/flora/ausbushes/sparsegrass,
 /obj/structure/flora/ausbushes/ywflowers,
 /obj/structure/cable/green{
@@ -17232,7 +17232,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/undergroundfloor1east)
 "aSX" = (
-/obj/structure/flora/small/grassa2,
+/obj/structure/flora/small/grass/grassa2,
 /obj/structure/flora/ausbushes/sparsegrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -17305,7 +17305,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aTg" = (
-/obj/structure/flora/small/busha3,
+/obj/structure/flora/small/bush/busha3,
 /obj/structure/flora/ausbushes/reedbush,
 /obj/machinery/light{
 	dir = 8
@@ -17348,18 +17348,18 @@
 /turf/simulated/floor/wood/wild1,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aTm" = (
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka3,
 /obj/structure/railing,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aTn" = (
-/obj/structure/flora/small/bushc3,
-/obj/structure/flora/small/rock4,
+/obj/structure/flora/small/bush/bushc3,
+/obj/structure/flora/small/rock/rock4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aTo" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aTp" = (
@@ -17603,7 +17603,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/maintenance/undergroundfloor1east)
 "aTY" = (
-/obj/structure/flora/big/rocks3,
+/obj/structure/flora/big/rock/rocks3,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aTZ" = (
@@ -17642,7 +17642,7 @@
 /turf/simulated/floor/tiled/steel,
 /area/nadezhda/medical/genetics)
 "aUc" = (
-/obj/structure/flora/small/grassa1,
+/obj/structure/flora/small/grass/grassa1,
 /obj/structure/flora/ausbushes/ppflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -17670,12 +17670,12 @@
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aUg" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aUh" = (
-/obj/structure/flora/small/trailrocka3,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrocka3,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/structure/railing,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -17692,7 +17692,7 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aUk" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -17972,7 +17972,7 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aVc" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aVd" = (
@@ -18175,7 +18175,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/maintenance/undergroundfloor1east)
 "aVH" = (
-/obj/structure/flora/small/grassa1,
+/obj/structure/flora/small/grass/grassa1,
 /obj/structure/flora/ausbushes/reedbush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -18209,23 +18209,23 @@
 /turf/simulated/floor/wood/wild1,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aVN" = (
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka3,
 /obj/structure/railing{
 	dir = 8
 	},
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aVO" = (
-/obj/structure/flora/small/trailrocka4,
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka3,
 /turf/simulated/floor/beach/water/flooded,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aVP" = (
 /turf/simulated/floor/beach/water/flooded,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aVQ" = (
-/obj/structure/flora/small/trailrockb1,
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrockb1,
+/obj/structure/flora/small/rock/trailrocka4,
 /turf/simulated/floor/beach/water/flooded,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aVR" = (
@@ -18234,8 +18234,8 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aVS" = (
-/obj/structure/flora/small/trailrocka3,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrocka3,
+/obj/structure/flora/small/rock/trailrockb5,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aVT" = (
@@ -18265,8 +18265,8 @@
 /turf/simulated/floor/tiled/white/brown_platform,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aVX" = (
-/obj/structure/flora/small/bushc3,
-/obj/structure/flora/small/grassa1,
+/obj/structure/flora/small/bush/bushc3,
+/obj/structure/flora/small/grass/grassa1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aVY" = (
@@ -18961,7 +18961,7 @@
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aXM" = (
-/obj/structure/flora/small/trailrocka5,
+/obj/structure/flora/small/rock/trailrocka5,
 /obj/structure/flora/ausbushes/lavendergrass,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -19436,8 +19436,8 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aYY" = (
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrockb1,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrockb1,
 /turf/simulated/mineral,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aYZ" = (
@@ -19458,7 +19458,7 @@
 /turf/simulated/floor/wood/wild1,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aZc" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aZd" = (
@@ -19651,15 +19651,15 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/maintenance/undergroundfloor1central)
 "aZE" = (
-/obj/structure/flora/small/trailrocka4,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/structure/railing{
 	dir = 8
 	},
 /turf/simulated/floor/beach/water/flooded,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aZF" = (
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb4,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aZG" = (
@@ -19668,7 +19668,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aZH" = (
-/obj/structure/flora/small/bushc3,
+/obj/structure/flora/small/bush/bushc3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "aZI" = (
@@ -19893,18 +19893,18 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "bao" = (
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/structure/boulder,
 /turf/simulated/mineral,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "bap" = (
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka3,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "baq" = (
-/obj/structure/flora/small/trailrockb1,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb1,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/structure/railing{
 	dir = 8
 	},
@@ -19912,7 +19912,7 @@
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "bar" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/structure/railing,
 /turf/simulated/floor/beach/water/flooded,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -19921,7 +19921,7 @@
 /turf/simulated/floor/beach/water/flooded,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "bat" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/structure/railing,
 /turf/simulated/floor/beach/water/flooded,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -20322,7 +20322,7 @@
 /turf/simulated/floor/wood/wild1,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "bbo" = (
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka3,
 /obj/structure/boulder,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -20606,14 +20606,14 @@
 /turf/simulated/floor/wood/wild1,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "bbY" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "bbZ" = (
 /turf/simulated/floor/tiled/techmaint_perforated,
 /area/nadezhda/maintenance/undergroundfloor2north)
 "bca" = (
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -20832,18 +20832,18 @@
 /turf/simulated/floor/tiled/dark,
 /area/nadezhda/command/panic_room)
 "bcE" = (
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "bcF" = (
-/obj/structure/flora/small/trailrockb1,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb1,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "bcG" = (
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka3,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -21153,7 +21153,7 @@
 /turf/simulated/floor/tiled/white/techfloor,
 /area/nadezhda/maintenance/undergroundfloor1central)
 "bds" = (
-/obj/structure/flora/small/grassa5,
+/obj/structure/flora/small/grass/grassa5,
 /obj/structure/flora/ausbushes/lavendergrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -21577,9 +21577,9 @@
 /turf/simulated/wall/r_wall,
 /area/nadezhda/pros/prep)
 "bel" = (
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka3,
 /obj/structure/flora/ausbushes/lavendergrass,
-/obj/structure/flora/small/bushc3,
+/obj/structure/flora/small/bush/bushc3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "bem" = (
@@ -21923,13 +21923,13 @@
 /area/nadezhda/command/bridge)
 "beU" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "beV" = (
-/obj/structure/flora/small/bushb1,
-/obj/structure/flora/small/bushb2,
-/obj/structure/flora/small/rock5,
+/obj/structure/flora/small/bush/bushb1,
+/obj/structure/flora/small/bush/bushb2,
+/obj/structure/flora/small/rock/rock5,
 /obj/structure/flora/big/bush2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -22580,8 +22580,8 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/undergroundfloor1east)
 "bgr" = (
-/obj/structure/flora/small/bushc3,
-/obj/structure/flora/small/grassa1,
+/obj/structure/flora/small/bush/bushc3,
+/obj/structure/flora/small/grass/grassa1,
 /obj/structure/flora/ausbushes/lavendergrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -22612,7 +22612,7 @@
 /area/nadezhda/quartermaster/miningdock)
 "bgu" = (
 /obj/structure/boulder,
-/obj/structure/flora/small/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka3,
 /obj/effect/decal/cleanable/rubble,
 /obj/random/mecha_equipment/low_chance,
 /turf/simulated/floor/rock,
@@ -22860,14 +22860,14 @@
 /turf/simulated/floor/tiled/steel/panels,
 /area/nadezhda/maintenance/undergroundfloor1oldconstruction)
 "bhe" = (
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/rubble,
 /obj/random/mecha_equipment/low_chance,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "bhf" = (
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/rubble,
 /obj/random/scrap,
@@ -23149,7 +23149,7 @@
 /area/nadezhda/maintenance/undergroundfloor1east)
 "bhQ" = (
 /obj/effect/decal/mecha_wreckage/ripley,
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/blood,
 /turf/simulated/floor/rock,
@@ -23161,7 +23161,7 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "bhS" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/item/tool/weldingtool,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
@@ -23374,7 +23374,7 @@
 /turf/simulated/floor/tiled/white,
 /area/nadezhda/crew_quarters/podrooms2)
 "bir" = (
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /obj/structure/barricade,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
@@ -23388,8 +23388,8 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/command/bridge)
 "bit" = (
-/obj/structure/flora/small/trailrockb2,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/rubble,
 /obj/item/material/shard/shrapnel/scrap,
@@ -23525,10 +23525,10 @@
 /turf/simulated/floor/tiled/steel/monofloor,
 /area/nadezhda/rnd/scient)
 "biM" = (
-/obj/structure/flora/small/trailrocka2,
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrocka3,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka3,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/effect/decal/cleanable/rubble,
 /obj/item/weldpack,
 /turf/simulated/floor/rock,
@@ -23540,14 +23540,14 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/northcave)
 "biO" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/rubble,
 /obj/random/cluster/roaches/low_chance,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "biP" = (
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/effect/decal/cleanable/rubble,
 /obj/random/tool/low_chance,
 /turf/simulated/floor/asteroid/dirt/dark,
@@ -23717,7 +23717,7 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "bjm" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/rock,
@@ -24994,11 +24994,11 @@
 /area/nadezhda/maintenance/undergroundfloor2south)
 "bmM" = (
 /obj/structure/boulder,
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "bmN" = (
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/blood/drip,
 /turf/simulated/floor/rock,
@@ -25168,7 +25168,7 @@
 /area/nadezhda/maintenance/undergroundfloor2south)
 "bnm" = (
 /obj/structure/boulder,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "bnn" = (
@@ -25178,7 +25178,7 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "bno" = (
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/northcave)
 "bnp" = (
@@ -25240,8 +25240,8 @@
 /turf/simulated/floor/tiled/white,
 /area/nadezhda/maintenance/undergroundfloor2south)
 "bny" = (
-/obj/structure/flora/small/trailrocka2,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrocka2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "bnz" = (
@@ -25324,7 +25324,7 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/northcave)
 "bnO" = (
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/northcave)
@@ -26410,12 +26410,12 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor2south)
 "bqN" = (
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/structure/grille,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor2south)
 "bqO" = (
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor2south)
@@ -31880,9 +31880,9 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/command/bridge)
 "bEf" = (
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrocka5,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka5,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/rubble,
@@ -32481,7 +32481,7 @@
 /turf/simulated/floor/tiled/white/techfloor,
 /area/nadezhda/crew_quarters/pool)
 "bFB" = (
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/rock,
@@ -33101,7 +33101,7 @@
 /turf/simulated/floor/tiled/cafe,
 /area/nadezhda/crew_quarters/library)
 "bGP" = (
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/rock,
@@ -35160,10 +35160,10 @@
 /turf/simulated/floor/tiled/cafe,
 /area/nadezhda/engineering/dorm/two)
 "bMe" = (
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrocka2,
-/obj/structure/flora/small/trailrocka5,
-/obj/structure/flora/small/trailrockb1,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka5,
+/obj/structure/flora/small/rock/trailrockb1,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/rubble,
@@ -35397,8 +35397,8 @@
 /turf/simulated/floor/carpet/oracarpet,
 /area/nadezhda/engineering/dorm/two)
 "bMD" = (
-/obj/structure/flora/small/trailrocka3,
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka3,
+/obj/structure/flora/small/rock/trailrocka2,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
@@ -35601,9 +35601,9 @@
 /turf/simulated/floor/tiled/techmaint_panels,
 /area/nadezhda/engineering/workshop)
 "bNa" = (
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrocka2,
-/obj/structure/flora/small/trailrockb1,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka2,
+/obj/structure/flora/small/rock/trailrockb1,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/rubble,
@@ -42917,7 +42917,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/side/f2section4)
 "cdB" = (
-/obj/structure/flora/small/grassa2,
+/obj/structure/flora/small/grass/grassa2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/side/f2section4)
 "cdC" = (
@@ -43222,7 +43222,7 @@
 /obj/structure/flora/ausbushes/fullgrass,
 /obj/structure/flora/ausbushes/stalkybush,
 /obj/structure/flora/ausbushes/lavendergrass,
-/obj/structure/flora/small/bushc2,
+/obj/structure/flora/small/bush/bushc2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/side/f2section4)
 "cel" = (
@@ -43654,7 +43654,7 @@
 /turf/simulated/floor/tiled/steel/orangecorner,
 /area/nadezhda/pros/prep)
 "cfl" = (
-/obj/structure/flora/small/grassb5,
+/obj/structure/flora/small/grass/grassb5,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/side/f2section4)
 "cfm" = (
@@ -44181,13 +44181,13 @@
 /turf/simulated/floor/tiled/steel/cargo,
 /area/nadezhda/pros/prep)
 "cgy" = (
-/obj/structure/flora/small/bushc2,
-/obj/structure/flora/small/busha2,
+/obj/structure/flora/small/bush/bushc2,
+/obj/structure/flora/small/bush/busha2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/side/f2section4)
 "cgz" = (
 /obj/structure/flora/ausbushes/lavendergrass,
-/obj/structure/flora/small/bushc2,
+/obj/structure/flora/small/bush/bushc2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/side/f2section4)
 "cgA" = (
@@ -46295,7 +46295,7 @@
 /area/nadezhda/medical/medbay3)
 "ckX" = (
 /obj/structure/flora/ausbushes/lavendergrass,
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/engineering/foyer)
 "ckY" = (
@@ -46789,7 +46789,7 @@
 /area/nadezhda/maintenance/undergroundfloor2west)
 "cmk" = (
 /obj/structure/flora/ausbushes/grassybush,
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/engineering/foyer)
 "cml" = (
@@ -46837,7 +46837,7 @@
 /area/nadezhda/hallway/side/f2section2)
 "cmr" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/engineering/foyer)
 "cms" = (
@@ -47513,7 +47513,7 @@
 /area/nadezhda/medical/medbay3)
 "cnY" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/engineering/foyer)
 "cnZ" = (
@@ -50526,7 +50526,7 @@
 /turf/simulated/wall/r_wall,
 /area/nadezhda/maintenance/northcave)
 "cuG" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /obj/structure/flora/ausbushes/ppflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/rnd/scient)
@@ -50849,7 +50849,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/maintenance/undergroundfloor2south)
 "cvw" = (
-/obj/structure/flora/small/lavarock2,
+/obj/structure/flora/small/rock/lavarock2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/rnd/scient)
 "cvx" = (
@@ -51200,13 +51200,13 @@
 /area/nadezhda/quartermaster/hangarsupply)
 "cwm" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/obj/structure/flora/small/lavarock2,
+/obj/structure/flora/small/rock/lavarock2,
 /obj/structure/flora/ausbushes/ppflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/rnd/scient)
 "cwn" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/obj/structure/flora/small/lavarock2,
+/obj/structure/flora/small/rock/lavarock2,
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/rnd/scient)
@@ -71623,8 +71623,8 @@
 /area/nadezhda/quartermaster/hangarsupply)
 "dsQ" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/flora/small/trailrocka2,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrocka2,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/rock,
@@ -72164,7 +72164,7 @@
 /area/nadezhda/security/nuke_storage)
 "dus" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/cobweb2,
 /obj/effect/floor_decal/rust,
@@ -76235,17 +76235,17 @@
 /turf/simulated/floor/tiled/white/cyancorner,
 /area/nadezhda/medical/medbay3)
 "dDq" = (
-/obj/structure/flora/small/bushb1,
+/obj/structure/flora/small/bush/bushb1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/side/f2section4)
 "dDr" = (
 /obj/structure/flora/tree/jungle_small/variant2,
-/obj/structure/flora/small/grassb5,
+/obj/structure/flora/small/grass/grassb5,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/side/f2section4)
 "dDs" = (
-/obj/structure/flora/small/bushc2,
-/obj/structure/flora/small/grassb5,
+/obj/structure/flora/small/bush/bushc2,
+/obj/structure/flora/small/grass/grassb5,
 /obj/machinery/light{
 	dir = 4
 	},
@@ -76269,23 +76269,23 @@
 /turf/simulated/floor/tiled/white/cyancorner,
 /area/nadezhda/medical/medbay3)
 "dDu" = (
-/obj/structure/flora/small/bushc2,
+/obj/structure/flora/small/bush/bushc2,
 /obj/structure/flora/big/bush1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/side/f2section4)
 "dDv" = (
-/obj/structure/flora/small/bushb2,
+/obj/structure/flora/small/bush/bushb2,
 /obj/machinery/light,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/side/f2section4)
 "dDw" = (
-/obj/structure/flora/small/grassa2,
+/obj/structure/flora/small/grass/grassa2,
 /obj/structure/flora/ausbushes/fernybush,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/side/f2section4)
 "dDx" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/obj/structure/flora/small/bushc2,
+/obj/structure/flora/small/bush/bushc2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/hallway/side/f2section4)
 "dDy" = (
@@ -78211,19 +78211,19 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "dHx" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/beach/water/jungledeep,
 /area/nadezhda/maintenance/northcave)
 "dHy" = (
-/obj/structure/flora/small/trailrockb2,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/beach/water/jungledeep,
 /area/nadezhda/maintenance/northcave)
 "dHz" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/asteroid/dirt/flood,
 /area/nadezhda/maintenance/northcave)
@@ -78233,33 +78233,33 @@
 /turf/simulated/floor/beach/water/jungledeep,
 /area/nadezhda/maintenance/northcave)
 "dHB" = (
-/obj/structure/flora/small/trailrockb4,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/beach/water/jungledeep,
 /area/nadezhda/maintenance/northcave)
 "dHC" = (
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/beach/water/flooded,
 /area/nadezhda/maintenance/northcave)
 "dHD" = (
-/obj/structure/flora/small/trailrockb4,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/beach/water/jungledeep,
 /area/nadezhda/maintenance/northcave)
 "dHE" = (
-/obj/structure/flora/small/trailrockb5,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/beach/water/jungledeep,
 /area/nadezhda/maintenance/northcave)
 "dHF" = (
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/dirt,
@@ -78269,35 +78269,35 @@
 /area/nadezhda/maintenance/northcave)
 "dHG" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/northcave)
 "dHH" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/barricade,
 /turf/simulated/floor/asteroid/dirt/flood,
 /area/nadezhda/maintenance/northcave)
 "dHI" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/beach/water/flooded,
 /area/nadezhda/maintenance/northcave)
 "dHJ" = (
-/obj/structure/flora/small/trailrockb2,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb4,
 /turf/simulated/floor/beach/water/flooded,
 /area/nadezhda/maintenance/northcave)
 "dHK" = (
-/obj/structure/flora/small/trailrocka4,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/asteroid/dirt/flood,
 /area/nadezhda/maintenance/northcave)
 "dHL" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/barricade,
 /turf/simulated/floor/rock,
@@ -78312,25 +78312,25 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/flora/small/trailrockb5,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/structure/barricade,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/northcave)
 "dHO" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/flora/small/trailrockb2,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb5,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "dHP" = (
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/asteroid/dirt/flood,
 /area/nadezhda/maintenance/northcave)
 "dHQ" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/asteroid/dirt/flood,
 /area/nadezhda/maintenance/northcave)
@@ -78352,7 +78352,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/barricade,
 /turf/simulated/floor/plating/under,
@@ -78360,7 +78360,7 @@
 "dHU" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "dHV" = (
@@ -78374,7 +78374,7 @@
 /area/nadezhda/maintenance/northcave)
 "dHW" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/structure/barricade,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
@@ -78394,7 +78394,7 @@
 /area/nadezhda/maintenance/northcave)
 "dIa" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "dIb" = (
@@ -78402,21 +78402,21 @@
 /turf/simulated/floor/tiled/steel/cyancorner,
 /area/nadezhda/crew_quarters/hydroponics)
 "dIc" = (
-/obj/structure/flora/small/trailrockb5,
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrocka2,
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb5,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka2,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/northcave)
 "dId" = (
-/obj/structure/flora/small/trailrockb4,
-/obj/structure/flora/small/trailrockb5,
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb5,
+/obj/structure/flora/small/rock/trailrocka1,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/northcave)
 "dIe" = (
-/obj/structure/flora/small/trailrockb2,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb5,
 /turf/simulated/floor/rock/alt{
 	dir = 4
 	},
@@ -78427,7 +78427,7 @@
 /area/nadezhda/maintenance/northcave)
 "dIg" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/northcave)
 "dIh" = (
@@ -78439,13 +78439,13 @@
 /turf/simulated/floor/tiled/steel/cargo,
 /area/nadezhda/rnd/chargebay)
 "dIi" = (
-/obj/structure/flora/small/trailrockb2,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb4,
 /turf/simulated/floor/rock/alt,
 /area/nadezhda/maintenance/northcave)
 "dIj" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/floor_decal/rust,
@@ -78457,8 +78457,8 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/northcave)
 "dIl" = (
-/obj/structure/flora/small/trailrocka4,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/floor_decal/rust,
 /mob/living/simple_animal/hostile/naniteswarm{
@@ -78468,23 +78468,23 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/northcave)
 "dIm" = (
-/obj/structure/flora/small/trailrockb4,
-/obj/structure/flora/small/trailrocka4,
-/obj/structure/flora/small/trailrockb3,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/northcave)
 "dIn" = (
-/obj/structure/flora/small/trailrockb4,
-/obj/structure/flora/small/trailrockb2,
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrocka4,
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb2,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrockb4,
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/northcave)
 "dIo" = (
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/nadezhda/maintenance/northcave)
 "dIp" = (
@@ -78507,14 +78507,14 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/northcave)
 "dIs" = (
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /obj/effect/floor_decal/rust/mono_rusted3,
 /obj/random/mob/roaches/low_chance,
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/northcave)
 "dIt" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /obj/structure/catwalk,
 /obj/structure/barricade,
 /turf/simulated/floor/plating/under,
@@ -78532,7 +78532,7 @@
 	tag = "icon-danger (WEST)"
 	},
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka5,
+/obj/structure/flora/small/rock/trailrocka5,
 /obj/item/device/lighting/toggleable/lantern,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/cobweb,
@@ -78540,31 +78540,31 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/maintenance/northcave)
 "dIw" = (
-/obj/structure/flora/small/trailrockb4,
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/northcave)
 "dIx" = (
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka4,
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/northcave)
 "dIy" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka4,
+/obj/structure/flora/small/rock/trailrocka4,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "dIz" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/effect/decal/cleanable/dirt,
 /obj/random/lowkeyrandom/low_chance,
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/northcave)
 "dIA" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/northcave)
@@ -78574,8 +78574,8 @@
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/northcave)
 "dIC" = (
-/obj/structure/flora/small/trailrocka5,
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrocka5,
+/obj/structure/flora/small/rock/trailrockb5,
 /obj/effect/floor_decal/rust/mono_rusted1,
 /turf/simulated/floor/plating/under,
 /area/nadezhda/maintenance/northcave)
@@ -78619,17 +78619,17 @@
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/nadezhda/maintenance/northcave)
 "dIJ" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/nadezhda/maintenance/northcave)
 "dIK" = (
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb4,
 /obj/effect/decal/cleanable/rubble,
 /obj/structure/barricade,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/northcave)
 "dIL" = (
-/obj/structure/flora/small/trailrockb4,
+/obj/structure/flora/small/rock/trailrockb4,
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/nadezhda/maintenance/northcave)
 "dIM" = (
@@ -81450,7 +81450,7 @@
 "dPP" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka5,
+/obj/structure/flora/small/rock/trailrocka5,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "dPQ" = (
@@ -81503,7 +81503,7 @@
 "dPV" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrockb1,
+/obj/structure/flora/small/rock/trailrockb1,
 /obj/structure/railing{
 	anchored = 1;
 	dir = 4;
@@ -81514,11 +81514,11 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "dPX" = (
-/obj/structure/flora/big/rocks3,
+/obj/structure/flora/big/rock/rocks3,
 /turf/simulated/mineral,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "dPY" = (
-/obj/structure/flora/big/rocks3,
+/obj/structure/flora/big/rock/rocks3,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "dPZ" = (
@@ -81530,8 +81530,8 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "dQb" = (
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrockb1,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrockb1,
 /obj/structure/boulder,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -81544,13 +81544,13 @@
 "dQd" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka5,
-/obj/structure/flora/small/trailrockb1,
+/obj/structure/flora/small/rock/trailrocka5,
+/obj/structure/flora/small/rock/trailrockb1,
 /obj/random/lowkeyrandom/low_chance,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "dQe" = (
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/structure/boulder,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -81567,7 +81567,7 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "dQh" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /obj/structure/boulder,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -81596,14 +81596,14 @@
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "dQl" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrocka5,
-/obj/structure/flora/small/trailrockb5,
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrocka5,
+/obj/structure/flora/small/rock/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "dQm" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/structure/barricade,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
@@ -81646,20 +81646,20 @@
 /turf/simulated/floor/asteroid/dirt/dark,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "dQu" = (
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/random/lowkeyrandom/low_chance,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "dQv" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /obj/structure/barricade,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "dQw" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)
 "dQx" = (
@@ -81696,7 +81696,7 @@
 /turf/simulated/floor/tiled/dark/panels,
 /area/nadezhda/rnd/research)
 "dQB" = (
-/obj/structure/flora/small/trailrockb1,
+/obj/structure/flora/small/rock/trailrockb1,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/rock,
 /area/nadezhda/maintenance/undergroundfloor1oldgarden)

@@ -38,7 +38,7 @@
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/outside/forest/hunting_lodge)
 "al" = (
-/obj/structure/flora/small/rock2,
+/obj/structure/flora/small/rock/rock2,
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/outside/forest/hunting_lodge)
 "am" = (
@@ -547,7 +547,7 @@
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "bA" = (
-/obj/structure/flora/small/trailrocka3{
+/obj/structure/flora/small/rock/trailrocka3{
 	name = "charcoal"
 	},
 /obj/effect/decal/cleanable/ash,
@@ -558,7 +558,7 @@
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/nadezhda/outside/forest/hunting_lodge_dark)
 "bB" = (
-/obj/structure/flora/small/trailrocka2{
+/obj/structure/flora/small/rock/trailrocka2{
 	name = "burnt wood chunk"
 	},
 /obj/effect/decal/cleanable/ash,
@@ -3424,25 +3424,25 @@
 /turf/simulated/floor/holofloor/wood,
 /area/nadezhda/outside/forest/hunting_lodge)
 "ko" = (
-/obj/structure/flora/small/rock2,
+/obj/structure/flora/small/rock/rock2,
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kp" = (
-/obj/structure/flora/small/rock2,
+/obj/structure/flora/small/rock/rock2,
 /obj/structure/railing/grey,
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kq" = (
-/obj/structure/flora/small/rock3,
+/obj/structure/flora/small/rock/rock3,
 /obj/structure/railing/grey,
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kr" = (
-/obj/structure/flora/small/rock4,
+/obj/structure/flora/small/rock/rock4,
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/nadezhda/outside/forest/hunting_lodge)
 "ks" = (
-/obj/structure/flora/small/rock1,
+/obj/structure/flora/small/rock/rock1,
 /obj/structure/railing/grey{
 	dir = 4
 	},
@@ -3459,7 +3459,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kv" = (
-/obj/structure/flora/big/rocks2,
+/obj/structure/flora/big/rock/rocks2,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kw" = (
@@ -3471,18 +3471,18 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
 "ky" = (
-/obj/structure/flora/small/bushb1,
+/obj/structure/flora/small/bush/bushb1,
 /obj/structure/railing/grey{
 	dir = 4
 	},
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kz" = (
-/obj/structure/flora/big/rocks1,
+/obj/structure/flora/big/rock/rocks1,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kA" = (
-/obj/structure/flora/big/rocks3,
+/obj/structure/flora/big/rock/rocks3,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kB" = (
@@ -3490,14 +3490,14 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kC" = (
-/obj/structure/flora/small/rock2,
+/obj/structure/flora/small/rock/rock2,
 /obj/structure/railing/grey{
 	dir = 4
 	},
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kD" = (
-/obj/structure/flora/small/rock3,
+/obj/structure/flora/small/rock/rock3,
 /obj/structure/railing/grey{
 	dir = 4
 	},
@@ -3526,21 +3526,21 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kJ" = (
-/obj/structure/flora/small/bushc2,
+/obj/structure/flora/small/bush/bushc2,
 /obj/structure/railing/grey{
 	dir = 4
 	},
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kK" = (
-/obj/structure/flora/small/rock4,
+/obj/structure/flora/small/rock/rock4,
 /obj/structure/railing/grey{
 	dir = 4
 	},
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kL" = (
-/obj/structure/flora/small/bushb2,
+/obj/structure/flora/small/bush/bushb2,
 /obj/structure/railing/grey{
 	dir = 4
 	},
@@ -3563,7 +3563,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kQ" = (
-/obj/structure/flora/small/bushc1,
+/obj/structure/flora/small/bush/bushc1,
 /obj/structure/railing/grey{
 	dir = 4
 	},
@@ -3586,7 +3586,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/hunting_lodge)
 "kV" = (
-/obj/structure/flora/small/rock5,
+/obj/structure/flora/small/rock/rock5,
 /obj/structure/railing/grey{
 	dir = 4
 	},

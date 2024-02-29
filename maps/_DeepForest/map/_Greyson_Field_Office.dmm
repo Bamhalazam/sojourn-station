@@ -43,7 +43,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star/fo_outside)
 "ao" = (
-/obj/structure/flora/small/grassa4,
+/obj/structure/flora/small/grass/grassa4,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/one_star/fo_outside)
 "ap" = (
@@ -370,7 +370,7 @@
 /turf/simulated/floor/tiled/derelict/red_white_edges,
 /area/nadezhda/outside/one_star/fo_internal)
 "cx" = (
-/obj/structure/flora/small/rock5,
+/obj/structure/flora/small/rock/rock5,
 /turf/simulated/floor/beach/water/ocean{
 	name = "clear water"
 	},
@@ -417,7 +417,7 @@
 /turf/simulated/floor/tiled/steel/brown_perforated,
 /area/nadezhda/outside/one_star/fo_outside)
 "cM" = (
-/obj/structure/flora/small/busha2,
+/obj/structure/flora/small/bush/busha2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "cP" = (
@@ -463,7 +463,7 @@
 /turf/simulated/floor/tiled/derelict/red_white_edges,
 /area/nadezhda/outside/one_star/fo_internal)
 "dk" = (
-/obj/structure/flora/small/busha1,
+/obj/structure/flora/small/bush/busha1,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/one_star/fo_outside)
 "dn" = (
@@ -966,7 +966,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star/fo_outside)
 "gw" = (
-/obj/structure/flora/small/grassa2,
+/obj/structure/flora/small/grass/grassa2,
 /obj/random/mob/roomba/job,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
@@ -1034,7 +1034,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star/fo_outside)
 "gZ" = (
-/obj/structure/flora/small/busha1,
+/obj/structure/flora/small/bush/busha1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "hb" = (
@@ -1186,7 +1186,7 @@
 /turf/simulated/floor/carpet/blucarpet,
 /area/nadezhda/outside/one_star/fo_internal)
 "io" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /turf/simulated/floor/beach/water/ocean{
 	name = "clear water"
 	},
@@ -1323,7 +1323,7 @@
 /obj/structure/railing/grey{
 	dir = 4
 	},
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "jx" = (
@@ -1498,7 +1498,7 @@
 /obj/structure/railing/grey{
 	dir = 8
 	},
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "kL" = (
@@ -1520,7 +1520,7 @@
 	dir = 8
 	},
 /obj/structure/railing/grey,
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /obj/structure/invislight,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
@@ -1695,8 +1695,8 @@
 /turf/simulated/floor/tiled/derelict/red_white_edges,
 /area/nadezhda/outside/one_star/fo_internal)
 "mb" = (
-/obj/structure/flora/small/grassb2,
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb2,
+/obj/structure/flora/small/grass/grassb4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "mc" = (
@@ -1958,7 +1958,7 @@
 /turf/simulated/floor/tiled/steel/brown_perforated,
 /area/nadezhda/outside/one_star/fo_outside)
 "nS" = (
-/obj/structure/flora/small/rock3,
+/obj/structure/flora/small/rock/rock3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "nT" = (
@@ -2056,7 +2056,7 @@
 	dir = 8
 	},
 /obj/structure/railing/grey,
-/obj/structure/flora/small/bushb2,
+/obj/structure/flora/small/bush/bushb2,
 /obj/structure/invislight,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
@@ -2482,7 +2482,7 @@
 "rB" = (
 /obj/structure/flora/ausbushes/brflowers,
 /obj/item/clothing/head/hairflower/white,
-/obj/structure/flora/small/rock5,
+/obj/structure/flora/small/rock/rock5,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "rC" = (
@@ -2510,7 +2510,7 @@
 /turf/simulated/floor/tiled/derelict/white_small_edges,
 /area/nadezhda/outside/one_star/fo_internal)
 "rK" = (
-/obj/structure/flora/small/grassa2,
+/obj/structure/flora/small/grass/grassa2,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/one_star/fo_outside)
 "rO" = (
@@ -2636,7 +2636,7 @@
 /obj/structure/railing/grey{
 	dir = 4
 	},
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "sU" = (
@@ -2671,7 +2671,7 @@
 	dir = 8
 	},
 /obj/structure/railing/grey,
-/obj/structure/flora/small/bushb2,
+/obj/structure/flora/small/bush/bushb2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "tb" = (
@@ -3237,7 +3237,7 @@
 /area/nadezhda/outside/one_star/fo_outside)
 "wR" = (
 /obj/structure/railing/grey,
-/obj/structure/flora/small/rock2,
+/obj/structure/flora/small/rock/rock2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "wT" = (
@@ -3562,7 +3562,7 @@
 /area/nadezhda/outside/one_star/fo_internal)
 "yU" = (
 /obj/structure/railing/grey,
-/obj/structure/flora/small/rock5,
+/obj/structure/flora/small/rock/rock5,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "yV" = (
@@ -3717,7 +3717,7 @@
 /turf/simulated/floor/tiled/derelict/red_white_edges,
 /area/nadezhda/outside/one_star/fo_internal)
 "zQ" = (
-/obj/structure/flora/small/rock3,
+/obj/structure/flora/small/rock/rock3,
 /turf/simulated/floor/beach/water/ocean{
 	name = "clear water"
 	},
@@ -3732,7 +3732,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star/fo_outside)
 "zW" = (
-/obj/structure/flora/small/grassa2,
+/obj/structure/flora/small/grass/grassa2,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/one_star/fo_outside)
 "zZ" = (
@@ -4277,7 +4277,7 @@
 /area/nadezhda/outside/one_star/fo_internal)
 "Es" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/obj/structure/flora/small/rock5,
+/obj/structure/flora/small/rock/rock5,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "Et" = (
@@ -4408,7 +4408,7 @@
 /turf/simulated/floor/reinforced,
 /area/nadezhda/outside/one_star/fo_outside)
 "Fq" = (
-/obj/structure/flora/small/bushc2,
+/obj/structure/flora/small/bush/bushc2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "Fu" = (
@@ -4487,7 +4487,7 @@
 /turf/simulated/floor/tiled/derelict/white_small_edges,
 /area/nadezhda/outside/one_star/fo_internal)
 "FQ" = (
-/obj/structure/flora/small/grassa4,
+/obj/structure/flora/small/grass/grassa4,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/one_star/fo_outside)
 "FR" = (
@@ -4625,7 +4625,7 @@
 /turf/simulated/floor/tiled/derelict/red_white_edges,
 /area/nadezhda/outside/one_star/fo_outside)
 "GM" = (
-/obj/structure/flora/small/grassb5,
+/obj/structure/flora/small/grass/grassb5,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/one_star/fo_outside)
 "GN" = (
@@ -4633,7 +4633,7 @@
 /area/nadezhda/outside/one_star/fo_internal)
 "GO" = (
 /obj/structure/flora/ausbushes/ppflowers,
-/obj/structure/flora/small/busha2,
+/obj/structure/flora/small/bush/busha2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "GQ" = (
@@ -4712,7 +4712,7 @@
 /turf/simulated/floor/tiled/derelict/red_white_edges,
 /area/nadezhda/outside/one_star/fo_internal)
 "Hi" = (
-/obj/structure/flora/small/grassa2,
+/obj/structure/flora/small/grass/grassa2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "Hj" = (
@@ -4724,7 +4724,7 @@
 /turf/simulated/floor/tiled/derelict/white_small_edges,
 /area/nadezhda/outside/one_star/fo_internal)
 "Hm" = (
-/obj/structure/flora/small/busha1,
+/obj/structure/flora/small/bush/busha1,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/one_star/fo_outside)
 "Hn" = (
@@ -4889,7 +4889,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star/fo_internal)
 "IJ" = (
-/obj/structure/flora/small/rock5,
+/obj/structure/flora/small/rock/rock5,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/one_star/fo_outside)
 "IL" = (
@@ -5025,7 +5025,7 @@
 /obj/structure/railing/grey{
 	dir = 1
 	},
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "JD" = (
@@ -5369,7 +5369,7 @@
 /area/nadezhda/outside/one_star/fo_internal)
 "LY" = (
 /obj/structure/railing/grey,
-/obj/structure/flora/small/lavarock3,
+/obj/structure/flora/small/rock/lavarock3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "LZ" = (
@@ -5406,7 +5406,7 @@
 /obj/structure/railing/grey{
 	dir = 1
 	},
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "Mh" = (
@@ -5468,7 +5468,7 @@
 /turf/simulated/floor/reinforced,
 /area/nadezhda/outside/one_star/fo_internal)
 "My" = (
-/obj/structure/flora/small/grassb2,
+/obj/structure/flora/small/grass/grassb2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "MA" = (
@@ -5533,7 +5533,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star/fo_internal)
 "MZ" = (
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "Na" = (
@@ -5940,7 +5940,7 @@
 /area/nadezhda/outside/one_star/fo_internal)
 "PB" = (
 /obj/structure/flora/ausbushes/brflowers,
-/obj/structure/flora/small/rock5,
+/obj/structure/flora/small/rock/rock5,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "PG" = (
@@ -6528,12 +6528,12 @@
 /area/nadezhda/outside/one_star/fo_internal)
 "Ud" = (
 /obj/structure/railing/grey,
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "Uf" = (
 /obj/structure/railing/grey,
-/obj/structure/flora/small/rock1,
+/obj/structure/flora/small/rock/rock1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "Ug" = (
@@ -6987,7 +6987,7 @@
 /area/nadezhda/outside/one_star/fo_internal)
 "Xf" = (
 /obj/structure/flora/ausbushes/brflowers,
-/obj/structure/flora/small/grassb2,
+/obj/structure/flora/small/grass/grassb2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "Xi" = (
@@ -7279,7 +7279,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star/fo_outside)
 "YQ" = (
-/obj/structure/flora/small/rock5,
+/obj/structure/flora/small/rock/rock5,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/one_star/fo_outside)
 "YT" = (

@@ -178,7 +178,7 @@
 /turf/simulated/floor/asteroid/dirt/flood,
 /area/outpost/abandoned_fortress)
 "fU" = (
-/obj/structure/flora/small/grassa2,
+/obj/structure/flora/small/grass/grassa2,
 /turf/simulated/floor/asteroid/grass,
 /area/outpost/abandoned_fortress)
 "gf" = (
@@ -656,7 +656,7 @@
 /turf/simulated/floor/carpet/bcarpet,
 /area/outpost/abandoned_fortress)
 "qZ" = (
-/obj/structure/flora/small/grassa5,
+/obj/structure/flora/small/grass/grassa5,
 /turf/simulated/floor/asteroid/grass,
 /area/outpost/abandoned_fortress)
 "rt" = (
@@ -802,7 +802,7 @@
 /area/outpost/abandoned_fortress)
 "wn" = (
 /obj/structure/flora/ausbushes/ppflowers,
-/obj/structure/flora/small/bushb1,
+/obj/structure/flora/small/bush/bushb1,
 /turf/simulated/floor/asteroid/grass,
 /area/outpost/abandoned_fortress)
 "wx" = (
@@ -833,7 +833,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/outpost/abandoned_fortress)
 "xS" = (
-/obj/structure/flora/small/grassa3,
+/obj/structure/flora/small/grass/grassa3,
 /turf/simulated/floor/asteroid/grass,
 /area/outpost/abandoned_fortress)
 "yu" = (
@@ -1022,7 +1022,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/outpost/abandoned_fortress)
 "Ew" = (
-/obj/structure/flora/small/grassa4,
+/obj/structure/flora/small/grass/grassa4,
 /turf/simulated/floor/asteroid/grass,
 /area/outpost/abandoned_fortress)
 "EM" = (

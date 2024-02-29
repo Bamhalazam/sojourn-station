@@ -206,7 +206,7 @@
 "bG" = (
 /obj/effect/decal/cleanable/rubble,
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_underground)
 "bX" = (
@@ -288,7 +288,7 @@
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/forest/river_forest_underground)
 "dF" = (
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /turf/simulated/floor/rock,
 /area/nadezhda/outside/forest/river_forest_underground)
 "dJ" = (
@@ -501,7 +501,7 @@
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_underground)
 "iS" = (
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_underground)
 "jj" = (
@@ -532,7 +532,7 @@
 /turf/unsimulated/mineral,
 /area/nadezhda/outside/forest/river_forest_underground)
 "jI" = (
-/obj/structure/flora/small/trailrocka5,
+/obj/structure/flora/small/rock/trailrocka5,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/river_forest_light)
 "jL" = (
@@ -548,7 +548,7 @@
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/forest/river_forest_light)
 "jX" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_dark)
 "jZ" = (
@@ -615,7 +615,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star/fo_internal)
 "kM" = (
-/obj/structure/flora/small/trailrocka5,
+/obj/structure/flora/small/rock/trailrocka5,
 /turf/unsimulated/mineral,
 /area/nadezhda/outside/forest/river_forest_light)
 "kS" = (
@@ -648,7 +648,7 @@
 /obj/item/oddity/common/old_pda{
 	name = "burnt pda"
 	},
-/obj/structure/flora/small/lavarock3,
+/obj/structure/flora/small/rock/lavarock3,
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/nadezhda/outside/forest/river_forest_light)
 "ln" = (
@@ -705,7 +705,7 @@
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_underground)
 "lN" = (
-/obj/structure/flora/small/rock4,
+/obj/structure/flora/small/rock/rock4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/river_forest_light)
 "lQ" = (
@@ -839,7 +839,7 @@
 /turf/simulated/floor/rock/alt,
 /area/nadezhda/outside/forest/river_forest_dark)
 "ns" = (
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/item/reagent_containers/food/snacks/monkeykabob,
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/nadezhda/outside/forest/river_forest_light)
@@ -873,7 +873,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star/fo_internal)
 "nH" = (
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/nadezhda/outside/forest/river_forest_light)
 "nO" = (
@@ -909,7 +909,7 @@
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/nadezhda/outside/forest/river_forest_light)
 "oy" = (
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/river_forest_light)
 "oA" = (
@@ -985,11 +985,11 @@
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_dark)
 "ph" = (
-/obj/structure/flora/small/rock5,
+/obj/structure/flora/small/rock/rock5,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/river_forest_light)
 "pi" = (
-/obj/structure/flora/small/bushc3,
+/obj/structure/flora/small/bush/bushc3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/river_forest_light)
 "pj" = (
@@ -1001,7 +1001,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/river_forest_underground)
 "pn" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_dark)
 "po" = (
@@ -1041,7 +1041,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star/fo_internal)
 "pM" = (
-/obj/structure/flora/small/rock4,
+/obj/structure/flora/small/rock/rock4,
 /obj/item/stack/ore,
 /turf/simulated/floor/asteroid/grass/jungle,
 /area/nadezhda/outside/forest/river_forest_light)
@@ -1088,7 +1088,7 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/outside/forest/river_forest_underground)
 "qt" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_dark)
 "qu" = (
@@ -1101,7 +1101,7 @@
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_underground)
 "qx" = (
-/obj/structure/flora/small/lavarock2,
+/obj/structure/flora/small/rock/lavarock2,
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/forest/river_forest_light)
 "qy" = (
@@ -1190,7 +1190,7 @@
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_underground)
 "rA" = (
-/obj/structure/flora/small/lavarock2,
+/obj/structure/flora/small/rock/lavarock2,
 /turf/simulated/floor/beach/sand/drywater,
 /area/nadezhda/outside/forest/river_forest_light)
 "rD" = (
@@ -1231,7 +1231,7 @@
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/nadezhda/outside/forest/river_forest_underground)
 "rX" = (
-/obj/structure/flora/small/rock4,
+/obj/structure/flora/small/rock/rock4,
 /obj/item/trash/cigbutt/frozen,
 /obj/item/stack/ore,
 /turf/simulated/floor/asteroid/grass/jungle,
@@ -1308,7 +1308,7 @@
 /turf/simulated/floor/wood/wild4,
 /area/nadezhda/outside/forest/river_forest_light)
 "sF" = (
-/obj/structure/flora/small/rock3,
+/obj/structure/flora/small/rock/rock3,
 /obj/structure/flora/ausbushes/fullgrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/river_forest_light)
@@ -1346,7 +1346,7 @@
 /turf/simulated/floor/wood/wild1,
 /area/nadezhda/outside/forest/river_forest_light)
 "sY" = (
-/obj/structure/flora/small/trailrocka5,
+/obj/structure/flora/small/rock/trailrocka5,
 /obj/item/stack/ore/plasma,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/river_forest_light)
@@ -1390,7 +1390,7 @@
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_dark)
 "tw" = (
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_dark)
 "tz" = (
@@ -1445,7 +1445,7 @@
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_underground)
 "uj" = (
-/obj/structure/flora/small/busha2,
+/obj/structure/flora/small/bush/busha2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/river_forest_light)
 "uk" = (
@@ -1480,7 +1480,7 @@
 /area/nadezhda/outside/forest/river_forest_underground)
 "uC" = (
 /obj/item/stack/ore,
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock/alt,
 /area/nadezhda/outside/forest/river_forest_dark)
 "uD" = (
@@ -1544,7 +1544,7 @@
 /turf/simulated/floor/asteroid/grass/jungle,
 /area/nadezhda/outside/forest/river_forest_light)
 "vj" = (
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_underground)
 "vk" = (
@@ -1650,7 +1650,7 @@
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/nadezhda/outside/forest/river_forest_underground)
 "wg" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /turf/simulated/floor/rock,
 /area/nadezhda/outside/forest/river_forest_underground)
 "wi" = (
@@ -1669,7 +1669,7 @@
 /area/nadezhda/outside/forest/river_forest_light)
 "wt" = (
 /obj/item/reagent_containers/glass/beaker/vial/random,
-/obj/structure/flora/small/lavarock2,
+/obj/structure/flora/small/rock/lavarock2,
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/forest/river_forest_light)
 "wv" = (
@@ -1729,7 +1729,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/river_forest_underground)
 "wY" = (
-/obj/structure/flora/small/rock5,
+/obj/structure/flora/small/rock/rock5,
 /turf/simulated/floor/rock/alt,
 /area/nadezhda/outside/forest/river_forest_dark)
 "wZ" = (
@@ -1753,11 +1753,11 @@
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/forest/river_forest_light)
 "xh" = (
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_dark)
 "xo" = (
-/obj/structure/flora/small/rock1,
+/obj/structure/flora/small/rock/rock1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/river_forest_light)
 "xp" = (
@@ -1770,7 +1770,7 @@
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_dark)
 "xv" = (
-/obj/structure/flora/small/rock4,
+/obj/structure/flora/small/rock/rock4,
 /obj/structure/flora/ausbushes/fullgrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/river_forest_light)
@@ -1793,9 +1793,9 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/outside/forest/river_forest_underground)
 "xP" = (
-/obj/structure/flora/small/trailrocka1,
-/obj/structure/flora/small/trailrocka4,
-/obj/structure/flora/small/trailrockb1,
+/obj/structure/flora/small/rock/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka4,
+/obj/structure/flora/small/rock/trailrockb1,
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/nadezhda/outside/forest/river_forest_light)
 "xR" = (
@@ -1817,7 +1817,7 @@
 /turf/simulated/floor/asteroid/grass/jungle,
 /area/nadezhda/outside/forest/river_forest_light)
 "yc" = (
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /obj/structure/scrap/food/large,
 /turf/simulated/floor/rock,
 /area/nadezhda/outside/forest/river_forest_underground)
@@ -1878,7 +1878,7 @@
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_underground)
 "yr" = (
-/obj/structure/flora/small/grassa1,
+/obj/structure/flora/small/grass/grassa1,
 /turf/simulated/floor/asteroid/grass/colonialjungle2,
 /area/nadezhda/outside/forest/river_forest_light)
 "ys" = (
@@ -1907,7 +1907,7 @@
 /turf/simulated/floor/beach/water/jungle,
 /area/nadezhda/outside/forest/river_forest_light)
 "yN" = (
-/obj/structure/flora/small/trailrockb5,
+/obj/structure/flora/small/rock/trailrockb5,
 /turf/simulated/floor/rock/alt,
 /area/nadezhda/outside/forest/river_forest_dark)
 "yO" = (
@@ -1920,7 +1920,7 @@
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_underground)
 "yU" = (
-/obj/structure/flora/small/rock2,
+/obj/structure/flora/small/rock/rock2,
 /obj/random/scrap,
 /obj/random/scrap,
 /turf/simulated/floor/asteroid/dirt/mud,
@@ -1945,7 +1945,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/river_forest_light)
 "zd" = (
-/obj/structure/flora/small/rock5,
+/obj/structure/flora/small/rock/rock5,
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_dark)
 "zh" = (
@@ -1975,7 +1975,7 @@
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/forest/river_forest_light)
 "zs" = (
-/obj/structure/flora/big/rocks3,
+/obj/structure/flora/big/rock/rocks3,
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_dark)
 "zt" = (
@@ -2007,7 +2007,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/river_forest_light)
 "zE" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /obj/random/mob/xenomorphs,
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_underground)
@@ -2110,11 +2110,11 @@
 /area/nadezhda/outside/forest/river_forest_light)
 "AO" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_underground)
 "AP" = (
-/obj/structure/flora/small/rock4,
+/obj/structure/flora/small/rock/rock4,
 /obj/item/trash/cigbutt/frozen,
 /obj/item/stack/ore,
 /turf/simulated/floor/asteroid/dirt,
@@ -2170,7 +2170,7 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/outside/forest/river_forest_underground)
 "By" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_dark)
@@ -2343,7 +2343,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/river_forest_light)
 "DB" = (
-/obj/structure/flora/small/grassa1,
+/obj/structure/flora/small/grass/grassa1,
 /turf/simulated/floor/asteroid/grass/colonialjungle1,
 /area/nadezhda/outside/forest/river_forest_light)
 "DE" = (
@@ -2512,7 +2512,7 @@
 /turf/simulated/floor/beach/water/jungle,
 /area/nadezhda/outside/forest/river_forest_dark)
 "Fu" = (
-/obj/structure/flora/small/trailrocka1,
+/obj/structure/flora/small/rock/trailrocka1,
 /obj/effect/decal/cleanable/ash,
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/nadezhda/outside/forest/river_forest_light)
@@ -2583,7 +2583,7 @@
 /turf/simulated/floor/rock/alt,
 /area/nadezhda/outside/forest/river_forest_dark)
 "Gk" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_dark)
 "Gn" = (
@@ -2608,7 +2608,7 @@
 /turf/unsimulated/mineral,
 /area/nadezhda/outside/forest/river_forest_light)
 "Gu" = (
-/obj/structure/flora/small/trailrocka5,
+/obj/structure/flora/small/rock/trailrocka5,
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_dark)
 "Gx" = (
@@ -2620,7 +2620,7 @@
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_dark)
 "GG" = (
-/obj/structure/flora/big/rocks3,
+/obj/structure/flora/big/rock/rocks3,
 /turf/simulated/floor/rock/alt,
 /area/nadezhda/outside/forest/river_forest_dark)
 "GH" = (
@@ -2649,7 +2649,7 @@
 /turf/simulated/floor/wood/wild4,
 /area/nadezhda/outside/forest/river_forest_underground)
 "GS" = (
-/obj/structure/flora/big/rocks1,
+/obj/structure/flora/big/rock/rocks1,
 /turf/simulated/floor/asteroid/grass/colonialjungle1,
 /area/nadezhda/outside/forest/river_forest_light)
 "GX" = (
@@ -2722,7 +2722,7 @@
 /turf/simulated/floor/tiled/derelict/white_small_edges,
 /area/nadezhda/outside/one_star/fo_internal)
 "HK" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_underground)
 "HM" = (
@@ -2783,7 +2783,7 @@
 /turf/simulated/floor/tiled/derelict,
 /area/nadezhda/outside/one_star/fo_internal)
 "Ih" = (
-/obj/structure/flora/small/rock2,
+/obj/structure/flora/small/rock/rock2,
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/forest/river_forest_light)
 "Ij" = (
@@ -2810,7 +2810,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/river_forest_underground)
 "IB" = (
-/obj/structure/flora/small/trailrocka5,
+/obj/structure/flora/small/rock/trailrocka5,
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/nadezhda/outside/forest/river_forest_light)
 "ID" = (
@@ -2873,7 +2873,7 @@
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/forest/river_forest_underground)
 "JE" = (
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_underground)
 "JF" = (
@@ -2901,7 +2901,7 @@
 /turf/simulated/floor/beach/water/shallow,
 /area/nadezhda/outside/forest/river_forest_light)
 "Kf" = (
-/obj/structure/flora/small/lavarock2,
+/obj/structure/flora/small/rock/lavarock2,
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/outside/forest/river_forest_light)
 "Kh" = (
@@ -2914,7 +2914,7 @@
 /turf/simulated/floor/wood/wild1,
 /area/nadezhda/outside/forest/river_forest_light)
 "Ku" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /turf/simulated/floor/rock,
 /area/nadezhda/outside/forest/river_forest_dark)
 "Kv" = (
@@ -2938,7 +2938,7 @@
 /turf/unsimulated/mineral,
 /area/nadezhda/outside/forest/river_forest_dark)
 "KJ" = (
-/obj/structure/flora/big/rocks1,
+/obj/structure/flora/big/rock/rocks1,
 /turf/simulated/floor/asteroid/grass/colonialjungle2,
 /area/nadezhda/outside/forest/river_forest_light)
 "KK" = (
@@ -3015,7 +3015,7 @@
 /turf/simulated/floor/tiled/derelict/white_small_edges,
 /area/nadezhda/outside/one_star/fo_internal)
 "Lv" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_underground)
@@ -3036,7 +3036,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/river_forest_light)
 "LC" = (
-/obj/structure/flora/small/rock1,
+/obj/structure/flora/small/rock/rock1,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/river_forest_light)
 "LJ" = (
@@ -3061,7 +3061,7 @@
 /turf/simulated/floor/asteroid/grass/colonialjungle2,
 /area/nadezhda/outside/forest/river_forest_light)
 "LW" = (
-/obj/structure/flora/small/rock2,
+/obj/structure/flora/small/rock/rock2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/river_forest_light)
 "LX" = (
@@ -3078,12 +3078,12 @@
 /turf/simulated/floor/beach/water/ocean,
 /area/nadezhda/outside/forest/river_forest_light)
 "Me" = (
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /obj/structure/invislight,
 /turf/simulated/floor/rock/alt,
 /area/nadezhda/outside/forest/river_forest_dark)
 "Mf" = (
-/obj/structure/flora/small/rock2,
+/obj/structure/flora/small/rock/rock2,
 /turf/simulated/floor/beach/sand,
 /area/nadezhda/outside/forest/river_forest_light)
 "Mg" = (
@@ -3135,7 +3135,7 @@
 /turf/simulated/floor/rock/alt,
 /area/nadezhda/outside/forest/river_forest_dark)
 "My" = (
-/obj/structure/flora/big/rocks3,
+/obj/structure/flora/big/rock/rocks3,
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_dark)
 "MB" = (
@@ -3169,7 +3169,7 @@
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/forest/river_forest_light)
 "MO" = (
-/obj/structure/flora/small/grassb3,
+/obj/structure/flora/small/grass/grassb3,
 /turf/simulated/floor/asteroid/grass/colonialjungle1,
 /area/nadezhda/outside/forest/river_forest_light)
 "MR" = (
@@ -3212,12 +3212,12 @@
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_underground)
 "Nq" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_underground)
 "Nr" = (
 /obj/effect/decal/cleanable/rubble,
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock/alt,
 /area/nadezhda/outside/forest/river_forest_dark)
 "Nt" = (
@@ -3254,7 +3254,7 @@
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/nadezhda/outside/forest/river_forest_underground)
 "NO" = (
-/obj/structure/flora/small/trailrockb2,
+/obj/structure/flora/small/rock/trailrockb2,
 /turf/simulated/floor/asteroid/dirt/burned,
 /area/nadezhda/outside/forest/river_forest_light)
 "NP" = (
@@ -3425,7 +3425,7 @@
 /turf/simulated/floor/rock/grey,
 /area/nadezhda/outside/forest/river_forest_dark)
 "Qo" = (
-/obj/structure/flora/small/rock2,
+/obj/structure/flora/small/rock/rock2,
 /turf/simulated/floor/beach/sand/drywater,
 /area/nadezhda/outside/forest/river_forest_light)
 "Qw" = (
@@ -3468,7 +3468,7 @@
 /turf/simulated/floor/asteroid/grass/jungle,
 /area/nadezhda/outside/forest/river_forest_light)
 "Ri" = (
-/obj/structure/flora/small/trailrocka2,
+/obj/structure/flora/small/rock/trailrocka2,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/river_forest_light)
 "Rm" = (
@@ -3480,7 +3480,7 @@
 /turf/simulated/floor/rock,
 /area/nadezhda/outside/forest/river_forest_underground)
 "Rq" = (
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /obj/effect/decal/cleanable/rubble,
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_underground)
@@ -3529,7 +3529,7 @@
 /turf/unsimulated/mineral/transition,
 /area/nadezhda/outside/forest/river_forest_light)
 "RR" = (
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock/dark,
 /area/nadezhda/outside/forest/river_forest_underground)
 "RT" = (
@@ -3590,7 +3590,7 @@
 /turf/simulated/floor/carpet/gaycarpet,
 /area/nadezhda/outside/forest/river_forest_light)
 "SU" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/river_forest_dark)
 "SV" = (
@@ -3821,7 +3821,7 @@
 /turf/simulated/floor/tiled/derelict/red_white_edges,
 /area/nadezhda/outside/one_star/fo_internal)
 "Vq" = (
-/obj/structure/flora/small/rock2,
+/obj/structure/flora/small/rock/rock2,
 /obj/random/scrap,
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/forest/river_forest_light)
@@ -3842,7 +3842,7 @@
 /turf/simulated/floor/asteroid/dirt/mud,
 /area/nadezhda/outside/forest/river_forest_light)
 "Vx" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /obj/structure/boulder,
 /turf/simulated/floor/rock,
 /area/nadezhda/outside/forest/river_forest_underground)
@@ -4051,11 +4051,11 @@
 /turf/simulated/floor/tiled/derelict/white_small_edges,
 /area/nadezhda/outside/one_star/fo_internal)
 "XM" = (
-/obj/structure/flora/small/rock3,
+/obj/structure/flora/small/rock/rock3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest/river_forest_light)
 "XO" = (
-/obj/structure/flora/small/lavarock1,
+/obj/structure/flora/small/rock/lavarock1,
 /obj/random/mob/xenomorphs,
 /turf/simulated/floor/rock,
 /area/nadezhda/outside/forest/river_forest_underground)
@@ -4127,7 +4127,7 @@
 /turf/simulated/floor/tiled/derelict/red_white_edges,
 /area/nadezhda/outside/one_star/fo_internal)
 "YA" = (
-/obj/structure/flora/small/trailrockb3,
+/obj/structure/flora/small/rock/trailrockb3,
 /turf/simulated/floor/rock/alt,
 /area/nadezhda/outside/forest/river_forest_dark)
 "YC" = (
@@ -4210,7 +4210,7 @@
 /turf/simulated/floor/wood/wild1,
 /area/nadezhda/outside/forest/river_forest_light)
 "ZG" = (
-/obj/structure/flora/small/rock4,
+/obj/structure/flora/small/rock/rock4,
 /obj/item/stack/ore,
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/forest/river_forest_light)

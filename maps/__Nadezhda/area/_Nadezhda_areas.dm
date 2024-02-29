@@ -13,6 +13,13 @@
 	dynamic_lighting = FALSE
 	base_turf = /turf/simulated/floor/asteroid/dirt
 
+/area/colony/unexposedsun //for darker places like groves
+	ship_area = FALSE
+	icon_state = "erisyellow"
+	area_light_color = COLOR_LIGHTING_DEFAULT_BRIGHT
+	dynamic_lighting = TRUE
+	base_turf = /turf/simulated/floor/asteroid/dirt
+
 /area/colony/exposedsun/pastgate
 	ship_area = FALSE
 	icon_state = "erisblue"

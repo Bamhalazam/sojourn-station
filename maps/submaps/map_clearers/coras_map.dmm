@@ -53,7 +53,7 @@
 /turf/simulated/floor/asteroid/dirt,
 /area/nadezhda/outside/meadow)
 "bz" = (
-/obj/structure/flora/small/busha1,
+/obj/structure/flora/small/bush/busha1,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "bA" = (
@@ -191,7 +191,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "hg" = (
-/obj/structure/flora/small/grassa5,
+/obj/structure/flora/small/grass/grassa5,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "hA" = (
@@ -221,7 +221,7 @@
 /turf/simulated/floor/carpet/bcarpet,
 /area/asteroid/rogue)
 "iJ" = (
-/obj/structure/flora/small/busha1,
+/obj/structure/flora/small/bush/busha1,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "iK" = (
@@ -250,7 +250,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "kc" = (
-/obj/structure/flora/small/bushb2,
+/obj/structure/flora/small/bush/bushb2,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "ky" = (
@@ -283,11 +283,11 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "lm" = (
-/obj/structure/flora/small/grassa4,
+/obj/structure/flora/small/grass/grassa4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "lv" = (
-/obj/structure/flora/small/bushb1,
+/obj/structure/flora/small/bush/bushb1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "lw" = (
@@ -389,7 +389,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "od" = (
-/obj/structure/flora/small/bushc1,
+/obj/structure/flora/small/bush/bushc1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "ok" = (
@@ -408,7 +408,7 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "oy" = (
-/obj/structure/flora/small/bushb1,
+/obj/structure/flora/small/bush/bushb1,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "oA" = (
@@ -547,7 +547,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "sO" = (
-/obj/structure/flora/small/busha3,
+/obj/structure/flora/small/bush/busha3,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "sS" = (
@@ -581,8 +581,8 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "tF" = (
-/obj/structure/flora/small/bushc1,
-/obj/structure/flora/small/busha3,
+/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/busha3,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "ua" = (
@@ -594,7 +594,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "uR" = (
-/obj/structure/flora/small/grassa4,
+/obj/structure/flora/small/grass/grassa4,
 /obj/structure/flora/big/bush3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -603,7 +603,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "vc" = (
-/obj/structure/flora/small/busha3,
+/obj/structure/flora/small/bush/busha3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "vr" = (
@@ -618,7 +618,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "wf" = (
-/obj/structure/flora/small/bushc1,
+/obj/structure/flora/small/bush/bushc1,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "wi" = (
@@ -638,7 +638,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "wV" = (
-/obj/structure/flora/small/grassa4,
+/obj/structure/flora/small/grass/grassa4,
 /obj/structure/flora/ausbushes/fullgrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -677,8 +677,8 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "yw" = (
-/obj/structure/flora/small/bushc1,
-/obj/structure/flora/small/bushc1,
+/obj/structure/flora/small/bush/bushc1,
+/obj/structure/flora/small/bush/bushc1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "yA" = (
@@ -737,7 +737,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "zP" = (
-/obj/structure/flora/small/busha2,
+/obj/structure/flora/small/bush/busha2,
 /obj/random/flora/small_jungle_tree,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -747,7 +747,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "An" = (
-/obj/structure/flora/small/bushb2,
+/obj/structure/flora/small/bush/bushb2,
 /obj/structure/flora/big/bush3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -819,7 +819,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "DS" = (
-/obj/structure/flora/small/busha1,
+/obj/structure/flora/small/bush/busha1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "Ei" = (
@@ -886,7 +886,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "FZ" = (
-/obj/structure/flora/small/busha2,
+/obj/structure/flora/small/bush/busha2,
 /obj/structure/invislightsmall,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
@@ -898,7 +898,7 @@
 /area/asteroid/rogue)
 "Gj" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/busha3,
+/obj/structure/flora/small/bush/busha3,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "Gq" = (
@@ -934,7 +934,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "Ha" = (
-/obj/structure/flora/small/busha2,
+/obj/structure/flora/small/bush/busha2,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/meadow)
 "Hb" = (
@@ -1111,8 +1111,8 @@
 /turf/simulated/floor/carpet/bcarpet,
 /area/asteroid/rogue)
 "Nj" = (
-/obj/structure/flora/small/busha1,
-/obj/structure/flora/small/busha1,
+/obj/structure/flora/small/bush/busha1,
+/obj/structure/flora/small/bush/busha1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "Nr" = (
@@ -1220,11 +1220,11 @@
 /area/nadezhda/outside/meadow)
 "QC" = (
 /obj/random/flora/jungle_tree,
-/obj/structure/flora/small/busha1,
+/obj/structure/flora/small/bush/busha1,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "QQ" = (
-/obj/structure/flora/small/busha2,
+/obj/structure/flora/small/bush/busha2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "QT" = (
@@ -1238,7 +1238,7 @@
 /area/asteroid/rogue)
 "QU" = (
 /obj/random/cluster/roaches/low_chance,
-/obj/structure/flora/small/busha3,
+/obj/structure/flora/small/bush/busha3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/meadow)
 "QV" = (
@@ -1358,7 +1358,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "UK" = (
-/obj/structure/flora/small/busha3,
+/obj/structure/flora/small/bush/busha3,
 /obj/structure/flora/big/bush3,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
@@ -1409,7 +1409,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "VQ" = (
-/obj/structure/flora/small/bushb2,
+/obj/structure/flora/small/bush/bushb2,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "Wd" = (
@@ -1468,7 +1468,7 @@
 /turf/simulated/floor/rock/manmade/ruin3,
 /area/asteroid/rogue)
 "Ze" = (
-/obj/structure/flora/small/bushc1,
+/obj/structure/flora/small/bush/bushc1,
 /turf/simulated/mineral/planet,
 /area/nadezhda/outside/meadow)
 "Zk" = (

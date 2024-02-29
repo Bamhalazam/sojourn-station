@@ -4,11 +4,11 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "ai" = (
-/obj/structure/flora/small/grassb3,
+/obj/structure/flora/small/grass/grassb3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "an" = (
-/obj/structure/flora/small/grassa2,
+/obj/structure/flora/small/grass/grassa2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "au" = (
@@ -21,12 +21,12 @@
 /turf/simulated/floor/tiled/white/brown_perforated,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "aX" = (
-/obj/structure/flora/small/grassb2,
+/obj/structure/flora/small/grass/grassb2,
 /obj/structure/flora/ausbushes/brflowers,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/forest)
 "bD" = (
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /obj/structure/flora/ausbushes/brflowers,
 /obj/random/mob/voidwolf,
 /turf/simulated/floor/asteroid/grass,
@@ -36,12 +36,12 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "bK" = (
-/obj/structure/flora/small/busha1,
+/obj/structure/flora/small/bush/busha1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "cB" = (
-/obj/structure/flora/small/grassb1,
-/obj/structure/flora/small/busha1,
+/obj/structure/flora/small/grass/grassb1,
+/obj/structure/flora/small/bush/busha1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "es" = (
@@ -49,7 +49,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "fj" = (
-/obj/structure/flora/small/rock5,
+/obj/structure/flora/small/rock/rock5,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "fu" = (
@@ -57,7 +57,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "fT" = (
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
@@ -102,14 +102,14 @@
 /turf/simulated/floor/tiled/dark/techfloor_grid,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "lw" = (
-/obj/structure/flora/small/grassb1,
+/obj/structure/flora/small/grass/grassb1,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/forest)
 "lz" = (
 /turf/simulated/floor/tiled/dark/techfloor_grid,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "mv" = (
-/obj/structure/flora/big/rocks3,
+/obj/structure/flora/big/rock/rocks3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "ng" = (
@@ -135,7 +135,7 @@
 /turf/simulated/floor/tiled/white/brown_perforated,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "oB" = (
-/obj/structure/flora/small/busha3,
+/obj/structure/flora/small/bush/busha3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "oO" = (
@@ -145,7 +145,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "oY" = (
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /obj/structure/flora/ausbushes/lavendergrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
@@ -165,7 +165,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "sN" = (
-/obj/structure/flora/big/rocks1,
+/obj/structure/flora/big/rock/rocks1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "tw" = (
@@ -196,15 +196,15 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "vL" = (
-/obj/structure/flora/small/busha1,
+/obj/structure/flora/small/bush/busha1,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/forest)
 "wE" = (
-/obj/structure/flora/small/grassb2,
+/obj/structure/flora/small/grass/grassb2,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/forest)
 "wG" = (
-/obj/structure/flora/small/rock3,
+/obj/structure/flora/small/rock/rock3,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "ys" = (
@@ -227,7 +227,7 @@
 /turf/simulated/floor/tiled/white/brown_perforated,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "zE" = (
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "zM" = (
@@ -244,12 +244,12 @@
 /turf/simulated/floor/tiled/steel/gray_perforated,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "Cf" = (
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "Cs" = (
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /obj/random/mob/voidwolf,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
@@ -261,7 +261,7 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "Eg" = (
-/obj/structure/flora/small/grassb2,
+/obj/structure/flora/small/grass/grassb2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "ED" = (
@@ -278,7 +278,7 @@
 /turf/simulated/floor/tiled/white/brown_perforated,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "Fn" = (
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /obj/effect/decal/cleanable/dirt,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/forest)
@@ -287,7 +287,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "Ga" = (
-/obj/structure/flora/small/grassb5,
+/obj/structure/flora/small/grass/grassb5,
 /obj/random/flora/jungle_tree,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/forest)
@@ -309,7 +309,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "Hg" = (
-/obj/structure/flora/small/grassb3,
+/obj/structure/flora/small/grass/grassb3,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
@@ -329,7 +329,7 @@
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/forest)
 "HQ" = (
-/obj/structure/flora/small/rock2,
+/obj/structure/flora/small/rock/rock2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "Iz" = (
@@ -369,7 +369,7 @@
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "Nk" = (
-/obj/structure/flora/small/rock4,
+/obj/structure/flora/small/rock/rock4,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "NH" = (
@@ -423,7 +423,7 @@
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/forest)
 "Rc" = (
-/obj/structure/flora/small/grassb5,
+/obj/structure/flora/small/grass/grassb5,
 /turf/unsimulated/wall/jungle,
 /area/nadezhda/outside/forest)
 "Ry" = (
@@ -441,7 +441,7 @@
 /turf/simulated/floor/tiled/steel/gray_perforated,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "Sy" = (
-/obj/structure/flora/small/grassb1,
+/obj/structure/flora/small/grass/grassb1,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "Te" = (
@@ -475,7 +475,7 @@
 /turf/simulated/floor/tiled/white/brown_perforated,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "VE" = (
-/obj/structure/flora/small/grassb2,
+/obj/structure/flora/small/grass/grassb2,
 /obj/random/flora/jungle_tree,
 /obj/structure/flora/ausbushes/brflowers,
 /turf/unsimulated/wall/jungle,
@@ -520,9 +520,9 @@
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 "WY" = (
-/obj/structure/flora/small/grassb2,
-/obj/structure/flora/small/grassb4,
-/obj/structure/flora/small/grassb4,
+/obj/structure/flora/small/grass/grassb2,
+/obj/structure/flora/small/grass/grassb4,
+/obj/structure/flora/small/grass/grassb4,
 /obj/structure/flora/ausbushes/lavendergrass,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
@@ -544,7 +544,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/nadezhda/dungeon/outside/burned_outpost)
 "Zs" = (
-/obj/structure/flora/big/rocks2,
+/obj/structure/flora/big/rock/rocks2,
 /turf/simulated/floor/asteroid/grass,
 /area/nadezhda/outside/forest)
 

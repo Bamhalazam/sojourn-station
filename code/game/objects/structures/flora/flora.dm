@@ -417,6 +417,8 @@
 	name = "rocks"
 	icon = 'icons/obj/flora/jungleflora.dmi'
 	icon_state = "rock"
+	plane = -1
+	layer = BELOW_MOB_LAYER
 
 /obj/structure/flora/big/rock/rock/New()
 	icon_state = "rock[rand(1,5)]"
@@ -425,6 +427,8 @@
 	name = "rocks"
 	icon = 'icons/obj/flora/rocks.dmi'
 	icon_state = "trailrock"
+	plane = -1
+	layer = BELOW_MOB_LAYER
 
 /obj/structure/flora/small/rock/trailrock1/New()
 	icon_state = "rock[rand(1,5)]"
@@ -433,6 +437,8 @@
 	name = "rocks"
 	icon = 'icons/obj/flora/rocks.dmi'
 	icon_state = "trailrockbig"
+	plane = -1
+	layer = BELOW_MOB_LAYER
 
 /obj/structure/flora/small/rock/trailrock2/New()
 	icon_state = "trailrockbig[rand(1,5)]"
@@ -441,6 +447,8 @@
 	name = "black rocks"
 	icon = 'icons/obj/flora/rocks.dmi'
 	icon_state = "lavarocks"
+	plane = -1
+	layer = BELOW_MOB_LAYER
 
 /obj/structure/flora/small/rock/lavarock/New()
 	icon_state = "lavarocks[rand(1,3)]"
@@ -466,6 +474,7 @@
 	icon = 'icons/obj/flora/jungleflora.dmi'
 	icon_state = "busha"
 	layer = BELOW_MOB_LAYER
+	plane = -1
 
 /obj/structure/flora/small/bush/busha/New()
 	icon_state = "busha[rand(1,3)]"
@@ -477,6 +486,7 @@
 	icon = 'icons/obj/flora/jungleflora.dmi'
 	icon_state = "bushb"
 	layer = BELOW_MOB_LAYER
+	plane = -1
 
 /obj/structure/flora/small/bush/bushb/New()
 	icon_state = "bushb[rand(1,3)]"
@@ -488,6 +498,7 @@
 	icon = 'icons/obj/flora/jungleflora.dmi'
 	icon_state = "bushc"
 	layer = BELOW_MOB_LAYER
+	plane = -1
 
 /obj/structure/flora/small/bush/bushc/New()
 	icon_state = "bushc[rand(1,3)]"
@@ -508,9 +519,11 @@
 		return
 
 /obj/structure/flora/small/grass/grassa
+	name = "grass"
 	icon = 'icons/obj/flora/jungleflora.dmi'
 	icon_state = "grassa"
 	layer = BELOW_MOB_LAYER
+	plane = -1
 
 /obj/structure/flora/small/grass/grassa/New()
 	icon_state = "grassa[rand(1,5)]"
@@ -518,9 +531,11 @@
 	pixel_y = rand(-16, 16)
 
 /obj/structure/flora/small/grass/grassb
+	name = "grass"
 	icon = 'icons/obj/flora/jungleflora.dmi'
 	icon_state = "grassb"
 	layer = BELOW_MOB_LAYER
+	plane = -1
 
 /obj/structure/flora/small/grass/grassb/New()
 	icon_state = "grassb[rand(1,5)]"
@@ -528,9 +543,11 @@
 	pixel_y = rand(-16, 16)
 
 /obj/structure/flora/small/grass/densegrass
+	name = "dense grass"
 	icon = 'icons/obj/flora/jungleflora.dmi'
 	icon_state = "densegrass"
 	layer = BELOW_MOB_LAYER
+	plane = -1
 
 /obj/structure/flora/small/grass/densegrass/New()
 	icon_state = "densegrass[rand(1,2)]"
@@ -542,7 +559,7 @@
 	icon = 'icons/obj/flora/jungleflora.dmi'
 	icon_state = "flowera"
 	layer = 3.8 //.1 above the rest of the plants so it'd appear over the top of them
-
+	plane = -1
 /obj/structure/flora/small/grass/flowera/New()
 	icon_state = "flowera[rand(1,2)]"
 	pixel_x = rand(-16, 16)
@@ -553,6 +570,7 @@
 	icon = 'icons/obj/flora/jungleflora.dmi'
 	icon_state = "flowerb"
 	layer = 3.8 //.1 above the rest of the plants so it'd appear over the top of them
+	plane = -1
 
 /obj/structure/flora/small/grass/flowerb/New()
 	icon_state = "flowerb[rand(1,2)]"
@@ -703,25 +721,9 @@
 	layer = ABOVE_MOB_LAYER
 	mouse_opacity = MOUSE_OPACITY_ICON
 
-/obj/structure/flora/vine/left
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	name = "vineleft"
-	desc = "A vine that is growing between two trees."
-	density = FALSE
-	layer = ABOVE_MOB_LAYER
-	anchored = 1
-
-/obj/structure/flora/vine/center
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	name = "vinecenter"
-	desc = "A vine that is growing between two trees."
-	density = FALSE
-	layer = ABOVE_MOB_LAYER
-	anchored = 1
-
-/obj/structure/flora/vine/right
-	icon = 'icons/obj/flora/jungleflora.dmi'
-	name = "vineright"
+/obj/structure/flora/vine
+	icon = 'icons/obj/flora/largejungleflora.dmi'
+	name = "vine"
 	desc = "A vine that is growing between two trees."
 	density = FALSE
 	layer = ABOVE_MOB_LAYER

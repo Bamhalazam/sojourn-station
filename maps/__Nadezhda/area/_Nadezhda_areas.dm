@@ -16,7 +16,7 @@
 /area/colony/unexposedsun //for darker places like groves
 	ship_area = FALSE
 	icon_state = "erisyellow"
-	area_light_color = COLOR_LIGHTING_DEFAULT_BRIGHT
+	area_light_color = COLOR_LIGHTING_ORANGE_BRIGHT
 	dynamic_lighting = TRUE
 	base_turf = /turf/simulated/floor/asteroid/dirt
 

@@ -124,12 +124,50 @@ var/list/flooring_types
 /decl/flooring/proc/Entered(mob/living/M as mob)
 	return
 
+//=========GROUND==========\\
+
 /decl/flooring/asteroid
 	name = "coarse sand"
 	desc = "Gritty and unpleasant."
 	icon = 'icons/turf/flooring/asteroid.dmi'
 	icon_base = "asteroid"
 	flags = TURF_REMOVE_SHOVEL | TURF_CAN_BURN | TURF_CAN_BREAK
+	build_type = null
+	footstep_sound = "asteroid"
+
+/decl/flooring/shale
+	name = "coarse shale"
+	desc = "Dark and ashlike."
+	icon = 'icons/turf/flooring/dirt.dmi'
+	icon_base = "shale"
+	flags = TURF_REMOVE_SHOVEL | TURF_CAN_BURN | TURF_HAS_CORNERS | TURF_HAS_INNER_CORNERS
+	build_type = null
+	footstep_sound = "asteroid"
+
+/decl/flooring/shale/alt
+	name = "coarse shale"
+	desc = "Dark and ashlike."
+	icon = 'icons/turf/flooring/dirt.dmi'
+	icon_base = "shale_alt"
+	flags = TURF_REMOVE_SHOVEL | TURF_CAN_BURN | TURF_HAS_CORNERS | TURF_HAS_INNER_CORNERS
+	build_type = null
+	footstep_sound = "asteroid"
+
+/decl/flooring/shale/dark
+	name = "dark shale"
+	desc = "Does the dry world weep with sand?"
+	icon = 'icons/turf/flooring/dirt.dmi'
+	icon_base = "shale_dark"
+	flags = TURF_REMOVE_SHOVEL | TURF_CAN_BURN | TURF_HAS_CORNERS | TURF_HAS_INNER_CORNERS
+	build_type = null
+	footstep_sound = "asteroid"
+
+/decl/flooring/shale/dark
+	name = "windswept shale"
+	desc = "Piles upon piles of rock particles, thrashed about by the winds."
+	icon = 'icons/turf/flooring/dirt.dmi'
+	icon_base = "shale_windswept"
+	flags = TURF_REMOVE_SHOVEL | TURF_CAN_BURN | TURF_HAS_CORNERS | TURF_HAS_INNER_CORNERS
 	build_type = null
 	footstep_sound = "asteroid"
 

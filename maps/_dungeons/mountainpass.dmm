@@ -1,307 +1,338 @@
 "ak" = (/obj/item/gun/projectile/crossbow,/obj/item/ammo_casing/crossbow_bolts,/obj/item/ammo_casing/crossbow_bolts,/obj/item/ammo_casing/crossbow_bolts,/obj/item/ammo_casing/crossbow_bolts,/obj/item/ammo_casing/crossbow_bolts,/obj/item/ammo_casing/crossbow_bolts,/obj/item/ammo_casing/crossbow_bolts,/obj/item/ammo_casing/crossbow_bolts,/obj/item/ammo_casing/crossbow_bolts/fragment,/obj/item/ammo_casing/crossbow_bolts/fragment,/obj/item/ammo_casing/crossbow_bolts/fragment,/obj/item/ammo_casing/crossbow_bolts/speed,/obj/item/ammo_casing/crossbow_bolts/speed,/obj/item/ammo_casing/crossbow_bolts/speed,/obj/item/ammo_casing/crossbow_bolts/speed,/obj/item/ammo_casing/crossbow_bolts/speed,/obj/structure/snowstorm,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"au" = (/obj/structure/snowstorm,/obj/item/remains/lizard,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "ay" = (/obj/structure/snowstorm,/turf/simulated/floor/asteroid/dirt/dark/plough,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"aM" = (/obj/item/flame/candle/pre_lit/endless,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"aM" = (/obj/item/flame/candle/pre_lit/endless,/mob/living/simple_animal/hostile/plant/folken/alt,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "aQ" = (/obj/structure/flora/small/snow/rock2,/obj/structure/snowfall,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "aS" = (/obj/structure/flora/tree/jungle/baracade,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"bD" = (/turf/simulated/wall/wood_barrel,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"bk" = (/obj/structure/snowstorm,/obj/structure/snowstorm,/turf/simulated/floor/industrial/concrete_bricks,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"bx" = (/obj/structure/snowstorm,/obj/effect/floor_decal/asteroid,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"bA" = (/obj/structure/table/bench/wooden,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"bD" = (/obj/structure/snowstorm,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "bP" = (/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"ce" = (/mob/living/simple_animal/hostile/tree,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "ck" = (/obj/machinery/door/unpowered/simple/wood,/turf/simulated/floor/industrial/concrete_bricks,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"cq" = (/obj/structure/table/bench/wooden,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"cs" = (/obj/structure/snowstorm,/obj/structure/snowstorm,/turf/simulated/floor/industrial/concrete_bricks,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"cq" = (/obj/structure/table/bench/wooden,/mob/living/simple_animal/hostile/plant/folken/alt,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "cw" = (/obj/structure/flora/tree/jungle_small/variant2,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "cy" = (/obj/structure/anomalies_diet/spidersilk,/obj/structure/flora/tree/snow/snow{dir = 4},/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "cE" = (/obj/structure/snowstorm,/turf/unsimulated/mineral/cold,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "cF" = (/obj/structure/signpost,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "cW" = (/obj/structure/girder/low{name = "thin ice"; desc = "It's better not to walk on this ice..."; alpha = 0},/turf/simulated/floor/asteroid/grass/sifdark,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"dd" = (/obj/structure/snowstorm,/obj/structure/flora/tree/snow/four,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "dj" = (/turf/unsimulated/mineral/cold,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"dn" = (/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"dn" = (/obj/structure/snowstorm,/obj/structure/flora/tree/snow/four,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "dv" = (/obj/item/contraband/poster/placed/recruitment/xenobiology,/turf/simulated/wall/wood_barrel,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"dJ" = (/obj/item/paper/gravity_gen,/turf/simulated/floor/industrial/navy_large_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"dQ" = (/obj/structure/flora/tree/jungle/variant3,/turf/unsimulated/mineral,/area/awaymission/listeningpost)
+"dG" = (/obj/structure/flora/tree/jungle/baracade,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission/listeningpost)
+"dJ" = (/obj/item/paper/gravity_gen,/obj/item/oddity/ls/inertdetonator,/turf/simulated/floor/industrial/navy_large_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "dX" = (/obj/structure/table/bench/steel,/mob/living/carbon/superior_animal/human/voidwolf/ranged,/obj/structure/snowstorm,/turf/simulated/floor/rock/manmade/ruin3,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "ec" = (/mob/living/carbon/superior_animal/giant_spider/tarantula/pit,/mob/living/carbon/superior_animal/giant_spider/tarantula/pit,/mob/living/carbon/superior_animal/giant_spider/tarantula/ogre,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"en" = (/turf/simulated/wall/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "et" = (/turf/simulated/floor/rock/manmade/ruin3,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "eE" = (/turf/unsimulated/mineral,/area/awaymission)
-"eM" = (/obj/structure/flora/tree/jungle/variant3,/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission/listeningpost)
-"eQ" = (/turf/simulated/floor/industrial/concrete_bricks,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"eM" = (/obj/structure/flora/small/snow/rock5,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "eR" = (/obj/structure/flora/small/snow/rock3,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "fe" = (/obj/structure/flora/tree/snow/three,/turf/unsimulated/mineral/cold,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "ft" = (/obj/structure/table/woodentable,/obj/item/device/lighting/toggleable/lantern,/turf/simulated/floor/carpet/turcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "fw" = (/mob/living/carbon/superior_animal/giant_spider/hunter/shocker,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"fy" = (/obj/structure/boulder,/obj/effect/floor_decal/asteroid,/obj/structure/flora/small/snow/rock2{name = "snowstorm"; desc = "Violent thrashing of flakes, caused by the winds. It makes it difficult to see"; icon = 'icons/effects/weather_effects.dmi'; icon_state = "snow_storm"; layer = 4.1},/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"fF" = (/obj/structure/snowstorm,/obj/item/oddity/rare/drawing_of_sun,/turf/simulated/floor/rock/manmade/ruin3,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"ge" = (/obj/structure/girder/low{name = "thin ice"; desc = "It's better not to walk on this ice..."; alpha = 0},/turf/simulated/floor/asteroid/grass/sifdark{name = "icy water"},/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "gf" = (/obj/structure/snowfall,/obj/structure/flora/tree/snow/four,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "gh" = (/obj/structure/table/woodentable,/obj/item/device/lighting/toggleable/lantern,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "gY" = (/obj/structure/flora/tree/snow/four,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"hq" = (/obj/structure/snowstorm,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"hq" = (/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "hT" = (/mob/living/carbon/superior_animal/xenomorph/warrior/shrike/praetorian/queen{icon = 'icons/mob/32x64.dmi'; icon_state = "gaslamp"; icon_rest = null; icon_dead = "gaslamp_dead"; desc = "Some sort of floaty alien with a warm glow. It is melting the snow around it."; health = 5000},/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "hW" = (/obj/machinery/door/unpowered/simple/wood,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "hY" = (/turf/simulated/floor/carpet/turcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "id" = (/mob/living/carbon/superior_animal/giant_spider/tarantula/pit,/obj/structure/flora/tree/snow/three,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"in" = (/obj/structure/snowstorm,/turf/simulated/wall/wood_barrel,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"in" = (/turf/simulated/wall/wood_barrel,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "ir" = (/obj/structure/anomalies_diet/ball_lightning,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "iv" = (/obj/structure/bookcase/guncase,/obj/item/gun/projectile/automatic/omnirifle/scoped/fancy,/turf/simulated/floor/industrial/navy_large_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"iw" = (/mob/living/simple_animal/hostile/plant/folken/alt,/obj/effect/decal/cleanable/blood/drip,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "iG" = (/mob/living/carbon/superior_animal/giant_spider/tarantula/emperor/reaper_spider{health = 2500},/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"iM" = (/obj/structure/flora/tree/jungle/variant3,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "iU" = (/obj/structure/girder/low{name = "thin ice"; desc = "It's better not to walk on this ice..."; alpha = 0},/obj/structure/snowstorm,/turf/simulated/floor/asteroid/grass/sifdark,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "iW" = (/obj/effect/decal/cleanable/cobweb2,/turf/simulated/floor/industrial/navy_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"jg" = (/obj/structure/snowstorm,/obj/effect/floor_decal/asteroid,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "jI" = (/obj/structure/flora/tree/jungle/variant1,/turf/unsimulated/mineral,/area/awaymission/listeningpost)
 "ku" = (/obj/structure/sink/fountain,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"kK" = (/obj/structure/snowstorm,/turf/unsimulated/mineral,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "kN" = (/obj/structure/girder/low{name = "thin ice"; desc = "It's better not to walk on this ice..."; alpha = 0},/obj/structure/snowstorm,/turf/simulated/floor/asteroid/grass/sifdark{name = "icy water"},/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "kP" = (/turf/unsimulated/wall{icon = 'icons/obj/doors/material_doors.dmi'; icon_state = "wood"; color = "#824B28"; name = "locked door"},/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "kV" = (/obj/structure/grille/broken,/obj/structure/snowstorm,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"kY" = (/obj/structure/snowstorm,/obj/item/remains/deer,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"kZ" = (/turf/simulated/floor/carpet/blucarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "lh" = (/obj/structure/flora/small/snow/rock8,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"lA" = (/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"lA" = (/obj/structure/flora/small/snow/rock2{name = "snowstorm"; desc = "Violent thrashing of flakes, caused by the winds. It makes it difficult to see"; icon = 'icons/effects/weather_effects.dmi'; icon_state = "snow_storm"; layer = 4.1},/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "lC" = (/obj/structure/flora/tree/snow/five,/turf/unsimulated/mineral/cold,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"lD" = (/obj/random/furniture/bedsheetdouble,/obj/structure/bed/double,/obj/structure/curtain/open/bed,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"lD" = (/obj/random/furniture/bedsheetdouble,/obj/structure/bed/double,/obj/structure/curtain/open/bed,/mob/living/simple_animal/hostile/plant/folken,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "lN" = (/obj/structure/bed/chair/sofa/black/right,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "lU" = (/obj/structure/reagent_dispensers/beerkeg{desc = "A barrel meant to hold fish. Someone has filled it with beer."; name = "fish barrel"},/obj/structure/snowstorm,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "mf" = (/obj/structure/table/woodentable,/obj/item/book/manual/nonfiction/meteorology,/turf/simulated/floor/carpet/turcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"mi" = (/obj/structure/flora/small/snow/rock3,/obj/structure/snowstorm,/obj/effect/floor_decal/asteroid,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "mn" = (/obj/structure/flora/tree/snow/three{dir = 4},/obj/structure/snowfall,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"mV" = (/turf/simulated/wall/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"mW" = (/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"ni" = (/obj/item/flame/candle/pre_lit/endless,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"mW" = (/obj/structure/snowstorm,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"nf" = (/obj/structure/table/woodentable,/obj/item/oddity/common/teddy,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"ni" = (/obj/item/flame/candle/pre_lit/endless,/mob/living/simple_animal/hostile/plant/folken,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "np" = (/obj/structure/flora/tree/snow/four,/obj/structure/snowfall,/obj/structure/snowfall,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "nq" = (/obj/structure/table/rack/shelf,/obj/item/clothing/suit/bio_suit/virology,/obj/item/clothing/head/bio_hood/virology,/obj/item/clothing/under/rank/fatigues/camo/solfed,/turf/simulated/floor/industrial/navy_large_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "nF" = (/obj/structure/flora/church_rock{desc = "A stone found by the villagers, said to hold some sort of significance, though no one is quite sure what. It bears resemblance to the one found by the Church."},/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"nG" = (/obj/item/oddity/ls/dogtags{desc = "Mementos from the war."},/turf/simulated/floor/industrial/navy_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "nP" = (/mob/living/simple_animal/hostile/retaliate/tahca,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "nV" = (/obj/machinery/door/unpowered/simple/wood,/turf/simulated/floor/industrial/navy_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "ob" = (/obj/structure/closet/secure_closet/personal/cabinet,/turf/simulated/floor/carpet/turcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"oh" = (/obj/structure/flora/tree/snow/three,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"oh" = (/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "oj" = (/obj/structure/reagent_dispensers/premiumwhiskey,/obj/structure/snowstorm,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "op" = (/obj/item/reagent_containers/food/drinks/teapot,/obj/structure/table/woodentable,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "ou" = (/obj/structure/flora/tree/jungle_small/variant4,/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "ox" = (/obj/structure/flora/small/snow/rock4,/obj/structure/snowfall,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "oK" = (/obj/structure/snowfall,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "oP" = (/obj/structure/anomaly_container,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"oR" = (/obj/structure/flora/small/snow/rock5,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"pA" = (/obj/structure/flora/tree/snow/three,/obj/structure/snowstorm,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"oR" = (/turf/unsimulated/mineral,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"ph" = (/obj/structure/flora/tree/snow/three,/obj/structure/snowstorm,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "pB" = (/mob/living/simple_animal/hostile/tree,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "pC" = (/obj/structure/flora/small/snow/rock4,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "pF" = (/obj/structure/flora/tree/snow/snow{dir = 4},/obj/structure/snowfall,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "pI" = (/obj/item/animal_part/hell_hide,/obj/item/clothing/under/tribalhide,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "pR" = (/obj/structure/flora/tree/jungle_small/variant1,/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"pS" = (/obj/structure/flora/tree/snow/four,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"pS" = (/obj/structure/grille,/obj/structure/snowstorm,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "qk" = (/obj/structure/reagent_dispensers/premiumwhiskey,/obj/item/tool/fireaxe/woodsman,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "qu" = (/mob/living/carbon/superior_animal/giant_spider/tarantula/pit,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "qw" = (/obj/structure/flora/small/snow/rock2,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "qH" = (/obj/structure/flora/tree/snow/four,/obj/structure/snowfall,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "qN" = (/obj/structure/flora/tree/snow/five,/obj/structure/snowstorm,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "qZ" = (/obj/structure/bookcase,/obj/item/book/manual/nonfiction/lifewithoutprinciple,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"rd" = (/obj/structure/flora/tree/snow/five,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"rd" = (/obj/structure/flora/tree/snow/five,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "rf" = (/obj/structure/flora/small/snow/rock7,/obj/structure/flora/tree/snow/three,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"rj" = (/obj/structure/flora/stump,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission/listeningpost)
+"ru" = (/obj/effect/decal/cleanable/blood/gibs/up,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "rG" = (/obj/structure/flora/tree/jungle/variant3,/obj/structure/flora/tree/jungle/variant3,/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "rT" = (/turf/simulated/floor/industrial/navy_large_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "sb" = (/obj/item/device/lighting/toggleable/lantern,/obj/structure/table/woodentable,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "sk" = (/obj/structure/anomalies_diet/ball_lightning,/obj/structure/snowstorm,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "sm" = (/obj/structure/table/rack/shelf,/obj/item/gun/projectile/automatic/chaingun,/obj/item/gun/projectile/automatic/omnirifle/solmarine/sawn,/turf/simulated/floor/industrial/navy_large_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"ss" = (/mob/living/carbon/superior_animal/giant_spider/tarantula/ogre,/obj/structure/snowstorm,/mob/living/carbon/superior_animal/giant_spider/hunter,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"su" = (/obj/effect/decal/cleanable/blood/drip,/obj/item/remains,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "sF" = (/obj/structure/snowstorm,/obj/structure/anomalies_diet/echo,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "sJ" = (/obj/item/reagent_containers/food/snacks/monkeykabob,/obj/structure/table/woodentable,/obj/item/reagent_containers/food/snacks/monkeykabob,/obj/item/reagent_containers/food/snacks/monkeykabob,/obj/item/flame/candle/pre_lit/endless,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "sW" = (/mob/living/carbon/superior_animal/giant_spider/tarantula/pit,/mob/living/carbon/superior_animal/giant_spider/tarantula/pit,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"sY" = (/obj/structure/snowstorm,/obj/item/remains/deer,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "tg" = (/obj/structure/flora/small/snow/rock1,/obj/structure/snowfall,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"tk" = (/obj/structure/anomalies_diet/spidersilk,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"tk" = (/obj/effect/decal/cleanable/blood/drip,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "tl" = (/obj/structure/bonfire/permanent,/obj/machinery/door/blast/shutters/glass,/turf/simulated/floor/hull,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "to" = (/obj/item/tool/fireaxe/woodsman,/obj/structure/table/woodentable,/obj/item/reagent_containers/food/snacks/meat,/obj/item/reagent_containers/food/snacks/meat,/obj/item/reagent_containers/food/snacks/meat,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "tR" = (/obj/item/gun/projectile/shotgun/pump/gladstone/queen,/obj/machinery/door/blast/shutters/glass,/obj/structure/table/woodentable,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"tZ" = (/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission/listeningpost)
+"tZ" = (/obj/structure/flora/tree/jungle_small/variant2,/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "ug" = (/obj/structure/bed/chair/sofa/brown/left{dir = 1},/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"ur" = (/obj/structure/bed/chair/sofa/black/left,/obj/item/oddity/common/book_unholy/closed,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"uj" = (/obj/structure/flora/tree/snow/four,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"ur" = (/obj/structure/bed/chair/sofa/black/left,/obj/item/oddity/common/book_unholy/closed,/mob/living/simple_animal/hostile/plant/folken/alt,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"us" = (/obj/structure/snowstorm,/obj/structure/flora/tree/snow/three,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "uN" = (/obj/structure/flora/tree/snow/four,/turf/unsimulated/mineral/cold,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "uP" = (/obj/machinery/door/unpowered/simple/wood,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "vm" = (/obj/structure/flora/small/snow/rock7,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "vo" = (/obj/structure/snowfall,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "vr" = (/obj/item/ammo_casing/arrow/explosive,/obj/item/ammo_casing/arrow/explosive,/obj/item/ammo_casing/arrow/explosive,/obj/item/ammo_casing/arrow/explosive/heatwave,/obj/item/tool/fireaxe/woodsman,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"vu" = (/obj/structure/grille,/obj/structure/snowstorm,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"vu" = (/obj/structure/grille,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "vv" = (/obj/structure/flora/tree/jungle/variant1,/obj/structure/flora/tree/jungle/variant1,/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"vy" = (/obj/structure/flora/tree/jungle/variant3,/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"vH" = (/obj/structure/snowstorm,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"vJ" = (/turf/simulated/floor/carpet/blucarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"vy" = (/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission/listeningpost)
+"vH" = (/obj/structure/flora/tree/jungle/variant3,/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"vJ" = (/mob/living/simple_animal/hostile/plant/folken/alt,/turf/simulated/floor/carpet/blucarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "vW" = (/obj/structure/bed/chair/sofa/brown/right{dir = 1},/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"wb" = (/obj/structure/grille,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"wb" = (/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "wJ" = (/obj/structure/flora/tree/jungle/variant5,/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"wT" = (/obj/effect/decal/cleanable/blood/drip,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "wW" = (/obj/structure/snowstorm,/obj/structure/flora/tree/snow/five,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"xl" = (/turf/unsimulated/mineral,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"xk" = (/obj/structure/flora/small/snow/rock2{name = "snowstorm"; desc = "Violent thrashing of flakes, caused by the winds. It makes it difficult to see"; icon = 'icons/effects/weather_effects.dmi'; icon_state = "snow_storm"; layer = 4.1},/turf/simulated/mineral,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"xl" = (/obj/structure/anomalies_diet/spidersilk,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "xn" = (/obj/structure/table/woodentable,/obj/item/trash/plate,/obj/item/reagent_containers/food/snacks/cutlet,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"xw" = (/mob/living/carbon/superior_animal/giant_spider/tarantula/ogre,/obj/structure/snowstorm,/mob/living/carbon/superior_animal/giant_spider/hunter,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"yr" = (/obj/structure/flora/tree/snow/three,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "yt" = (/obj/structure/bookcase,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"yN" = (/obj/structure/flora/small/snow/rock2{name = "snowstorm"; desc = "Violent thrashing of flakes, caused by the winds. It makes it difficult to see"; icon = 'icons/effects/weather_effects.dmi'; icon_state = "snow_storm"; layer = 4.1},/obj/effect/floor_decal/asteroid,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "yS" = (/obj/structure/flora/tree/snow/snow{dir = 4},/obj/structure/snowstorm,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"zM" = (/obj/structure/flora/tree/snow/three,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"zM" = (/obj/structure/flora/tree/snow/three,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "zZ" = (/obj/structure/bed,/turf/simulated/floor/carpet/turcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Ae" = (/obj/structure/flora/tree/jungle/variant3,/turf/unsimulated/mineral,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"Az" = (/turf/unsimulated/mineral,/area/awaymission/listeningpost)
+"Az" = (/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"AK" = (/mob/living/simple_animal/hostile/plant/folken,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "AR" = (/obj/machinery/door/blast/shutters,/obj/structure/snowstorm,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Bm" = (/obj/structure/flora/small/snow/rock1,/obj/structure/flora/tree/snow/four,/obj/structure/flora/tree/snow/four,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "BD" = (/obj/structure/table/woodentable,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"BY" = (/obj/structure/flora/tree/snow/five,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"CR" = (/obj/structure/flora/tree/jungle_small/variant2,/turf/unsimulated/mineral,/area/awaymission/listeningpost)
+"Cg" = (/obj/effect/decal/cleanable/blood,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"CO" = (/obj/structure/snowstorm,/mob/living/carbon/superior_animal/giant_spider/hunter,/mob/living/carbon/superior_animal/giant_spider/hunter,/mob/living/carbon/superior_animal/giant_spider/hunter,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "CW" = (/obj/structure/anomalies_diet/spidersilk,/obj/structure/snowstorm,/obj/structure/anomalies_diet/echo,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"DM" = (/obj/structure/flora/tree/snow/four,/obj/structure/snowstorm,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Ej" = (/obj/structure/closet/secure_closet/personal/cabinet,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "EA" = (/obj/structure/anomalies_diet/spidersilk,/obj/structure/snowstorm,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"FC" = (/obj/structure/snowstorm,/mob/living/carbon/superior_animal/giant_spider/tarantula,/mob/living/carbon/superior_animal/giant_spider/tarantula,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "FO" = (/obj/structure/flora/small/snow/rock6,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"Gw" = (/obj/structure/bed/chair/custom/wood/wings{dir = 4},/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"Gf" = (/obj/structure/snowstorm,/obj/effect/decal/cleanable/generic,/obj/effect/floor_decal/asteroid,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"Gw" = (/obj/structure/bed/chair/custom/wood/wings{dir = 4},/mob/living/simple_animal/hostile/plant/folken,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Gy" = (/obj/structure/flora/tree/jungle_small/variant2,/turf/unsimulated/mineral,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "GM" = (/obj/structure/flora/tree/snow/three{dir = 4},/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "GR" = (/obj/structure/table/rack/shelf,/obj/item/gun/projectile/automatic/chaingun,/obj/item/gun/projectile/automatic/chaingun,/turf/simulated/floor/industrial/navy_large_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"Hs" = (/obj/structure/boulder,/obj/structure/flora/small/snow/rock2{name = "snowstorm"; desc = "Violent thrashing of flakes, caused by the winds. It makes it difficult to see"; icon = 'icons/effects/weather_effects.dmi'; icon_state = "snow_storm"; layer = 4.1},/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Hv" = (/obj/structure/bonfire/permanent,/obj/machinery/door/blast/shutters/glass,/turf/simulated/floor/industrial/blue_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "HB" = (/obj/structure/bookcase,/obj/item/device/lighting/toggleable/lantern,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "HJ" = (/obj/item/paper/card,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"HK" = (/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"HK" = (/obj/structure/flora/tree/jungle_small/variant2,/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission/listeningpost)
 "HZ" = (/obj/structure/snowfall,/turf/unsimulated/mineral/cold,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "IF" = (/obj/structure/bookcase/manuals/medical,/obj/item/book/manual/nonfiction/thescienceofright,/obj/item/book/manual/nonfiction/lifewithoutprinciple,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"IK" = (/obj/structure/flora/small/snow/rock2{name = "snowstorm"; desc = "Violent thrashing of flakes, caused by the winds. It makes it difficult to see"; icon = 'icons/effects/weather_effects.dmi'; icon_state = "snow_storm"; layer = 4.1},/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"Jd" = (/obj/structure/snowstorm,/mob/living/carbon/superior_animal/giant_spider/hunter,/mob/living/carbon/superior_animal/giant_spider/hunter,/mob/living/carbon/superior_animal/giant_spider/hunter,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"KB" = (/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"IX" = (/obj/structure/closet/secure_closet/personal/cabinet,/obj/item/oddity/common/old_money,/obj/item/oddity/common/old_radio,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"JK" = (/obj/structure/snowstorm,/mob/living/carbon/superior_animal/giant_spider/tarantula,/mob/living/carbon/superior_animal/giant_spider/tarantula,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"Kc" = (/obj/item/oddity/rare/moon_fragment,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"Ke" = (/obj/structure/snowstorm,/obj/structure/boulder,/obj/structure/boulder,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"KB" = (/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"Lq" = (/obj/item/device/lighting/toggleable/lantern,/obj/structure/table/woodentable,/obj/item/oddity/common/lighter,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Lr" = (/obj/structure/table/bench/wooden,/turf/simulated/floor/carpet/turcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Ly" = (/obj/structure/snowstorm,/mob/living/carbon/superior_animal/giant_spider/nurse,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"LE" = (/obj/structure/girder/low{name = "thin ice"; desc = "It's better not to walk on this ice..."; alpha = 0},/turf/simulated/floor/asteroid/grass/sifdark{name = "icy water"},/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "LG" = (/obj/structure/coatrack,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"LT" = (/obj/structure/flora/tree/jungle_small/variant2,/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission/listeningpost)
+"LY" = (/obj/structure/flora/stump,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission/listeningpost)
 "MK" = (/obj/structure/table/bench/wooden,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"MM" = (/obj/structure/flora/tree/snow/four,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"OI" = (/obj/structure/snowstorm,/obj/structure/flora/tree/snow/three,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"Pz" = (/obj/structure/snowstorm,/turf/unsimulated/mineral,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"MM" = (/obj/structure/flora/tree/snow/four,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"NG" = (/mob/living/simple_animal/hostile/tree,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"OI" = (/obj/structure/flora/tree/snow/five,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"Pb" = (/turf/simulated/floor/industrial/concrete_bricks,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"PA" = (/obj/machinery/door/unpowered/simple/wood,/obj/effect/decal/cleanable/blood/drip,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"PE" = (/obj/structure/flora/tree/jungle/variant3,/turf/unsimulated/mineral,/area/awaymission/listeningpost)
 "PJ" = (/obj/structure/bedsheetbin,/obj/structure/curtain/open/bed,/obj/item/flame/candle/pre_lit/endless,/obj/structure/table/woodentable,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "PN" = (/turf/simulated/floor/industrial/navy_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"PY" = (/obj/structure/flora/tree/jungle/variant3,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"PY" = (/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission/listeningpost)
 "Qk" = (/obj/structure/coatrack,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Qo" = (/obj/structure/anomalies_diet/spidersilk,/obj/structure/flora/tree/snow/four,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"QJ" = (/obj/structure/snowstorm,/turf/simulated/floor/rock/manmade/ruin3,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"QQ" = (/obj/structure/snowstorm,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"Qx" = (/obj/structure/snowstorm,/mob/living/carbon/superior_animal/giant_spider/tarantula/ogre,/mob/living/carbon/superior_animal/giant_spider/tarantula/ogre,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"QJ" = (/obj/structure/snowstorm,/obj/item/oddity/rare/moon_fragment,/turf/simulated/floor/rock/manmade/ruin3,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"QQ" = (/obj/structure/snowstorm,/obj/item/remains/mouse,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Rn" = (/obj/structure/table/woodentable,/obj/item/reagent_containers/food/snacks/sliceable/bread,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"RL" = (/obj/structure/flora/tree/snow/four,/obj/structure/snowstorm,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "RN" = (/obj/structure/table/woodentable,/obj/item/reagent_containers/food/drinks/teapot,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"St" = (/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission/listeningpost)
-"SJ" = (/obj/structure/snowstorm,/mob/living/carbon/superior_animal/giant_spider/tarantula/ogre,/mob/living/carbon/superior_animal/giant_spider/tarantula/ogre,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"St" = (/turf/unsimulated/mineral,/area/awaymission/listeningpost)
 "SP" = (/obj/structure/snowstorm,/mob/living/carbon/superior_animal/giant_spider/nurse,/mob/living/carbon/superior_animal/giant_spider/nurse,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Td" = (/obj/structure/bookcase/manuals/medical,/obj/item/book/manual/nonfiction/ethics,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Tl" = (/obj/structure/table/rack/shelf,/obj/item/gun/projectile/automatic/omnirifle/scoped,/obj/item/gun/projectile/automatic/omnirifle/scoped,/turf/simulated/floor/industrial/navy_large_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"TB" = (/obj/structure/snowstorm,/obj/structure/boulder,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "TM" = (/obj/structure/table/bench/steel,/obj/structure/snowstorm,/turf/simulated/floor/rock/manmade/ruin3,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Ub" = (/obj/structure/flora/tree/snow/three,/obj/structure/snowfall,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "UD" = (/obj/structure/table/rack,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "UI" = (/obj/structure/snowstorm,/turf/simulated/floor/industrial/concrete_bricks,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "UN" = (/obj/structure/flora/small/snow/rock1,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"UP" = (/obj/structure/snowstorm,/turf/simulated/wall/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"UP" = (/obj/structure/snowstorm,/turf/simulated/wall/wood_barrel,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "UX" = (/obj/structure/grille,/obj/structure/snowstorm,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "VK" = (/obj/structure/bookcase,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "We" = (/mob/living/carbon/superior_animal/giant_spider/nurse/queen,/obj/structure/snowstorm,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Wq" = (/obj/structure/anomalies_diet/haze,/obj/structure/snowstorm,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"WA" = (/obj/structure/snowstorm,/obj/structure/boulder,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "WC" = (/mob/living/carbon/superior_animal/giant_spider/tarantula/ogre,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"WO" = (/obj/structure/flora/tree/jungle/baracade,/turf/simulated/floor/asteroid/dirt/dust,/area/awaymission/listeningpost)
 "WP" = (/obj/structure/flora/tree/snow/snow{dir = 4},/turf/unsimulated/mineral,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "WT" = (/obj/structure/snowstorm,/obj/structure/anomalies_diet/glacier,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Xc" = (/obj/structure/table/woodentable,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"Xl" = (/obj/structure/flora/tree/jungle_small/variant2,/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"Xl" = (/obj/structure/flora/tree/snow/snow{dir = 4},/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Yf" = (/obj/machinery/door/blast/shutters/glass,/obj/structure/bonfire/permanent,/turf/simulated/floor/hull,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "Ys" = (/obj/item/bedsheet/rd,/obj/structure/bed,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"Yv" = (/obj/structure/bookcase/guncase,/turf/simulated/floor/industrial/navy_large_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"Yv" = (/obj/structure/bookcase/guncase,/obj/item/oddity/ls/manual,/obj/item/oddity/ls/manual,/obj/item/oddity/ls/manual,/turf/simulated/floor/industrial/navy_large_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "YC" = (/obj/item/flame/candle/pre_lit/endless,/obj/structure/table/woodentable,/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "YH" = (/obj/item/stack/material/wood/random,/obj/structure/bookcase{name = "firewood rack"},/turf/simulated/floor/wood,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "YS" = (/obj/structure/girder/low{name = "thin ice"; desc = "It's better not to walk on this ice..."; alpha = 0},/obj/structure/girder/low{name = "thin ice"; desc = "It's better not to walk on this ice..."; alpha = 0},/obj/structure/snowstorm,/turf/simulated/floor/asteroid/grass/sifdark,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"Za" = (/obj/structure/snowstorm,/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"Zf" = (/obj/structure/flora/tree/jungle_small/variant2,/turf/unsimulated/mineral,/area/awaymission/listeningpost)
 "Zg" = (/obj/effect/decal/cleanable/cobweb,/turf/simulated/floor/industrial/navy_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
-"ZB" = (/obj/structure/flora/tree/snow/snow{dir = 4},/obj/structure/snowstorm,/turf/simulated/floor/snow,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"ZB" = (/obj/structure/snowstorm,/turf/simulated/floor/rock/manmade/ruin3,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
+"ZF" = (/obj/structure/flora/tree/jungle/variant3,/turf/simulated/floor/asteroid/grass/colonial1,/area/awaymission/listeningpost)
 "ZI" = (/obj/item/device/lighting/toggleable/lantern,/obj/structure/table/woodentable,/turf/simulated/floor/carpet/bcarpet,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 "ZX" = (/obj/item/clothing/head/rank/solfedmed,/obj/item/clothing/head/rank/solfedrecon,/obj/structure/table/rack/shelf,/obj/item/clothing/suit/armor/platecarrier/solfed,/obj/item/clothing/suit/armor/platecarrier/solfed,/obj/item/clothing/suit/armor/platecarrier/solfed,/turf/simulated/floor/industrial/navy_large_slates,/area/awaymission{ambience = 'sound/ambience/windamb2.ogg'})
 
 (1,1,1) = {"
-xlxlxlxlxlxldjxldjxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxl
-xldjdjdjdjdjdjdjdjdjdjdjdjdjdndndnZBZBdnbDbDdvbDbDbDbDbDbDbDZBdnZBdndnpSdnvudndndndndndndnpSdnohdndnkNkNkNdndndndnpSdnohdndnrddndndndnpSdndndndndndndndndndnohdnmWmWcemWzMmWmWcemWxlxlxlxlxlxlxlxlxlxlxl
-xldjdjdjdjdjdjMMdnZBdnpSwbdnZBdnZBdndndnbDZgPNPNPNPNPNPNiWbDdndndndndndnZBvupSdndndndnohdndndnohkNkNkNkNkNkNdnpSdndndndndndndndndnpSdndnohdndnohdndndndnohdndndnohdndndndndnohdndndnpBpBdnxlxlxlxlxlxlxl
-xldjdjdjdjdndndndndndndnwbdndnZBdnZBdndnnVPNYvsmrTrTZXivPNbDZBdnZBdndndndnvudndndnZBdndnZBdndnkNkNkNkNkNkNkNdndndndndndndnohdnpSdndndndndndndndndndnohdndndnUNdndndndnZBdndndndndndndndndndndnxlxlxlxlxl
-djdjdjdjdnpSnFdndnrdZBdnwbdnZBdnZBdnZBdnbDPNnqTlrTrTGRdJPNbDdnZBdndnZBdndnvudndnpSdndndndndndnkNkNkNkNkNkNkNkNdndndnpSdndndndnoRdndndndndnpSdndndndndnohdndnZBdndndnoRdndndnZBdnpBdndndnpBdndndnxlxlxlxl
-djdjdjdjZBdnayayayaydnbDbDbDbDbDbDbDbDbDbDPNPNPNPNPNPNPNPNbDdndnZBdndndndnvudndndndndnpSZBdnkNkNkNkNpSdnkNkNkNkNdndndndndndnohdnpSdnpSZBdndndnohdndndndndndndndnohdndndnpBdndnrddndndndndndndndndnxlxlxl
-djdjdjdjdndnayayayaydnbDHKuPhYobzZHKbDbDbDbDkPbDbDbDbDbDbDbDdndndndnZBZBdnvudndndndndndndndnkNkNkNdndndnkNkNkNkNdndndndnohdndndndndndndndndndndndnpSdndnUNdndndndnpSdndndndndndndndnZBdndnpBdndndndnxlxl
-djdjdjdjdnpSayayayaypSbDHKbDhYhYhYHKbDdnpSbDHKbDHKLrLrHKIFbDdnpSdnpSdndndnvudnZBdnpSdndndndnkNkNdnohdndndnkNkNkNkNpSdndndndndndndndndndnohpSdnpSdndnZBdndnohdndndndndnohUNdnZBpBdndnQQQQQQdndnpBdndnxlxl
-djdjdjdjrddnayayayaydnbDckbDEjRnghHKbDdndnbDHKbDHKmfftHKTdbDdndnZBdndndnZBvudndndndnpSohdnkNkNkNpSdnZBdnpSkNkNkNkNdndndndndnpSoRdndnZBdndndnpSdnrddnoRdnoRdnpSpSdndndndndndndndndnQQdndnUNdndndndndnxlxl
-djdjdjdjdjdndndndnZBdnbDQQbDbDbDbDbDbDpSZBbDHKHKHKHKHKHKHKbDdndndndnZBdndnvudndnpSdndndndnkNkNkNdndndndndnkNkNkNkNdndndnohdndndnpSdndndnpSdndndndndndndnpSdndndndndndndnZBQQQQQQdndndndndndnpBdndndndnxl
-djdjdjdjdjpSdnZBdnQQQQQQQQdndnpSdndnbDwbwbbDbDbDbDckckbDbDbDwbwbwbwbwbwbwbmVdndndnrddndnUPkNkNkNUPohdnpSdndnUPkNkNUPdnoRdnUNdndndndndneRdndndnpSdndndndnUNdndndnZBdnohdndndndndndndnZBdnZBdndndndndndnxl
-djdjdjdjdjdndndnbDckbDdnQQQQUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIcsdnQQQQQQQQQQdnQQQQQQhqhqhqQQWqQQQQdnQQQQhqhqQQQQQQdndnpSdndnrddndndndndndndnrddndnpSdndnohdndndnpBQQdndndndndndndndndndnZBdndndnxl
-xldjdjdjdjdndnpSbDHKbDdnpSZBUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIcsdndnQQQQQQQQQQQQQQQQhqhqhqWqQQdndnQQdnQQhqhqQQQQQQQQdnQQQQQQdnohdnZBdndndnohdnohdndndnrddndndndndnQQdndnZBdnpBdnpBdndndndndndndnxl
-xldjdjdjdjrddndnbDHKbDbDbDbDUIUIbDbDbDckbDbDbDdndnUIUIUIdndnbDbDbDmWdndndndndndndndndndnUPkNkNkNUPdndndndnpSUPkNkNUPdndnohdnQQdnUNQQdndndndndnpSdndndndndndndndnrddnohdnQQrddnUNdndndndndndnpBdndndndnxl
-djdjdjdjdjdjZBdnbDHKRnghoPbDUIUIbDMKytbPytHKbDohbDbDUIUIbDbDbDtlbDbDdnrddnZBdnZBdndndndnpSkNkNkNdndnZBdnpSkNkNkNkNdndndndnQQdnohdnQQQQdndnqwohdnpSeRdnZBdndndndndndndndndnQQdndndndndndnUNpBdndndnpBdnxl
-djdjdjdjdjdjdndnbDHKHKHKHKbDUIUIbDMKHBbPytMKbDdnbDLGeQeQXcbDYsHKEjbDdndndndndndndndndnpSdnkNkNkNkNdndnZBdnkNkNkNkNdndndndnQQdndndndndnQQQQdndndndnpSdndnpSdnZBdndnrddnUNUNQQdnrddnUNZBdndndndndndndndnxl
-djdjdjdjdjdjdnpSbDbPYfYfbPbDUIUIbDHKbPbPbPHKbDdnbDUDeQeQtobDsbHJHKbDdndndnrddndnohdnZBdndnpSkNkNkNkNpSdnkNkNkNkNkNdndnpSdnQQpSdndndnUNohQQUNQQQQQQUNdndndndndndnohdnrddndnpBdndndndndndndndndnZBdndndnxl
-djdjdjdjdjdjpSdnbDbPbPbPbPbDUIUIbDHKVKghqZHKbDdnbDbDuPuPbDbDbDbDuPbDdnZBdndnohdndndndndnpSdnkNkNkNkNkNdnkNkNkNkNdndndndndndndnpSdnohdndndnZBdndnQQQQdnpSdnohdndndnoRQQQQrddndndnohdnUNdndnpSdndnrddndnxl
-xldjdjdjdjdjdndnbDBDvWugBDbDUIUIbDHKMKHKHKHKbDdnbDHKHKHKsbbDZIopbPbDdndnpSdndnpSdnpSdndndndndndnkNkNkNkNkNkNkNkNpSdndndndnoRpSdnohdnpSdndndndndndndnQQdndndndnpSdndndndndndndndnUNrdZBdndndndndndndndnxl
-xldjdjdjdjdjdjdnbDbDbDbDbDbDUIUIbDbDbDbDbDbDbDdnbDRNxnHKHKbDbPbPbPbDdndnoRdndndndndndndndnZBdnpSpSkNkNkNkNkNkNkNdndndndnohdnxlxlxlxlxlohdndndndndndnQQQQohdnpSdndndnUNdndnohdndndndndndnpSpSdndndndnpSxl
-xldjdjdjdjdjdjdndnrddndndnpSUIUIdndndndndnrddnohbDbPbPHKHKuPbPvWugbDdndndndndnpSdndndnpSdndndndndndndnkNkNkNkNkNdnpSdndndndnxlxlxlxlxlxlpSdnohdnrddnpSQQdnUNdndnpSdndndnrdUNdnZBdndndndndndndndndndndnxl
-xldjdjdjdjdjdjrddndndndndndnUIUIZBdnpSQQQQdndndnbDbDbDbDbDbDbDbDbDbDdndndndndndndndndndndndnrddndndnpSdnkNkNkNkNdndnpSdndnohxlxlxlxlxlxlxlohdndndnUNdnqwdnQQdnvmdndndndndndndndndnZBdndndnohdndndnpSdnxl
-xldjdjdjdjdjdjdjdndnZBpSrddnUIUIdndndndndnQQpSdndndnpSdndndnpSdndndndndnohdndnpSdnpSdndndndndnZBdndndnkNkNkNkNdndndndnpSohxlxlxlxlohpSxlxlxldnohpSdndndnQQQQdndndnpSdnZBdndndnpSdndndnpSdndndnohdndnpSxl
-xldjdjdjdjdjdjdjpSdndndndndnQQdndndnpSpSdnQQdndndnZBdndndndndndndndndndndndndndndndndndnZBdndndndndnohkNkNkNkNdndnpSdnxlxlxlxlxlohdndndnxlxlxldndndndndndnQQQQdnohdndndnrddndndndndndndndndndndndndndnxl
-xldjdjdjdjdjdjdjdndndnpSdndnQQQQrdpSdndndnQQQQQQdndndndndndndndndnpSohdnZBohpSdndndndndndnohdndndndndnkNkNkNkNohdndndnxlxlohdndndnpSdnpSxlxlxldndnohdnZBdnohQQQQdnZBrddndndnohdndndnrddndnrddndndndnrdxl
-xldjdjdjdjdjdjdjdjrddndnZBdnQQdndndndndndnZBQQQQQQQQdnpSdnohdndndndndndndndndndndnpSdndndndndnZBdnohpSkNkNkNkNdndndnohxlZBdndnohdndnrddnxlxlxlpSdndndndndndndndnQQdnoRdndndndndnpSdndnohdnUNdnZBdnpSdnxl
-xldjdjdjdjdjLEkNkNkNkNkNdnpShqhqdnpSrddndndndndndnQQQQdndndnrdpSdndndndndndndndnpSdndndnpSdndndndndndnkNkNkNkNdndndndndnvHvHDMvHvHpAvHvHZBPzxldnpSohpSdndndnZBdnQQQQdndndndndnZBdnohdndndndndndndndndnxl
-xldjdjdjdjdjLEkNkNkNkNkNkNkNhqhqZBdndndnohdnrddndndnQQQQdndndndndnpSdndndndndndndndndnoRdndndndndnpSkNkNkNkNkNpSdndndnohdndndndndndndndndnohxlxlxldndnohdndndndndnQQdnZBdnohdndndndndndnpSdndndndndndnxl
-xldjdjdjdjdndndndndnpSkNkNkNhqhqkNdnpSdndnpSdndnpSZBdnQQQQQQdndndndndnZBdnohZBpSdndndndndnpSdndnohkNkNkNkNkNkNdnohdnpSdndnpSohdndndnZBdnpSdnxlxlxlxldndnpSdndnvmdnZBdndndnUNohdndndnpSdndndnZBdnohdnohxl
-xldjdjdjdjpSdnohdndndndnpSkNhqhqkNkNkNdndndndnohdndndndndnQQdnrddndndndndndndndnoRdndndndndndndnkNkNkNkNkNkNkNkNdndndndndndndndnpSdndndndndnxlxlxlxlpSdndnohZBdnohdnQQdndndndndndnrddndndndndndndndndnxl
-xldjdjdjdndndndndnpSdndndndnhqhqdnkNkNkNkNkNkNkNkNkNdndnZBdnpSdndnZBdndndndndndndnpSdnZBdndnohkNkNkNkNkNkNkNkNkNkNohdndndndndndndnohpSdnohQQQQxlxlxldndndndndnUNdndnQQvmdndndndnohdndndnrddndndndnohxlxl
-djdjdjdjdndndndnohdndnrddndnQQdndnkNkNkNkNkNkNkNkNkNkNkNdndndndnQQQQdndnZBdndndnohdndndndndnkNkNkNkNkNkNdnkNkNkNkNkNkNohdndndndndndndndndnQQQQlAxlxlpSohdndndndndnrdQQdnrddnZBdndnpSdnohdndnohdndndnxlxl
-djdjdjdnohdnrdrddndnpSdndndndndndndnrdpSdndnrdZBkNkNkNkNkNkNdnohdndndndndndnrdpSdndndndndnohkNkNkNkNdndndnkNkNkNkNkNkNkNkNohZBdndndndndnQQQQlAlAxlxlxlxlpSdndnohlhdnZBQQqwdndnrddndndndndnohdndnrddnxlxl
-djdjdjdndndndndndndndnirdnrddnQQdnqwdndndndndndnpSkNkNkNkNkNdndndnZBdnQQdnpSdndndndndndndnkNkNkNkNdnZBdndnkNkNkNkNkNkNkNkNkNdndndndndnQQQQlAlAlAxlxlxlxlxlrddndndndnohQQQQQQdndndnlhdndndndnpSdndnxlxlxl
-djdjdnrddnpSdndnohZBdndnUNdndnQQdndnpSdndndndndndndnkNkNkNkNkNkNdnpSdndnQQdndndnpSdnZBdnpSkNkNkNdndndndndnkNkNpSrdiUkNkNkNkNkNdndndndnQQgYlAlAlAlAxlxlxlxlxlrddnpSdndndnQQQQdndndndnpSdnohdndnohdnxlxlxl
-djdjdndndndndndndndndndnrddndndndndndnohdnrddnZBdndndnpSkNkNkNkNdndnohdnQQdndnohdndndndnkNkNkNdndndndndndnkNkNdndnrdkNkNkNkNkNpSdndnZBdndnlAlAlAlAxlxlxlxlxlxlpSdndnrddnqwQQQQdnlhdndndndndndndnxlxlxlxl
-djdjohdndnZBpSdndndnohdndndnrdQQQQdndndndnoRpSdnohdndndndnpSkNkNkNkNdnZBtktkdndndndndndnkNkNkNdndndndndnkNkNkNrdpSdnkNkNkNkNkNiUZBdndndndnZBlAlAlAlAlAlAxlxlxlxldndndndndnQQQQdndneRdnpSdndnrdxlxlxlxlxl
-djdjdndnohirdndndnpSdnrddndndndnQQZBdndndndndndndndnohdndndndnkNkNkNtktkEAdntkdndnohrddnkNkNkNkNdndnkNkNkNkNdndndndnpSkNkNkNkNiUiUdnpSdndndndnlAlAlAlAlAlAxlxlxldnpSdnrdZBdndnQQdndnqwdndnpSxlxlxlxlxlxl
-djdjdndndndndndnohdndndndnZBdndndndndndnohdndndndndndndnohdndnkNkNkNtkdnEAdntkdnrddndnpSkNkNkNkNkNkNkNkNpSdndndndnrddnpSkNkNkNiUiUdndndnZBdnpSlAlAhTlAlAlAxlxlxlpSdndndndnrddnQQQQdndndnohxlxlxlxlxlxlxl
-djdjohdnpSdndndndndndndndndndndndndnQQdndndnZBdnohdndndndndnpSkNkNkNcydntkdntkdndndnpSdnkNkNkNkNkNkNkNkNdndnohohdndndndnpSiUiUiUiUiUdndndndndnxllAlAlAlAxlxlxlxldndnrddndndndndnQQdnQQdndnxlxlxlxlxlxlxl
-djdjdndndnqwrddndndnohpSdnohdnZBpSdnQQrddndndndnohdndndndnZBdnkNkNkNdntkEAZBtkQodnohdnkNkNkNkNkNiUdndnpSdnpSdndndndnohdndndniUiUiUiUdnpSdnohxlxlxlxlxlxlxlxlxlxldndndnohdndndnrddnQQQQZBdnxlxlxlxlxlxlxl
-djdjdndndnohdndnZBdndndndnirdndndndnQQdndndndndnnPdndndnrddnkNkNkNkNohQQEAtktkdndndndnkNkNkNkNdnohdnohdnohdndndnpSdndnpSdnpSiUiUiUiUiUdnpSdnxlxlxlxlxlxlxlxldndndnpSdndndndndndndnQQQQQQdnlAlAlAxlxlxlxl
-djdjdjohdndndndndnpSdndndnohdndndnQQQQdndnZBdndndndnohdndndnkNkNkNpSdnQQdndndndndndnkNkNkNpSdndndndndndndnpSdndndnpCdndndndniUiUiUiUiUdndndnZBmWdndndndndndndnrdoRdndndndnohdndndndndnpSQQlAlAlAIKxlxlxl
-djdjdjdnrddndndndndnpSdndndnrddnZBQQdndnohdndndndndndnpSZBkNkNkNkNkNdndndndndnZBdndnkNkNkNdnZBdndnpSdnohpSdndndndndndnpSpSdniUiUiUiUiUohZBdndnmWdndnpSdnrddndndndndndndnpSdndndnpSdndneRQQlAlAlAIKxlxlxl
-djdjdjdndndnnPdnrddndnrfdndndndndndndndnohdndnrddnkNkNkNkNkNkNkNkNkNkNhqdnohpSdndnkNkNkNkNdndndnpSdndndnpCdndndndndndnrddndnZBiUiUiUiUiUdnpSdnmWdndndndndndndnpSrddnpSdndndndnohdnrddndnQQlAlAlAxlxlxlxl
-djdjdjrddnZBdnohdndndndndndndndnohdndndndndnpSdnkNkNkNkNkNkNkNkNkNkNkNhqhqkNdnkNkNkNkNkNdnpSdndndndndnpSdndnZBdndnZBdndndnpSdniUiUiUiUiUdndndnMMdndndndndnpSdndndndndnZBdnpCdndndndndndnQQxlxlxlxlxlxlxl
-djdjdjdjrddndndndnZBdndndndnrdohdnQQQQdndndndndnkNkNkNkNkNkNkNkNkNkNkNhqhqkNkNkNkNkNkNkNdndnpSdndnohdndndndndndnrddndndndndnpSohiUiUiUiUpSdndnmWdnpSdndnpCdndndndnpSdndndndndndndndnZBQQQQxlxlxlxlxlxlxl
-djdjdjdjdndndndndnnPdndnohdndndndnQQQQdnohdndnpSkNkNkNkNkNkNkNkNkNkNkNhqlUkNkNkNkNkNkNdnpSdndndndndndndndndndndndnnPdndnpSdndndniUiUiUiUdndndnmWpSdndnZBdndndndndndndndndndndnohdndnQQQQpSxlxlxlxlxlxlxl
-xldjdjdjdjdnohdnirdndndndndndndndnrdQQdndnrddnkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNpSohdndndnZBdndndnZBdndnohdndndnrddnoRdndnpSdniUiUiUiUdnpSmWdnpSdnpSdndndnZBdndnohdnpSdndndnpSQQdnQQdndnxlxlxlxlxlxl
-djdjdjdjdjrddndndndnohdnohdnpSZBdndnQQdndndndnkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNdndndndndnnPdndnpSZBdndndndnpCdndndndndndndndndniUiUiUiUdndnmWpCdndndndnohdndnpSdndndndnpSdneRdndndndndnpSxlxlxlxlxlxl
-xldjdjdjdjdjdndndndndndndndndndndnQQQQZBdndnkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNohpSdndnZBdnpSdndndndnnPdndndndndndnohdndndndnpSiUiUiUiUrddnmWdndndndnpSdndnpCdndndnpSdndndndnQQQQdnrddndnohxlxlxlxlxl
-xldjdjdjdjdjdndnpSdndndndndnoRdnrdQQQQdndndnkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNdndnpSdndndndndndndndndndndnnPrddndndndndnZBdndndniUiUiUiUdnmWZBdndndndndndndndnpSdndndnZBpSdnQQdndndnpSdndndnxlxlxlxl
-xldjdjdjdjdjrddndndnohdndndndndneRQQQQdndnohkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUdndndndndndnpSdndndndnZBdndndndndndndndndndndnohdniUiUiUrdmWdndnrdZBdndndndndndndndndndndnQQdndndndndndndnohxlxlxlxl
-xldjdjdjdjdjdndndnohdndndnZBdndnskQQQQdndndndnkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUohdnohdndnpSdndndnZBdndndndndndndnZBdndndndndndnZBiUiUiUdnmWdnrddndndndndnohdnpCohdneRQQQQdnZBdndnpSdndndndnxlxlxlxl
-xldjdjdjdjdjpSohdndndndnZBdnohdndnQQdndneRdnohkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUiUpSdnrdohdndndndndnpSdndndnZBdndndndndndndnpSdndniUiUiUdnmWdndndndnohpSdndndndndndndnQQZBdndndndndnpSdnohpSdnxlxlxl
-xldjdjdjdjdjdnpSdnnPpSpSdndndnQQQQeRdnohirdndnkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUiUiUiUiUdnpSdnZBdndndndndndndndnrddnpSdnpSdndnpSpSohiUiUdnMMdndnpSdndndndndndnZBdnpSdndndndndnpSdndndnpSdndndnxlxlxl
-xldjdjdjdjdndndnpSdndndndnpSdnQQohdndndndndndnohkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUiUiUiUiUiUiUiUdnpSohdnrddnohdndndndndndndndndndndndniUiUdnmWdnrddndndndndndnvmdnQQQQdnpSdnpSdndndnohdndnpSdnohxlxlxl
-xldjdjdjdndnpSdndndnohdnpSQQdnQQdndndndndndnpSdnkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUiUiUiUiUiUiUiUiUiUiUpSdndndndndndndnoRdndndndndndnpSiUiUrdmWpSdndndnohdnZBdndnQQQQdndndndndndndndndndndndndndnpSxlxl
-xldjdjdjdnpSdnZBvrdndnrddnQQQQdndneRdnpSdnohdndndnkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUiUiUiUiUiUiUiUiUiUiUiUiUohdndnZBdndndndndndndnpSdndniUiUdnmWdndndnQQQQQQQQQQQQQQpSdnQQlhpSdnohdndnpSdnohdnohdndnxlxl
-xldjdjdjpSdnpSdndndneRdnQQQQQQlhdnpSUNdndndndnrddndndnpSkNkNkNkNkNkNkNkNkNkNkNkNkNkNZBdnrddndndniUiUiUiUiUiUdndndndndnpSQQQQdnZBQQQQQQhqhqhqhqmWdnQQQQQQQQQQQQQQeRdndnvmQQdndnpSdndnrddnpSdndndndndnxlxl
-xldjdjdndnpSpIdndndndndndnQQdndndndndnirdneRdndndndndndndnpSdnkNkNkNkNkNkNkNkNkNkNdndnpSdndnrddndnrddniUiUiUdnpSdndnQQdndndnQQQQQQQQQQhqhqhqhqmWQQQQQQQQQQZBdnohdnpSdndndnQQdndndndndndnoRdnpSdndnZBxlxl
-djdjcEpSdndndndndnpSZBdndndndndndndnpSdndndndndndnrdpSdndndndndndnZBdndndndndnrddndndndndndndnpSrddndnrdiUiUdnQQQQQQdnrddndndndndndndndniUiUrdmWdndnpSdndndndndndndnpSdndnQQdndndndndndndndndndnpSdnxlxl
-djdjohdnohdninhqakindnohdndndndnohdndnZBdndnZBdnrddndndnZBdnpSdndndndnohdnohpSdndnZBdnpSdnrddndndnQQQQhqhqhqhqQQdndndndndnZBdndnpSpSdnpSiUiUdnmWdndndndndndndnpSdndndndnpSdndndndnohdndndndndndndndnxlxl
-djdjdjdndnZBinhqojindndnQQQQZBdndndndndndnohdndndnoRdndndndndnohdnrdZBdndndndndnrddndndndndndndnQQQQQQhqhqhqhqpSohdnpSdnohdndndndndndniUiUiUdnmWpSdnpSdnohdndndndndnpSdndndnZBdndndndnohdnpSohdndndnxlxl
-djdjdjpSpSdninininindnpSQQQQQQrddndnpSdneRdndnpSdnrddnrddnpSZBdncFdndnpSdndneRdndnpSdndndnQQQQQQdndndndniUiUdndndnpSdndndndnpSdndndndniUiUdndnmWdndndnrddnpSdndndndndndndnQQQQpSdndndndndndndnpSdnpSxlxl
-djdjdjdjdndndndnpSrdZBdnohZBdnQQQQZBdndndndnrddnUNdnpSdndndnQQQQQQdndndnrdQQQQQQQQQQQQQQdndnZBdndndnZBdniUiUohdndndndnohdnpSdndnohZBiUiUiUdndnMMdndndnoRdndndnohdndndndnrddnQQdndndndndndndndndndndnxlxl
-djdjdjdjohpSohrddndndndndndndndndnQQdnoRQQdndnrddnZBdndndnQQdnQQQQQQQQQQQQQQQQdnQQdndndndndndndndndndnpSiUiUiUpSdndndndndndndnpSdndniUiUrddndnmWdnpSdndndndndndndnohpSdndndnQQQQdndnohdndndnrddnpSdnxlxl
-xldjdjdjdjdndndnpSdndndndndndnZBlhQQQQQQQQQQdndndndneRQQQQQQdndndndndnZBdnQQdndndnZBdndndndnZBrddnrddndnpSdniUiUdnohdndndndndndndniUiUiUdndnohmWdndndndndndndnpSdndndndndndnQQQQdnpSdndnZBdndndndnpSxlxl
-xldjdjdjdjdnpSpSdndnpSohpSdnpSdndndndndneRQQQQdnQQdndnQQdnZBpSdnQQpSdndndndnrddndndndndndndndndndndndndndnpSiUiUiUdndndndnpSdnpSiUiUiUiUdnrddnmWpSdndnpSdnohdndndndndndnohdnQQZBdndndnpSdndndndndndnWPxl
-djdjdjdjdjdjdjdnohpSdndnpSohdnpSohpSdndnpSZBrdBmQQQQQQdndndndndnQQdndndnrddjdjdnrddnpSrdZBdndnpSdndndnohdndndniUiUdnohdndndnoRdniUiUiUdndndndnmWoRdndndndndndndndnrddndndndnQQdndndndndndndnpSdnZBdnxlxl
-xldjdjdjdjdjdjdjdjdjdjdjdjdjdndndjdjdnpSdndndndnBYZBdndnrddnZBQQQQdndnohdjdjdjdjdnpSdndndnpSdndndndndndndndnpSiUiUiUiUZBdndndniUiUiUiUdndnpSdnmWdndnrddndndnrddnohdndndndnrdQQdndndnohdnpSdndndndndnxlxl
-xlxldjxlxlxldjxlxlxldjdjxldjdjdjdjdjdjdjdjrddjdjdjdnrddndnoRQQQQQQrdpSdndjdjdjdjdjdjdjdnpSdnrddndnrddnpSrddndnZBdniUiUiUohdnpSiUiUiUdndndndndnmWdndndnohdnpSdndndndndndndndnQQQQdnpSdndndnpSdnohdnpSxlxl
-djxldjxldjxlxlxlxldjxlxlxlxlxlxlxldjdjdjdjdjdjdjdjdjdnrddnpSQQQQQQdndndndjdjdjdjdjdjdjdjdnpSdnpSpSdnpSdndnohdndnddOIiUiUiUdniUiUiUiUrddndndndnzMdndndndndndndnpSdndndnohpSdnQQQQdndndndndndndndndndnxlxl
-xlxldjxlxlAepRouKBKBvyXlxlxlxlxlxlxlxlxldjdjdjdjdjdjpSdndndndnQQZBdnohdndjdjdjdjdjdjlCdjdjdjdjdjdndjdjdjdjdjdjdjdjdjcWiUiUiUiUiUiUdndnpSdndnpSmWdndndndndndnoRdndndndndndndnQQQQdndnohdndndndndndnpSxlxl
-xlxldjxlxlKBKBKBrGlAlAlAlAGyxlxlxlxlxlxlxldjdjdjdjdjdjdjpSdndnQQdnoRdnpSdnpSrddnuNdjdjdjdjdjdjdjdjdjdjdjdjdjdjdjdjdjdjiUiUiUiUiUdnrddndndndndnmWdnohdnrdpSoRdndnohdnpSdndndnZBQQdndndnohpSdndnohdndnxlxl
-xldjdjKBKBxlxlKBlAcwlAlAlAlAlAxlxlxlxlxlxlxlxldjdjdjdjdjdnpSQQQQdndndndnohdndnpSdnrddjdjdjdjdjdjdjdndjdjdjdjdjdjdjdjdjiUiUiUiUiUdndndndndnohdnmWdndndndndndndndndnpSdndndnpSdndnpSdndndndndndndnpSohxlxl
-xlxldjKBKBxlKBcwlAlAlAlAlAlAlAlAMMxlxlxlxlxlxldjdjdjdjdjdndnQQdndnZBdnpSdndndndndndnpSrddjdjdjdndnohdndjdjdjdjdjdjdjdnpSiUiUiUiUiUdndndnpSdndnzMdnpSdndndnZBdndndndndnZBdndndndndndndnpSdndnohdndndnxlxl
-djxlKBvyKBKBKBlAlAlAlAlAlAlAlAlAlAvoaQoKdjdjdjxldjdjdjdjohdnQQdnohdndndndnrdZBpSdndndndnmWdjdjdjrddnpSdjdjQJQJQJQJdjdjdniUiUiUiUiUpSdndndndndnmWdndnrddndndndndnohdndndndndndnQQdndndndndndndndndndnxlxl
-xlxlvyKBKBKBlAlAlAlAlAlAlAlAlAvopFvovoqHqHdjdjxldjdjdjdjdndnQQdnQQQQQQQQQQQQdndndndndndnBYmWdjdjdndndnohQJdndXTMdnetdjdnpSiUiUiUiUiUdnohdndnpSmWpSdndndndnpSdndndndndndndndndnQQdnZBdndnpSohdndndnrdxlxl
-xlxlKBKBKBKBKBlAlAlAPYxlGyxlxlvovovovovooKdjdjdjxlxldjdjpSZBdnQQQQQQQQdndndndnQQQQZBdnrddnrddjdjpSrdpSdndnQJQJQJQJohdnrdrdiUiUiUdniUdnpSdnpSdnmWdnpSdndnohdndnrddndndnohdnohdnQQdndndnpSdndndnohdndnxlxl
-xlKBKBlAKBwJlAlAKBKBxlxlxlxlxlMMvooKvovoqHdjdjdjdjdjdjpSdndndndndndnrdohdnZBdnrddndnQQdndndnrddjdjdndndndndndndndndndndndniUiUiUdniUiUdndndndnmWdndndndndndndndndndndndndndnZBdnQQdnohdndndndndndndnxlxl
-xlvylAlAKBlAlAKBvyxlxlxlxlxlGMxlvoaQoxqHmWdjdjdjdjxldjdndnoRZBQQdnrddjdnohdnohdnrdQQQQdndnpSdndndjdnpSZBQQdndndndndnohZBdniUiUiUrdiUiUiUdnpSdndndndndnrddndnpSdndnZBdndnpSdndndnQQdndndndndnohdndnrdxlxl
-xlKBKBPYKBlAKBXlxlxlxlxlxlxlxlxlvovooKmWqHdjdjxldjxldjpSdndnQQQQdndndjdjdjrddndntktkdntkohdnpSrddjrddnQQQQZBdjdjdjrddndnpSdniUiUdndniUiUiUdndnohdnZBdndndndndndndndndndndndndnrddnQQdnohdndndndnpSdnxlxl
-xlKBKBKBKBlAlAKBxlxlxlxlxldjdjmnvovooKpFHZdjdjxldjdjdjmWwWdnQQdnohmWohMMdjdndntktktkrdtkdndjdjdndndndnQQdndjdjdjdjdjdjrddnrdiUiUZBdndniUiUdndndndndndnpSdnohdndnohdndndndndndndnohQQdndndnrddndndndnxlxl
-xlKBKBKBcwKBlAKBxlxlxlxldjdjmnoKvopFvooKoKdjxlxldjdjdjpSdndnQQZBdnrddjdjdjdnohdntktkEAdndndndndndnpSdnQQohdjdjlAdjlAdjdjdndniUiUdndnpSiUiUiUohdnpSdnohdndndndndndndndnpSdndndndndnQQrdUNpSdndnrddnohxlxl
-xlvyKBKBlAKBlAmWKBxlxldjdjqHoKoKpFvovotgdjdjdjdjxldjdjmWpSdndndnZBdndjdjohpSdnZBEAtkCWZBdnrdrddnZBQQQQQQdndjdjlAmWlAlAdjdjdniUiUpSdndnpSiUiUdndndndndndndndnohpSdndndndndnohdnpSdndndnQQQQQQQQqwdndnxlxl
-xlKBvyKBaSlAlAvyKBxlxldjmnoKoKoKpFvovooKnpdjdjdjxldjpSwWdnQQdnmWmWmWdjdjdndndndntkdndndnrddndndnWTdndndndndjdjlAlAlAlAdjsscEiUiUdnrddndniUiUdndnpSdndndndndndndninUXUXUXinUXUXUXinARinUXUXUXinQQoRdnxlxl
-xlKBKBPYlAKBvyKBvyxldjdjmWoKpFvooKvoUboKmWdjdjdjdjdjdndnQQdndnrddnohdjmWdndndnrdQQdndnpSdnrdpSrddnZBohdnohdjdjlAiGlAlAdjWCJdrdiUiUdndnpSiUiUdndndndnohdnrdpSdndnUXdndndndnohdndndnQQdndnpSrdUXQQdndnxlxl
-xlKBKBlAlAKBKBKBKBxldjdjqHoKoKqHvovovooxpFqNpSmWpSdnZBdnQQZBdndnohdndjdnrdohdntksFZBdndndndndndnQQdndnrddnmWdjlAmWmWlAdjquSJWCiUiUpSrddniUiUdndndndndndndndndnohUXpSdndndndnpSUNohQQeRohdndnUXQQdnohxlxl
-xlvyKBKBlAXlKBKBxlxldjdjdjqHoKoKvovovomWoRdndnrddnZBdnQQdndnrddnmWdndjdndndnrdtkQQQQpSdnrddndnQQQQdndndnrddjdjlAlAlAlAdjidLySPiUiUdndndniUiUdnohpSdnpSdndndndndnUXdnbDbDbDbDbDbDQQQQQQdndnpSUXQQrddnxlxl
-xlXlKBKBlAKBKBKBxlxldjmnqHmWoKoKvovovoMMdnpCdndndndnQQQQdndndndnpSzMdjdjdndndndnQQQQdnrddndnQQdnrddnohdndndjdjlAlAlAmWdjdjWCsWiUiUiUrdpSiUiUdndndndndndndndndndnindnbDQkaMbPhWlAQQkuQQUNohdninQQdnvmxlxl
-xlKBvvKBKBlAKBvyxlxldjqHoKUbpFoKoKmWvodndnQQySQQQQdndndndnohdnohmWmWdjdjdnrddndndnQQdndnQQpSdndndndndnohdndjdjlAmWmWmWzMdjohFCiUiUiUdndniUiUdndndndndnohdndnpSohUXdnbDcqcqbPbDYCQQQQQQQQQQFOUXQQoRdnxlxl
-AzjItZStSttZtZtZAzAzdjoKoKoKmWqHoKqHmWdndndnmWdndndnmWohpSdnpSdndjdjdjdjohdndndnpSdnpSQQdndndndndndndndnrddjdjecmWdnWednfwQQdnquiUiUdniUiUdndnpSdndnohdnpSdndndnUXdnbDbDbDuPbDqkYHYHYHYCbDQQUXQQdndnxleE
-AzAzAzrjWOStdQtZtZAzdjgfMMmWzMoKoKoKMMdnZBdnpSdnrdmWrddjmWdjdjuNdjdjdjdjdndnrddndndndndnrddndndnZBrddnrddjdjdjdjdnsWdndnQQdnWCdniUiUiUiUiUdnohdnpSdndndndndndndnUXohbDHKHKHKbDbDbDbDbDbDbDQQUXdndndnxleE
-AzAzAzSttZtZAzCReMAzdjdjGMMMmWqHmWoKmWdndndnmWdndnpSdjdjdjdjdjdjdjdjdjdjpSpSdnrdrddndndndndnZBrdrddjohdjdjdjdjdjdjohqudnsWZBdnZBiUiUiUiUYSdndndndndndndndndndnrdindnbDuPbDbDbDlNurbDPJlDbDQQindnFOohxleE
-AzAzAzStStStAzAzLTAzdjdjdjmWqHmWzMqHzMdndndnpSdnpSdjdjdjdjdjdjdjdjdjdjdjdjdnohdndnohZBdndnrddnrddndjdjdjdjdjdjdjdjdjpSdndndnpSdndniUiUiUdnpSdnohdndnohdndndnohdnUXdnbDHKbDsJbDbPbPbDbPbPbDQQkVQQdndnxleE
-AzAzAztZStSttZAzAzAzdjdjdjdjdjMMdjdjdjohohpSdjdjdjdjdjdjdjdjdjdjxlxlxldjdjdjdjmWpSmWdnrdrddncEdjdjdjdjdjdjdjdjdjdjdjdjpSrddndndnpSiUiUxlxlxlxldndndndndnrddndndnUXdnbDHKHKHKuPbPbPuPnitRbDdnwbQQdnpSxleE
-AzAzAztZStSttZAzAzAzxlxlxlxldjdjdjdjdjdjdjdjdjdjdjdjdjdjdjdjxlxlxldjdjdjdjdjdjuNdjuNfedjdjdjfedjdjdjdjdjdjdjdjdjdjdjdjdjdnrdZBpSdniUiUxlxlxlxlxlxlxldnohdnrdxlxlindnbDGwvJvJbDHvHvbDbDbDbDpSinrdohdnxleE
-AzAzAzAzStStAzAzAzAzxlxlxlxlxlxldjdjdjdjdjdjdjdjdjxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxldjdjdjxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlbDbDbDbDxlxlxlxlxlxlxlxlxlxlxlxlxleE
-AzAzAzAzAzAzAzAzAzAzxlxlxlxlxlxlxlxldjdjxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxlxleE
+oRoRoRoRoRoRdjoRdjoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoR
+oRdjdjdjdjdjdjdjdjdjdjdjdjdjKBKBKBXlXlKBinindvinininininininXlKBXlKBKBMMKBpSKBKBKBKBKBKBKBMMKBzMKBKBkNkNkNKBKBKBKBMMKBzMKBKBOIKBKBKBKBMMKBKBKBKBKBKBKBKBKBKBzMKBohohNGohyrohohNGohoRoRoRoRoRoRoRoRoRoRoR
+oRdjdjdjdjdjdjujKBXlKBMMvuKBXlKBXlKBKBKBinZgPNPNnGPNPNPNiWinKBKBKBKBKBKBXlpSMMKBKBKBKBzMKBKBKBzMkNkNkNkNkNkNKBMMKBKBKBKBKBKBKBKBKBMMKBKBzMKBKBzMKBKBKBKBzMKBKBKBzMKBKBKBKBKBzMKBKBKBpBpBKBoRoRoRoRoRoRoR
+oRdjdjdjdjKBKBKBKBKBKBKBvuKBKBXlKBXlKBKBnVPNYvsmrTrTZXivPNinXlKBXlKBKBKBKBpSKBKBKBXlKBKBXlKBKBkNkNkNkNkNkNkNKBKBKBKBKBKBKBzMKBMMKBKBKBKBKBKBKBKBKBKBzMKBKBKBUNKBKBKBKBXlKBKBKBKBKBKBKBKBKBKBKBoRoRoRoRoR
+djdjdjdjKBMMnFKBKBOIXlKBvuKBXlKBXlKBXlKBinPNnqTlrTrTGRdJPNinKBXlKBKBXlKBKBpSKBKBMMKBKBKBKBKBKBkNkNkNkNkNkNkNkNKBKBKBMMKBKBKBKBeMKBKBKBKBKBMMKBKBKBKBKBzMKBKBXlKBKBKBeMKBKBKBXlKBpBKBKBKBpBKBKBKBoRoRoRoR
+djdjdjdjXlKBayayayayKBininininininininininPNPNPNPNPNPNPNPNinKBKBXlKBKBKBKBpSKBKBKBKBKBMMXlKBkNkNkNkNMMKBkNkNkNkNKBKBKBKBKBKBzMKBMMKBMMXlKBKBKBzMKBKBKBKBKBKBKBKBzMKBKBKBpBKBKBOIKBKBKBKBKBKBKBKBKBoRoRoR
+djdjdjdjKBKBayayayayKBinhquPhYobzZhqininininkPinininininininKBKBKBKBXlXlKBpSKBKBKBKBKBKBKBKBkNkNkNKBKBKBkNkNkNkNKBKBKBKBzMKBKBKBKBKBKBKBKBKBKBKBKBMMKBKBUNKBKBKBKBMMKBKBKBKBKBKBKBKBXlKBKBpBKBKBKBKBoRoR
+djdjdjdjKBMMayayayayMMinhqinhYhYhYhqinKBMMinhqinhqLrLrhqIFinKBMMKBMMKBKBKBpSKBXlKBMMKBKBKBKBkNkNKBzMKBKBKBkNkNkNkNMMKBKBKBKBKBKBKBKBKBKBzMMMKBMMKBKBXlKBKBzMKBKBKBKBKBzMUNKBXlpBKBKBmWmWmWKBKBpBKBKBoRoR
+djdjdjdjOIKBayayayayKBinckinEjRnghhqinKBKBinhqinhqmffthqTdinKBKBXlKBKBKBXlpSKBKBKBKBMMzMKBkNkNkNMMKBXlKBMMkNkNkNkNKBKBKBKBKBMMeMKBKBXlKBKBKBMMKBOIKBeMKBeMKBMMMMKBKBKBKBKBKBKBKBKBmWKBKBUNKBKBKBKBKBoRoR
+djdjdjdjdjKBKBKBKBXlKBinmWininininininMMXlinhqhqhqhqhqhqhqinKBKBKBKBXlKBKBpSKBKBMMKBKBKBKBkNkNkNKBKBKBKBKBkNkNkNkNKBKBKBzMKBKBKBMMKBKBKBMMKBKBKBKBKBKBKBMMKBKBKBKBKBKBKBXlmWmWmWKBKBKBKBKBKBpBKBKBKBKBoR
+djdjdjdjdjMMKBXlKBmWmWsYmWKBKBMMKBKBinvuvuininininckckinininvuvuvuvuvuvuvuenKBKBKBOIKBKBUPkNkNkNUPzMKBMMKBKBUPkNkNUPKBeMKBUNKBKBKBKBKBeRKBKBKBMMKBKBKBKBUNKBKBKBXlKBzMKBKBKBKBKBKBKBXlKBXlKBKBKBKBKBKBoR
+djdjdjdjdjKBKBKBinckinKBmWmWUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIbkKBmWmWmWmWmWKBmWmWmWbDbDbDmWWqmWmWKBmWmWbDbDmWmWmWKBKBMMKBKBOIKBKBKBKBKBKBKBOIKBKBMMKBKBzMKBKBKBpBmWKBKBKBKBKBKBKBKBKBKBXlKBKBKBoR
+oRdjdjdjdjKBKBMMinhqinKBMMXlUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIUIbkKBKBmWmWmWmWmWmWmWmWbDbDbDWqmWKBKBmWKBmWbDbDmWmWmWmWKBmWmWmWKBzMKBXlKBKBKBzMKBzMKBKBKBOIKBKBKBKBKBmWKBKBXlKBpBKBpBKBKBKBKBKBKBKBoR
+oRdjdjdjdjOIKBKBinhqininininUIUIinininckinininKBKBUIUIUIKBKBinininohKBKBKBKBKBKBKBKBKBKBUPkNkNkNUPKBKBKBKBMMUPkNkNUPKBKBzMKBmWKBUNmWKBKBKBKBKBMMKBKBKBKBKBKBKBKBOIKBzMKBmWOIKBUNKBKBKBKBKBKBpBKBKBKBKBoR
+djdjdjdjdjdjXlKBinhqRnghoPinUIUIinMKytbPythqinzMininUIUIininintlininKBOIKBXlKBXlKBKBKBKBMMkNkNkNKBKBXlKBMMkNkNkNkNKBKBKBKBmWKBzMKBmWmWKBKBqwzMKBMMeRKBXlKBKBKBKBKBKBKBKBKBmWKBKBKBKBKBKBUNpBKBKBKBpBKBoR
+djdjdjdjdjdjKBKBinhqhqhqhqinUIUIinMKHBbPytMKinKBinLGPbPbXcinYshqIXinKBKBKBKBKBKBKBKBKBMMKBkNkNkNkNKBKBXlKBkNkNkNkNKBKBKBKBmWKBKBKBKBKBmWmWKBKBKBKBMMKBKBMMKBXlKBKBOIKBUNUNmWKBOIKBUNXlKBKBKBKBKBKBKBKBoR
+djdjdjdjdjdjKBMMinbPYfYfbPinUIUIinhqbPbPbPhqinKBinUDPbPbtoinLqHJhqinKBKBKBOIKBKBzMKBXlKBKBMMkNkNkNkNMMKBkNkNkNkNkNKBKBMMKBmWMMKBKBKBUNzMmWUNmWmWmWUNKBKBKBKBKBKBzMKBOIKBKBpBKBKBKBKBKBKBKBKBKBXlKBKBKBoR
+djdjdjdjdjdjMMKBinbPbPbPbPinUIUIinhqVKghqZhqinKBininuPuPininininuPinKBXlKBKBzMKBKBKBKBKBMMKBkNkNkNkNkNKBkNkNkNkNKBKBKBKBKBKBKBMMKBzMKBKBKBXlKBKBmWmWKBMMKBzMKBKBKBeMmWmWOIKBKBKBzMKBUNKBKBMMKBKBOIKBKBoR
+oRdjdjdjdjdjKBKBinBDvWugnfinUIUIinhqMKhqhqhqinKBinhqhqhqsbinZIopbPinKBKBMMKBKBMMKBMMKBKBKBKBKBKBkNkNkNkNkNkNkNkNMMKBKBKBKBeMMMKBzMKBMMKBKBKBKBKBKBKBmWKBKBKBKBMMKBKBKBKBKBKBKBKBUNOIXlKBKBKBKBKBKBKBKBoR
+oRdjdjdjdjdjdjKBininininininUIUIinininininininKBinRNxnhqhqinbPbPbPinKBKBeMKBKBKBKBKBKBKBKBXlKBMMMMkNkNkNkNkNkNkNKBKBKBKBzMKBoRoRoRoRoRzMKBKBKBKBKBKBmWmWzMKBMMKBKBKBUNKBKBzMKBKBKBKBKBKBMMMMKBKBKBKBMMoR
+oRdjdjdjdjdjdjKBKBOIKBKBKBMMUIUIKBKBKBKBKBOIKBzMinbPbPhqhquPbPvWuginKBKBKBKBKBMMKBKBKBMMKBKBKBKBKBKBKBkNkNkNkNkNKBMMKBKBKBKBoRoRoRoRoRoRMMKBzMKBOIKBMMmWKBUNKBKBMMKBKBKBOIUNKBXlKBKBKBKBKBKBKBKBKBKBKBoR
+oRdjdjdjdjdjdjOIKBKBKBKBKBKBUIUIXlKBMMmWmWKBKBKBininininininininininKBKBKBKBKBKBKBKBKBKBKBKBOIKBKBKBMMKBkNkNkNkNKBKBMMKBKBzMoRoRoRoRoRoRoRzMKBKBKBUNKBqwKBmWKBvmKBKBKBKBKBKBKBKBKBXlKBKBKBzMKBKBKBMMKBoR
+oRdjdjdjdjdjdjdjKBKBXlMMOIKBUIUIKBKBKBKBKBmWMMKBKBKBMMKBKBKBMMKBKBKBKBKBzMKBKBMMKBMMKBKBKBKBKBXlKBKBKBkNkNkNkNKBKBKBKBMMzMoRoRoRoRzMMMoRoRoRKBzMMMKBKBKBmWmWKBKBKBMMKBXlKBKBKBMMKBKBKBMMKBKBKBzMKBKBMMoR
+oRdjdjdjdjdjdjdjMMKBKBKBKBKBmWKBKBKBMMMMKBmWKBKBKBXlKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBXlKBKBKBKBKBzMkNkNkNkNKBKBMMKBoRoRoRoRoRzMKBKBKBoRoRoRKBKBKBKBKBKBmWmWKBzMKBKBKBOIKBKBKBKBKBKBKBKBKBKBKBKBKBKBoR
+oRdjdjdjdjdjdjdjKBKBKBMMKBKBmWmWOIMMKBKBKBmWmWmWKBKBKBKBKBKBKBKBKBMMzMKBXlzMMMKBKBKBKBKBKBzMKBKBKBKBKBkNkNkNkNzMKBKBKBoRoRzMKBKBKBMMKBMMoRoRoRKBKBzMKBXlKBzMmWmWKBXlOIKBKBKBzMKBKBKBOIKBKBOIKBKBKBKBOIoR
+oRdjdjdjdjdjdjdjdjOIKBKBXldnmWKBKBKBKBKBKBXlmWmWmWmWKBMMKBzMKBKBKBKBKBKBKBKBKBKBKBMMKBKBKBKBKBXlKBzMMMkNkNkNkNKBKBKBzMoRXlKBKBzMKBKBOIKBoRoRoRMMKBKBKBKBKBKBKBKBmWKBeMKBKBKBKBKBMMKBKBzMKBUNKBXlKBMMKBoR
+oRdjdjdjdjdjgekNkNkNkNkNKBUPbDbDUPMMOIKBKBKBKBKBKBmWmWKBKBKBOIMMKBKBKBKBKBKBKBKBMMKBKBKBMMKBKBKBKBKBKBkNkNkNkNKBKBKBKBKBZaZaRLZaZaphZaZaXlkKoRKBMMzMMMKBKBKBXlKBmWmWKBKBKBKBKBXlKBzMKBKBKBKBKBKBKBKBKBoR
+oRdjdjdjdjdjgekNkNkNkNkNkNkNbDbDXlKBKBKBzMKBOIKBKBKBmWmWKBKBKBKBKBMMKBKBKBKBKBKBKBKBKBeMKBKBKBKBKBMMkNkNkNkNkNMMKBKBKBzMKBKBKBKBKBKBKBKBKBzMoRoRoRKBKBzMKBKBKBKBKBmWKBXlKBzMKBKBKBKBKBKBMMKBKBKBKBKBKBoR
+oRdjdjdjdjKBKBKBKBKBMMkNkNkNbDbDkNKBMMKBKBMMKBKBMMXlKBmWmWmWKBKBKBKBKBXlKBzMXlMMKBKBKBKBKBMMKBKBzMkNkNkNkNkNkNKBzMKBMMKBKBMMzMKBKBKBXlKBMMKBoRoRoRoRKBKBMMKBKBvmKBXlKBKBKBUNzMKBKBKBMMKBKBKBXlKBzMKBzMoR
+oRdjdjdjdjMMKBzMKBKBKBKBMMkNbDbDkNkNkNKBKBKBKBzMKBKBKBKBKBmWKBOIKBKBKBKBKBKBKBKBeMKBKBKBKBKBKBKBkNkNkNkNkNkNkNkNKBKBKBKBKBKBKBKBMMKBKBKBKBKBoRoRoRoRMMKBKBzMXlKBzMKBmWKBKBKBKBKBKBOIKBKBKBKBKBKBKBKBKBoR
+oRdjdjdjKBKBKBKBKBMMKBKBKBUPbDbDUPkNkNkNkNkNkNkNkNkNKBKBXlKBMMKBKBXlKBKBKBKBKBKBKBMMKBXlKBKBzMkNkNkNkNkNkNkNkNkNkNzMKBKBKBKBKBKBKBzMMMKBzMmWmWoRoRoRKBKBKBKBKBUNKBKBmWvmKBKBKBKBzMKBKBKBOIKBKBKBKBzMoRoR
+djdjdjdjKBKBKBKBzMKBKBOIKBKBmWKBKBkNkNkNkNkNkNkNkNkNkNkNKBKBKBKBmWmWKBKBXlKBKBKBzMKBKBKBKBKBkNkNkNkNkNkNKBkNkNkNkNkNkNzMKBKBKBKBKBKBKBKBKBmWmWwboRoRMMzMKBKBKBKBKBOImWKBOIKBXlKBKBMMKBzMKBKBzMKBKBKBoRoR
+djdjdjKBzMKBOIOIKBKBMMKBKBKBKBKBKBKBOIMMKBKBOIXlkNkNkNkNkNkNKBzMKBKBKBKBKBKBOIMMKBKBKBKBKBzMkNkNkNkNKBKBKBkNkNkNkNkNkNkNkNzMXlKBKBKBKBKBmWmWwbwboRoRoRoRMMKBKBzMlhKBXlmWqwKBKBOIKBKBKBKBKBzMKBKBOIKBoRoR
+djdjdjKBKBKBKBKBKBKBKBirKBOIKBmWKBqwKBKBKBKBKBKBMMkNkNkNkNkNKBKBKBXlKBmWKBMMKBKBKBKBKBKBKBkNkNkNkNKBXlKBKBkNkNkNkNkNkNkNkNkNKBKBKBKBKBmWmWwbwbwboRoRoRoRoROIKBKBKBKBzMmWmWmWKBKBKBlhKBKBKBKBMMKBKBoRoRoR
+djdjKBOIKBMMKBKBzMXlKBKBUNKBKBmWKBKBMMKBKBKBKBKBKBKBkNkNkNkNkNkNKBMMKBKBmWKBKBKBMMKBXlKBMMkNkNkNKBKBKBKBKBkNkNMMOIiUkNkNkNkNkNKBKBKBKBmWgYwbwbwbwboRoRoRoRoROIKBMMKBKBKBmWmWKBKBKBKBMMKBzMKBKBzMKBoRoRoR
+djdjKBKBKBKBKBKBKBKBKBKBOIKBKBKBKBKBKBzMKBOIKBXlKBKBKBMMkNkNkNkNKBKBzMKBmWKBKBzMKBKBKBKBkNkNkNKBKBKBKBKBKBkNkNKBKBOIkNkNkNkNkNMMKBKBXlKBKBwbwbwbKcoRoRoRoRoRoRMMKBKBOIKBqwmWmWKBlhKBKBKBKBKBKBKBoRoRoRoR
+djdjzMKBKBXlMMKBKBKBzMKBKBKBOImWmWKBKBKBKBeMMMKBzMKBKBKBKBMMkNkNkNkNKBXlxlxlKBKBKBKBKBKBkNkNkNKBKBKBKBKBkNkNkNOIMMKBkNkNkNkNkNiUXlKBKBKBKBXlwbwbwbwbwbwboRoRoRoRKBKBKBKBKBmWmWKBKBeRKBMMKBKBOIoRoRoRoRoR
+djdjKBKBzMirKBKBKBMMKBOIKBKBKBKBmWXlKBKBKBKBKBKBKBKBzMKBKBKBKBkNkNkNxlxlEAKBxlKBKBzMOIKBkNkNkNkNKBKBkNkNkNkNKBKBKBKBMMkNkNkNkNiUiUKBMMKBKBKBKBwbwbwbwbwbwboRoRoRKBMMKBOIXlKBKBmWKBKBqwKBKBMMoRoRoRoRoRoR
+djdjKBKBKBKBKBKBzMKBKBKBKBXlKBKBKBKBKBKBzMKBKBKBKBKBKBKBzMKBKBkNkNkNxlKBEAKBxlKBOIKBKBMMkNkNkNkNkNkNkNkNMMKBKBKBKBOIKBMMkNkNkNiUiUKBKBKBXlKBMMwbwbhTwbwbwboRoRoRMMKBKBKBKBOIKBmWmWKBKBKBzMoRoRoRoRoRoRoR
+djdjzMKBMMKBKBKBKBKBKBKBKBKBKBKBKBKBmWKBKBKBXlKBzMKBKBKBKBKBMMkNkNkNcyKBxlKBxlKBKBKBMMKBkNkNkNkNkNkNkNkNKBKBzMzMKBKBKBKBMMiUiUiUiUiUKBKBKBKBKBoRwbwbwbwboRoRoRoRKBKBOIKBKBKBKBKBmWKBmWKBKBoRoRoRoRoRoRoR
+djdjKBKBKBqwOIKBKBKBzMMMKBzMKBXlMMKBmWOIKBKBKBKBzMKBKBKBKBXlKBkNkNkNKBxlEAXlxlQoKBzMKBkNkNkNkNkNiUKBKBMMKBMMKBKBKBKBzMKBKBKBiUiUiUiUKBMMKBzMoRoRoRoRoRoRoRoRoRoRKBKBKBzMKBKBKBOIKBmWmWXlKBoRoRoRoRoRoRoR
+djdjKBKBKBzMKBKBXlKBKBKBKBirKBKBKBKBmWKBKBKBKBKBnPKBKBKBOIKBkNkNkNkNzMmWEAxlxlKBKBKBKBkNkNkNkNKBzMKBzMKBzMKBKBKBMMKBKBMMKBMMiUiUiUiUiUKBMMKBoRoRoRoRoRoRoRoRKBKBKBMMKBKBKBKBKBKBKBmWmWmWWAfyxkHsoRoRoRoR
+djdjdjzMKBKBKBKBKBMMKBKBKBzMKBKBKBmWmWKBKBXlKBKBKBKBzMKBKBKBkNkNkNMMKBmWKBKBKBKBKBKBkNkNkNMMKBKBKBKBKBKBKBMMKBKBKBpCKBKBKBKBiUiUiUiUiUKBKBKBXlohKBKBKBKBKBKBKBOIeMKBKBKBKBzMKBKBKBKBKBMMTBfyxkHslAoRoRoR
+djdjdjKBOIKBKBKBKBKBMMKBKBKBOIKBXlmWKBKBzMKBKBKBKBKBKBMMXlkNkNkNkNkNKBKBKBKBKBXlKBKBkNkNkNKBXlKBKBMMKBzMMMKBKBKBKBKBKBMMMMKBiUiUiUiUiUzMXlKBKBohKBKBMMKBOIKBKBKBKBKBKBKBMMKBKBKBMMKBjgmiKexkxkfyyNoRoRoR
+djdjdjKBKBKBnPKBOIKBKBrfKBKBKBKBKBKBKBKBzMKBKBOIKBkNkNkNkNkNkNkNkNkNkNbDKBzMMMKBKBkNkNkNkNKBKBKBMMKBKBKBpCKBKBKBKBKBKBOIKBKBXliUiUiUiUiUKBMMKBohKBKBKBKBKBKBKBMMOIKBMMKBKBKBKBzMKBOIKBjgTBHsfyfyoRoRoRoR
+djdjdjOIKBXlKBzMKBKBKBKBKBKBKBKBzMKBKBKBKBKBMMKBkNkNkNkNkNkNkNkNkNkNkNbDbDkNKBkNkNkNkNkNKBMMKBKBKBKBKBMMKBKBXlKBKBXlKBKBKBMMKBiUiUiUiUiUKBKBKBujKBKBKBKBKBMMKBKBKBKBKBXlKBpCKBKBKBKBKBGfbxoRoRoRoRoRoRoR
+djdjdjdjOIKBKBKBKBXlKBKBKBKBOIzMKBmWmWKBKBKBKBKBkNkNkNkNkNkNkNkNkNkNkNbDbDkNkNkNkNkNkNkNKBKBMMKBKBzMKBKBKBKBKBKBOIKBKBKBKBKBMMzMiUiUiUiUMMKBKBohKBMMKBKBpCKBKBKBKBMMKBKBKBKBKBKBKBKBXlmWmWoRoRoRoRoRoRoR
+djdjdjdjKBKBKBKBKBnPKBKBzMKBKBKBKBmWmWKBzMKBKBMMkNkNkNkNkNkNkNkNkNkNkNbDlUkNkNkNkNkNkNKBMMKBKBKBKBKBKBKBKBKBKBKBKBnPKBKBMMKBKBKBiUiUiUiUKBKBKBohMMKBKBXlKBKBKBKBKBKBKBKBKBKBKBzMKBKBmWmWMMoRoRoRoRoRoRoR
+oRdjdjdjdjKBzMKBirKBKBKBKBKBKBKBKBOImWKBKBOIKBkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNMMzMKBKBKBXlKBKBKBXlKBKBzMKBKBKBOIKBeMKBKBMMKBiUiUiUiUKBMMohKBMMKBMMKBKBKBXlKBKBzMKBMMKBKBKBMMmWKBmWKBKBoRoRoRoRoRoR
+djdjdjdjdjOIKBKBKBKBzMKBzMKBMMXlKBKBmWKBKBKBKBkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNKBKBKBKBKBnPKBKBMMXlKBKBKBKBpCKBKBKBKBKBKBKBKBKBiUiUiUiUKBKBohpCKBKBKBKBzMKBKBMMKBKBKBKBMMKBeRKBKBKBKBKBMMoRoRoRoRoRoR
+oRdjdjdjdjdjKBKBKBKBKBKBKBKBKBKBKBmWmWXlKBKBkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNzMMMKBKBXlKBMMKBKBKBKBnPKBKBKBKBKBKBzMKBKBKBKBMMiUiUiUiUOIKBohKBKBKBKBMMKBKBpCKBKBKBMMKBKBKBKBmWmWKBOIKBKBzMoRoRoRoRoR
+oRdjdjdjdjdjKBKBMMKBkYKBKBKBeMKBOIsYmWKBkYKBkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNKBKBMMKBKBKBKBKBKBKBKBKBKBKBnPOIKBKBKBKBKBXlKBKBKBiUiUiUiUKBohXlKBKBKBKBKBKBKBKBMMKBKBKBXlMMKBmWKBKBKBMMKBKBKBoRoRoRoR
+oRdjdjdjdjdjOIKBKBKBzMKBKBKBKBKBeRmWmWKBKBzMkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUKBKBKBKBKBKBMMKBKBKBKBXlKBKBKBKBKBKBKBKBKBKBKBzMKBiUiUiUOIohKBKBOIXlKBKBKBKBKBKBKBKBKBKBKBmWKBKBKBKBKBKBKBzMoRoRoRoR
+oRdjdjdjdjdjKBKBKBzMKBKBKBXlKBKBskmWmWKBKBKBKBkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUzMKBzMKBKBMMKBKBKBXlKBKBKBKBKBKBKBXlKBKBKBKBKBKBXliUiUiUKBohKBOIKBKBKBKBKBzMKBpCzMKBeRmWmWKBXlKBKBMMKBKBKBKBoRoRoRoR
+oRdjdjdjdjdjMMzMKBKBKBKBXlKBzMKBKBmWKBKBeRKBzMkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUiUMMKBOIzMKBKBKBKBKBMMKBKBKBXlKBKBKBKBKBKBKBMMKBKBiUiUiUKBohKBKBKBKBzMMMKBKBKBKBKBKBKBmWXlKBKBKBKBKBMMKBzMMMKBoRoRoR
+oRdjdjdjdjdjKBMMKBnPMMMMKBKBKBmWmWeRKBzMirKBKBkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUiUiUiUiUKBMMKBXlKBKBKBKBKBKBKBKBOIKBMMKBMMKBKBMMMMzMiUiUKBujKBKBMMKBKBKBKBKBKBXlKBMMKBKBKBKBKBMMKBKBKBMMKBKBKBoRoRoR
+oRdjdjdjdjKBKBKBMMKBKBKBKBMMKBmWzMKBKBKBKBKBKBzMkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUiUiUiUiUiUiUiUKBMMzMKBOIKBzMKBKBKBKBKBKBKBKBKBKBKBKBiUiUKBohKBOIKBKBKBKBKBKBvmKBmWmWKBMMKBMMKBKBKBzMKBKBMMKBzMoRoRoR
+oRdjdjdjKBKBMMKBKBKBzMKBMMmWKBmWKBKBKBKBKBKBMMKBkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUiUiUiUiUiUiUiUiUiUiUMMKBKBKBKBKBKBKBeMKBKBKBKBKBKBMMiUiUOIohMMKBKBKBzMKBXlKBKBmWmWKBKBKBKBKBKBKBKBKBKBKBKBKBKBMMoRoR
+oRdjdjdjKBMMKBXlvrKBKBOIKBQQmWKBKBeRKBMMKBzMKBKBKBkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNkNiUiUiUiUiUiUiUiUiUiUiUiUiUzMKBKBXlKBKBKBKBKBKBKBMMKBUPiUiUUPohKBKBKBmWmWmWmWmWmWmWMMKBmWlhMMKBzMKBKBMMKBzMKBzMKBKBoRoR
+oRdjdjdjMMKBMMKBKBKBeRKBmWmWmWlhKBMMUNKBKBKBKBOIKBKBKBMMkNkNkNkNkNkNkNkNkNkNkNkNkNkNXlKBOIKBKBKBiUiUiUiUiUiUKBKBKBKBKBMMmWmWKBXlmWmWmWbDbDbDbDohKBmWmWmWmWmWmWmWeRKBKBvmmWKBKBMMKBKBOIKBMMKBKBKBKBKBoRoR
+oRdjdjKBKBMMpIKBKBKBKBKBKBmWKBKBKBKBKBirKBeRKBKBKBKBKBKBKBMMKBkNkNkNkNkNkNkNkNkNkNKBKBMMKBKBOIKBKBOIdniUiUiUKBMMKBKBmWKBKBKBmWmWmWmWmWbDbDbDbDohmWmWmWmWmWXlKBzMKBMMKBKBKBmWKBKBKBKBKBKBeMKBMMKBKBXloRoR
+djdjcEMMKBKBKBKBKBMMXlKBKBKBKBKBKBKBMMKBKBKBKBKBKBOIMMKBKBKBKBKBKBXlKBKBKBKBKBOIKBKBKBKBKBKBKBMMOIKBKBUPiUiUUPmWmWmWKBOIKBKBKBKBKBKBKBUPiUiUUPohKBKBMMKBKBKBKBKBKBKBMMKBKBmWKBKBKBKBKBKBKBKBKBKBMMKBoRoR
+djdjzMKBzMKBUPbDakUPKBzMKBKBKBKBzMKBKBXlKBKBXlKBOIKBKBKBXlKBMMKBKBKBKBzMKBzMMMKBKBXlKBMMKBOIKBKBKBmWmWbDbDbDbDmWKBKBKBKBKBXlKBKBMMMMKBMMiUiUwWohKBKBKBKBKBKBKBMMKBKBKBKBMMKBKBKBKBzMKBKBKBKBKBKBKBKBoRoR
+djdjdjKBKBXlUPbDojUPKBKBmWmWXlKBKBKBKBKBKBzMKBKBKBeMKBKBKBKBKBzMKBOIXlKBKBKBKBKBOIKBKBKBKBKBKBKBmWmWmWbDbDbDbDMMzMKBMMKBzMKBKBKBKBKBKBiUiUiUKBohMMKBMMKBzMKBKBKBKBKBMMKBKBKBXlKBKBKBKBzMKBMMzMKBKBKBoRoR
+djdjdjMMMMKBUPUPUPUPKBMMmWmWmWOIKBKBMMKBeRKBKBMMKBOIKBOIKBMMXlKBcFKBKBMMKBKBeRKBKBMMKBKBKBmWmWmWKBKBKBUPiUiUUPKBKBMMKBKBKBKBMMKBKBKBKBiUiUKBKBohKBKBKBOIKBMMKBKBKBKBKBKBKBmWmWMMKBKBKBKBKBKBKBMMKBMMoRoR
+djdjdjdjKBKBKBKBMMOIXlKBzMXlKBmWmWXlKBKBKBKBOIKBUNKBMMKBKBKBmWmWmWKBKBKBOImWmWmWmWmWmWmWKBKBXlKBKBKBXlKBiUiUzMKBKBKBKBzMKBMMKBKBzMXliUiUiUKBKBujKBKBKBeMKBKBKBzMKBKBKBKBOIKBmWKBKBKBKBKBKBKBKBKBKBKBoRoR
+djdjdjdjzMMMzMOIKBKBKBKBKBKBKBKBKBmWKBeMmWKBKBOIKBXlKBKBKBmWKBQQmWmWmWmWmWmWmWKBauKBKBKBKBKBKBKBKBKBKBMMiUiUiUMMKBKBKBKBKBKBKBMMKBKBiUiUOIKBKBohKBMMKBKBKBKBKBKBKBzMMMKBKBKBsYmWKBKBzMKBKBKBOIKBMMKBoRoR
+oRdjdjdjdjKBKBKBMMKBKBKBKBKBKBXllhmWmWmWmWmWKBKBKBKBeRmWmWmWKBKBKBKBKBXlKBmWKBKBKBXlKBKBKBKBXlOIKBOIKBKBMMKBiUiUKBzMKBKBKBKBKBKBKBiUiUiUKBKBzMohKBKBKBKBKBKBKBMMKBKBKBKBKBKBmWmWKBMMKBKBXlKBKBKBKBMMoRoR
+oRdjdjdjdjKBMMMMKBKBMMzMMMKBMMKBKBKBKBKBeRmWmWKBmWKBKBmWKBXlMMKBmWMMKBKBKBKBOIKBKBKBKBKBKBKBKBKBKBKBKBKBKBMMiUiUiUKBKBKBKBMMKBMMiUiUiUiUKBOIKBohMMKBKBMMKBzMKBKBKBKBKBKBzMKBmWXlKBKBKBMMKBKBKBKBKBKBWPoR
+djdjdjdjdjdjdjKBzMMMKBKBMMzMKBMMzMMMKBKBMMXlOIBmmWmWmWKBKBKBKBKBmWKBKBKBOIdjdjKBOIKBMMOIXlKBKBMMKBKBKBzMKBKBKBiUiUKBzMKBKBKBeMKBiUiUiUKBKBKBKBoheMKBKBKBKBKBKBKBKBOIKBKBKBKBmWKBKBKBKBKBKBKBMMKBXlKBoRoR
+oRdjdjdjdjdjdjdjdjdjdjdjdjdjKBKBdjdjKBMMKBKBKBKBrdXlKBKBOIKBXlmWmWKBKBzMdjdjdjdjKBMMKBKBKBMMKBKBKBKBKBKBKBKBMMiUiUiUiUXlKBKBKBiUiUiUiUKBKBMMKBohKBKBOIKBKBKBOIKBzMKBKBKBKBOImWKBKBKBzMKBMMKBKBKBKBKBoRoR
+oRoRdjoRoRoRdjoRoRoRdjdjoRdjdjdjdjdjdjdjdjOIdjdjdjKBOIKBKBeMmWmWmWOIMMKBdjdjdjdjdjdjdjKBMMKBOIKBKBOIKBMMOIKBKBXlKBiUiUiUzMKBMMiUiUiUKBKBKBKBKBohKBKBKBzMKBMMKBKBKBKBKBKBKBKBmWmWKBMMKBKBKBMMKBzMKBMMoRoR
+djoRdjoRdjoRoRoRoRdjoRoRoRoRoRoRoRdjdjdjdjdjdjdjdjdjKBOIKBMMmWmWmWKBKBKBdjdjdjdjdjdjdjdjKBMMKBMMMMKBMMKBKBzMKBKBdnusiUiUiUKBiUiUiUiUOIKBKBKBKByrKBKBKBKBKBKBKBMMKBKBKBzMMMKBmWmWKBKBKBKBKBKBKBKBKBKBoRoR
+oRoRdjoRoRAepRouAzAzvHtZoRoRoRoRoRoRoRoRdjdjdjdjdjdjMMKBKBKBKBmWXlKBzMKBdjdjdjdjdjdjlCdjdjdjdjdjKBdjdjdjdjdjdjdjdjdjcWiUiUiUiUiUiUKBKBMMKBKBMMohKBKBKBKBKBKBeMKBKBKBKBKBKBKBmWmWKBKBzMKBKBKBKBKBKBMMoRoR
+oRoRdjoRoRAzAzAzrGwbwbwbwbGyoRoRoRoRoRoRoRdjdjdjdjdjdjdjMMKBKBmWKBeMKBMMKBMMOIKBuNdjdjdjdjdjdjdjdjdjdjdjdjdjdjdjdjdjdjiUiUiUiUiUKBOIKBKBKBKBKBohKBzMKBOIMMeMKBKBzMKBMMKBKBKBXlmWKBKBKBzMMMKBKBzMKBKBoRoR
+oRdjdjAzAzoRoRAzwbcwwbwbwbwbwboRoRoRoRoRoRoRoRdjdjdjdjdjKBMMmWmWKBKBKBKBzMKBKBMMKBOIdjdjdjdjdjdjdjKBdjdjdjdjdjdjdjdjdjiUiUiUiUiUKBKBKBKBKBzMKBohKBKBKBKBKBKBKBKBKBMMKBKBKBMMKBKBMMKBKBKBKBKBKBKBMMzMoRoR
+oRoRdjAzAzoRAzcwwbwbwbwbwbwbwbwbujoRoRoRoRoRoRdjdjdjdjdjKBKBmWKBKBXlKBMMKBKBKBKBKBKBMMOIdjdjdjKBKBzMKBdjdjdjdjdjdjdjKBMMiUiUiUiUiUKBKBKBMMKBKByrKBMMKBKBKBXlKBKBKBKBKBXlKBKBKBKBKBKBKBMMKBKBzMKBKBKBoRoR
+djoRAzvHAzAzAzwbwbwbwbwbwbwbwbwbwbvoaQoKdjdjdjoRdjdjdjdjzMKBmWKBzMKBKBKBKBOIXlMMKBKBKBKBohdjdjdjOIKBMMdjdjZBfFQJZBdjdjKBiUiUiUiUiUMMKBKBKBKBKBohKBKBOIKBKBKBKBKBzMKBKBKBKBKBKBmWKBKBKBKBKBKBKBKBKBKBoRoR
+oRoRvHAzAzAzwbwbwbwbwbwbwbwbwbvopFvovoqHqHdjdjoRdjdjdjdjKBKBmWKBmWmWmWmWmWmWKBKBKBKBKBKBrdohdjdjKBKBKBzMZBKBdXTMKBetdjKBMMiUiUiUiUiUKBzMKBKBMMohMMKBKBKBKBMMKBKBKBKBKBKBKBKBKBmWKBXlKBKBMMzMKBKBKBOIoRoR
+oRoRAzAzAzAzAzwbwbwbiMoRGyoRoRvovovovovooKdjdjdjoRoRdjdjMMXlKBmWmWmWmWKBKBKBKBmWmWXlKBOIKBOIdjdjMMOIMMKBKBZBZBZBZBzMKBOIOIiUiUiUKBiUKBMMKBMMKBohKBMMKBKBzMKBKBOIKBKBKBzMKBzMKBmWKBKBKBMMKBKBKBzMKBKBoRoR
+oRAzAzwbAzwJwbwbAzAzoRoRoRoRoRujvooKvovoqHdjdjdjdjdjdjMMKBKBKBKBKBKBOIzMKBXlKBOIKBKBmWKBKBKBOIdjdjKBKBKBKBKBKBKBKBKBKBKBKBiUiUiUKBiUiUKBKBKBKBohKBKBKBKBKBKBKBKBKBKBKBKBKBKBXlKBmWKBzMKBKBKBKBKBKBKBoRoR
+oRvHwbwbAzwbwbAzvHoRoRoRoRoRGMoRvoaQoxqHohdjdjdjdjoRdjKBKBeMXlmWKBOIdjKBzMKBzMKBOImWmWKBKBMMKBKBdjKBMMXlmWKBKBKBKBKBzMXlKBiUiUiUOIiUiUiUKBMMKBKBKBKBKBOIKBKBMMKBKBXlKBKBMMKBKBKBmWKBKBKBKBKBzMKBKBOIoRoR
+oRAzAziMAzwbAztZoRoRoRoRoRoRoRoRvovooKohqHdjdjoRdjoRdjMMKBKBmWmWKBKBdjdjdjOIKBKBxlxlKBxlzMKBMMOIdjOIKBmWmWXldjdjdjOIKBKBMMKBiUiUKBKBiUiUiUKBKBzMKBXlKBKBKBKBKBKBKBKBKBKBKBKBKBOIKBmWKBzMKBKBKBKBMMKBoRoR
+oRAzAzAzAzwbwbAzoRoRoRoRoRdjdjmnvovooKpFHZdjdjoRdjdjdjohwWKBmWKBzMohzMujdjKBKBxlxlxlOIxlKBdjdjKBKBKBKBmWKBdjdjdjdjdjdjOIKBOIiUiUXlKBKBiUiUKBKBKBKBKBKBMMKBzMKBKBzMKBKBKBKBKBKBKBzMmWKBKBKBOIKBKBKBKBoRoR
+oRAzAzAzcwAzwbAzoRoRoRoRdjdjmnoKvopFvooKoKdjoRoRdjdjdjMMKBKBmWXlKBOIdjdjdjKBzMKBxlxlEAKBKBKBKBKBKBMMKBmWzMdjdjwbdjwbdjdjKBKBiUiUKBKBMMiUiUiUzMKBMMKBzMKBKBKBKBKBKBKBKBMMKBKBKBKBKBmWOIUNMMKBKBOIKBzMoRoR
+oRvHAzAzwbAzwbohAzoRoRdjdjqHoKoKpFvovotgdjdjdjdjoRdjdjohMMKBKBKBXlKBdjdjzMMMKBXlEAxlCWXlKBOIOIKBXlmWmWmWKBdjdjwbohwbwbdjdjKBiUiUMMKBKBMMiUiUKBKBKBKBKBKBKBKBzMMMKBKBKBKBKBzMKBMMKBKBKBmWmWmWmWqwKBKBoRoR
+oRAzvHAzaSwbwbvHAzoRoRdjmnoKoKoKpFvovooKnpdjdjdjoRdjMMwWKBmWKBohohohdjdjKBKBKBKBxlKBKBKBOIKBKBKBWTKBKBKBKBdjdjwbwbwbwbdjxwcEiUiUKBOIKBKBiUiUKBKBMMKBKBKBKBKBKBKBUPUXUXUXUPUXUXUXUPARUPUXUXUXUPmWeMKBoRoR
+oRAzAziMwbAzvHAzvHoRdjdjohoKpFvooKvoUboKohdjdjdjdjdjKBKBmWKBKBOIKBzMdjohKBKBKBOImWKBKBMMKBOIMMOIKBXlzMKBzMdjdjwbiGwbwbdjWCCOOIiUiUKBKBMMiUiUKBKBKBKBzMKBOIMMKBKBUXKBKBKBKBzMKBKBKBmWKBKBMMOIUXmWKBKBoRoR
+oRAzAzwbwbAzAzAzAzoRdjdjqHoKoKqHvovovooxpFqNMMohMMKBXlKBmWXlKBKBzMKBdjKBOIzMKBxlsFXlKBKBKBKBKBKBmWKBKBOIKBohdjwbohohwbdjquQxWCiUiUMMOIKBiUiUKBKBKBKBKBKBKBKBKBzMUXMMKBKBKBKBMMUNzMmWeRzMKBKBUXmWKBzMoRoR
+oRvHAzAzwbtZAzAzoRoRdjdjdjqHoKoKvovovooheMKBKBOIKBXlKBmWKBKBOIKBohKBdjKBKBKBOIxlmWmWMMKBOIKBKBmWmWKBKBKBOIdjdjwbwbwbwbdjidLySPiUiUKBKBKBiUiUKBzMMMKBMMKBKBKBKBKBUXKBininininininmWmWmWKBKBMMUXmWOIKBoRoR
+oRtZAzAzwbAzAzAzoRoRdjmnqHohoKoKvovovoujKBpCKBKBKBKBmWmWKBKBKBKBMMyrdjdjKBKBKBKBmWmWKBOIKBKBmWKBOIKBzMKBKBdjdjwbwbwbohdjdjWCsWiUiUiUOIMMiUiUKBKBKBKBKBKBKBKBKBKBUPKBinQkaMCghWwbmWkumWUNzMKBUPmWKBvmoRoR
+oRAzvvAzAzwbAzvHoRoRdjqHoKUbpFoKoKohvoKBKBmWySmWmWKBKBKBKBzMKBzMohohdjdjKBOIKBKBKBmWKBKBmWMMKBKBKBKBKBzMKBdjdjwbohohohyrdjzMJKiUiUiUKBKBiUiUKBKBKBKBKBzMKBKBMMzMUXKBincqbAwTinYCmWmWmWmWmWFOUXmWeMKBoRoR
+StjIvyPYPYvyvyvyStStdjoKoKoKohqHoKqHohKBKBKBohKBKBKBohzMMMKBMMKBdjdjdjdjzMKBKBKBMMKBMMmWKBKBKBKBKBKBKBKBOIdjdjecohKBWeKBfwmWKBquiUiUKBiUiUKBKBMMKBKBzMKBMMKBKBKBUXKBinininPAinqkYHYHYHYCinmWUXmWKBKBoReE
+StStStLYdGPYPEvyvyStdjgfujohyroKoKoKujKBXlKBMMKBOIohOIdjohdjdjuNdjdjdjdjKBKBOIKBKBKBKBKBOIKBKBKBXlOIKBOIdjdjdjdjKBsWKBKBmWKBWCKBiUiUiUiUiUKBzMKBMMKBKBKBKBKBKBKBUXzMintktkiwinininininininmWUXKBKBKBoReE
+StStStPYvyvyStZfZFStdjdjGMujohqHohoKohKBKBKBohKBKBMMdjdjdjdjdjdjdjdjdjdjMMMMKBOIOIKBKBKBKBKBXlOIOIdjzMdjdjdjdjdjdjzMquKBsWXlKBXliUiUiUiUYSKBKBKBKBKBKBKBKBKBKBOIUPKBinPAinininlNurinPJlDinmWUPKBFOzMoReE
+StStStPYPYPYStStHKStdjdjdjohqHohyrqHyrKBKBKBMMKBMMdjdjdjdjdjdjdjdjdjdjdjdjKBzMKBKBzMXlKBKBOIKBOIKBdjdjdjdjdjdjdjdjdjMMKBKBKBMMKBKBiUiUiUKBMMKBzMKBKBzMKBKBKBzMKBUXKBinruinsJinAKwTinwTAKinmWkVmWKBKBoReE
+StStStvyPYPYvyStStStdjdjdjdjdjujdjdjdjzMzMMMdjdjdjdjdjdjdjdjdjdjoRoRoRdjdjdjdjohMMohKBOIOIKBcEdjdjdjdjdjdjdjdjdjdjdjdjMMOIKBKBKBMMiUiUoRoRoRoRKBKBKBKBKBOIKBKBKBUXKBintkhqsuuPwTbPuPnitRinKBvumWKBMMoReE
+StStStvyPYPYvyStStStoRoRoRoRdjdjdjdjdjdjdjdjdjdjdjdjdjdjdjdjoRoRoRdjdjdjdjdjdjuNdjuNfedjdjdjfedjdjdjdjdjdjdjdjdjdjdjdjdjKBOIXlMMKBiUiUoRoRoRoRoRoRoRKBzMKBOIoRoRUPKBinGwkZvJinHvHvininininMMUPOIzMKBoReE
+StStStStPYPYStStStStoRoRoRoRoRoRdjdjdjdjdjdjdjdjdjoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRdjdjdjoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRininininoRoRoRoRoRoRoRoRoRoRoRoRoReE
+StStStStStStStStStStoRoRoRoRoRoRoRoRdjdjoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoRoReE
 "}
